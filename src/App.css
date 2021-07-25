@@ -26,7 +26,9 @@
   z-index: 2;
   position: absolute;
   color: orange;
-  top: -35px;
+  padding: 7px;
+  height: 100px;
+  top: -55px;
   border-radius: 50%;
   background-color: white;
   box-shadow: 0 15px 30px rgb(0 0 0 / 50%);
