@@ -2,68 +2,101 @@ import Pins from "components/Pins";
 import ReportDetails from "components/ReportDetails";
 import { FC, useEffect, useState } from "react";
 import ReactMapGL, { NavigationControl, Popup } from "react-map-gl";
-import { Report } from "types";
+import { Tracker, LatLng } from "types";
+import { LocationTrackersClient } from "location_trackers_grpc_web_pb";
+
+const protoTypes = require("../location_trackers_pb");
+
+/**
+ * Client for interacting with the gRPC server.
+ */
+const client = new LocationTrackersClient("http://localhost:8080", null, null);
 
 const Map: FC = () => {
-  const [reports, setReports] = useState<Report[]>([
-    {
-      id: "1",
-      location: { lat: 49.611667, lng: 6.131944 },
-      altitude: 300,
-      name: "Test 1",
-      speed: 50,
-    },
-  ]);
-  const [selectedReport, setSelectedReport] = useState<Report | null>(null);
+  const [trackers, setTrackers] = useState<Tracker[]>([]);
+  const [selectedTracker, setSelectedTracker] = useState<Tracker | null>(null);
   const [viewport, setViewport] = useState({
     latitude: 49.611667,
     longitude: 6.131944,
-    zoom: 12,
+    zoom: 8,
     height: 400,
     width: 400,
   });
 
+  /**
+   * On first render call server for reports stream.
+   */
   useEffect(() => {
-    const interval = setInterval(() => {
-      setReports((prevReports) =>
-        prevReports.map((report) => ({
-          ...report,
-          location: {
-            lat: report.location.lat - report.speed / (3600 * 110.574),
-            lng:
-              report.location.lng +
-              report.speed / (3600 * 111.32 * Math.cos(report.location.lat)),
-          },
-        }))
-      );
-    }, 1000);
+    const trackersData: Tracker[] = [];
+
+    const request = new protoTypes.ReportsRequest();
+    const reportsStream = client.listReports(request, {});
+
+    reportsStream.on("data", (response: typeof protoTypes.Report) => {
+      const location: LatLng = {
+        latitude: response.getLocation().getLatitude(),
+        longitude: response.getLocation().getLongitude(),
+      };
+      const tracker: Tracker = {
+        id: response.getId(),
+        name: response.getName(),
+        altitude: response.getAltitude(),
+        speed: response.getSpeed(),
+        location,
+      };
+      
+      // Put all incoming tracker objects for "memoization"
+      trackersData.push(tracker);
+    });
+
+    reportsStream.on(
+      "status",
+      (status: { code: number; details: string; metadata: Object }) => {
+        if (status.code === 0) {
+          // Once stream status is success - display received data at once.
+          setTrackers(trackersData);
+        }
+      }
+    );
+
+    reportsStream.on("error", (error: any) => {
+      console.error("Stream error: ", error);
+    });
+
+    reportsStream.on("end", () => {
+      console.log("Stream ended.");
+    });
 
     return () => {
-      clearInterval(interval);
+      reportsStream.cancel();
     };
   }, []);
+
+  const handlePinClose = () => {
+    setSelectedTracker(null);
+  };
 
   return (
     <ReactMapGL
       {...viewport}
       width="100vw"
       height="calc(100vh - 44px)"
-      mapStyle="mapbox://styles/mapbox/streets-v11"
+      mapStyle="mapbox://styles/mapbox/streets-v11?optimize=true"
       mapboxApiAccessToken={process.env.REACT_APP_MAPBOX_TOKEN || ""}
-      onViewportChange={(vPort: typeof viewport) => setViewport(vPort)}
+      onViewportChange={setViewport}
     >
-      <Pins reports={reports} onClick={setSelectedReport} />
-      {selectedReport && (
+      <Pins trackers={trackers} onClick={setSelectedTracker} />
+      {selectedTracker && (
         <Popup
           offsetTop={-34}
           offsetLeft={-3}
           anchor="bottom"
-          longitude={selectedReport.location.lng}
-          latitude={selectedReport.location.lat}
+          longitude={selectedTracker.location.longitude}
+          latitude={selectedTracker.location.latitude}
           closeOnClick={false}
-          onClose={setSelectedReport}
+          onClose={handlePinClose}
         >
-          <ReportDetails report={selectedReport} />
+          <ReportDetails report={selectedTracker} />
         </Popup>
       )}
       <NavigationControl onViewportChange={setViewport} />

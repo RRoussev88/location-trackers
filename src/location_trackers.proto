@@ -1,0 +1,27 @@
+syntax = "proto3";
+
+package locationtrackers;
+
+service LocationTrackers {
+  // A server-to-client streaming RPC.
+  //
+  // Obtains all the Reports available. Results are
+  // streamed rather than returned at once (e.g. in a response message with a
+  // repeated field), because there may be a huge number of features.
+  rpc ListReports(ReportsRequest) returns (stream Report) {}
+}
+
+message ReportsRequest {}
+
+message LatLng {
+  double latitude = 1;
+  double longitude = 2;
+}
+
+message Report {
+  string id = 1; 
+  LatLng location = 2; 
+  float altitude = 3;
+  string name = 4;
+  float speed = 5;
+}

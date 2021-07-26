@@ -1,29 +1,18 @@
-// var PROTO_PATH = __dirname + "/../../protos/location_trackers.proto";
-// const GOOGLE_PROTOS_PATH = __dirname + "/protos.json";
+const fs = require("fs");
+const parseArgs = require("minimist");
+const path = require("path");
+const _ = require("lodash");
+const grpc = require("@grpc/grpc-js");
 
-var fs = require("fs");
-var parseArgs = require("minimist");
-var path = require("path");
-var _ = require("lodash");
-var grpc = require("@grpc/grpc-js");
-// var protoLoader = require("@grpc/proto-loader");
+const messages = require("./location_trackers_pb");
+const services = require("./location_trackers_grpc_pb");
 
-// var packageDefinition = protoLoader.loadSync([GOOGLE_PROTOS_PATH, PROTO_PATH], {
-//   keepCase: true,
-//   longs: String,
-//   enums: String,
-//   defaults: true,
-//   oneofs: true,
-// });
-// var locationtrackers = grpc.loadPackageDefinition(packageDefinition).locationtrackers;
-
-var messages = require("./location_trackers_pb");
-var services = require("./location_trackers_grpc_pb");
+const COORD_FACTOR = 1e7;
 
 /**
  * List of feature objects that have been requested so far.
  */
-var feature_list = [];
+let feature_list = [];
 
 /**
  * listReports request handler. Responds with a stream of all features
@@ -33,8 +22,8 @@ var feature_list = [];
 function listReports(call) {
   _.each(feature_list, function (feature) {
     const location = new messages.LatLng();
-    location.setLatitude(feature.location.latitude);
-    location.setLongitude(feature.location.longitude);
+    location.setLatitude(feature.location.latitude / COORD_FACTOR);
+    location.setLongitude(feature.location.longitude / COORD_FACTOR);
 
     const report = new messages.Report();
     report.setId(feature.id);
@@ -42,7 +31,7 @@ function listReports(call) {
     report.setLocation(location);
     report.setSpeed(feature.speed);
     report.setAltitude(feature.altitude);
-    
+
     call.write(report);
   });
   call.end();
@@ -54,19 +43,19 @@ function listReports(call) {
  * @return {Server} The new server object
  */
 function getServer() {
-  var server = new grpc.Server();
+  const server = new grpc.Server();
   server.addService(services.LocationTrackersService, { listReports });
   return server;
 }
 
 if (require.main === module) {
   // If this is run as a script, start a server on an unused port
-  var routeServer = getServer();
+  const routeServer = getServer();
   routeServer.bindAsync(
-    "localhost:9000",
+    "0.0.0.0:9090",
     grpc.ServerCredentials.createInsecure(),
     () => {
-      var argv = parseArgs(process.argv, { string: "db_path" });
+      const argv = parseArgs(process.argv, { string: "db_path" });
       fs.readFile(path.resolve(argv.db_path), function (err, data) {
         if (err) throw err;
         feature_list = JSON.parse(data);

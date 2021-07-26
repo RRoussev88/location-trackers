@@ -1,0 +1,7002 @@
+[
+  {
+    "id": "1",
+    "location": { "latitude": 496116670, "longitude": 61319440 },
+    "name": "Delivery Truck No. 1",
+    "altitude": 395,
+    "speed": 60
+  },
+  {
+    "location": { "latitude": 497838351, "longitude": 56143763 },
+    "name": "Delivery Truck No. 2",
+    "id": "2",
+    "altitude": 251,
+    "speed": 52
+  },
+  {
+    "location": { "latitude": 498122808, "longitude": 53999179 },
+    "name": "Delivery Truck No. 3",
+    "id": "3",
+    "altitude": 294,
+    "speed": 42
+  },
+  {
+    "location": { "latitude": 503628156, "longitude": 59015468 },
+    "name": "Delivery Truck No. 4",
+    "id": "4",
+    "altitude": 348,
+    "speed": 33
+  },
+  {
+    "location": { "latitude": 509999544, "longitude": 50371136 },
+    "name": "Delivery Truck No. 5",
+    "id": "5",
+    "altitude": 338,
+    "speed": 37
+  },
+  {
+    "location": { "latitude": 504008389, "longitude": 53951297 },
+    "name": "Delivery Truck No. 6",
+    "id": "6",
+    "altitude": 250,
+    "speed": 54
+  },
+  {
+    "location": { "latitude": 509611318, "longitude": 56524769 },
+    "name": "Delivery Truck No. 7",
+    "id": "7",
+    "altitude": 344,
+    "speed": 58
+  },
+  {
+    "location": { "latitude": 496109563, "longitude": 52186778 },
+    "name": "Delivery Truck No. 8",
+    "id": "8",
+    "altitude": 397,
+    "speed": 49
+  },
+  {
+    "location": { "latitude": 506802456, "longitude": 52370183 },
+    "name": "Delivery Truck No. 9",
+    "id": "9",
+    "altitude": 244,
+    "speed": 54
+  },
+  {
+    "location": { "latitude": 502950425, "longitude": 51077389 },
+    "name": "Delivery Truck No. 10",
+    "id": "10",
+    "altitude": 397,
+    "speed": 38
+  },
+  {
+    "location": { "latitude": 502144655, "longitude": 53949739 },
+    "name": "Delivery Truck No. 11",
+    "id": "11",
+    "altitude": 364,
+    "speed": 34
+  },
+  {
+    "location": { "latitude": 505736605, "longitude": 52847522 },
+    "name": "Delivery Truck No. 12",
+    "id": "12",
+    "altitude": 363,
+    "speed": 33
+  },
+  {
+    "location": { "latitude": 503843930, "longitude": 50501726 },
+    "name": "Delivery Truck No. 13",
+    "id": "13",
+    "altitude": 266,
+    "speed": 54
+  },
+  {
+    "location": { "latitude": 500873075, "longitude": 54459023 },
+    "name": "Delivery Truck No. 14",
+    "id": "14",
+    "altitude": 367,
+    "speed": 70
+  },
+  {
+    "location": { "latitude": 502346009, "longitude": 54026814 },
+    "name": "Delivery Truck No. 15",
+    "id": "15",
+    "altitude": 247,
+    "speed": 74
+  },
+  {
+    "location": { "latitude": 492948455, "longitude": 57903913 },
+    "name": "Delivery Truck No. 16",
+    "id": "16",
+    "altitude": 290,
+    "speed": 67
+  },
+  {
+    "location": { "latitude": 496337092, "longitude": 50122226 },
+    "name": "Delivery Truck No. 17",
+    "id": "17",
+    "altitude": 310,
+    "speed": 64
+  },
+  {
+    "location": { "latitude": 496421967, "longitude": 57727624 },
+    "name": "Delivery Truck No. 18",
+    "id": "18",
+    "altitude": 267,
+    "speed": 30
+  },
+  {
+    "location": { "latitude": 506318082, "longitude": 59677716 },
+    "name": "Delivery Truck No. 19",
+    "id": "19",
+    "altitude": 347,
+    "speed": 30
+  },
+  {
+    "location": { "latitude": 505301720, "longitude": 58416257 },
+    "name": "Delivery Truck No. 20",
+    "id": "20",
+    "altitude": 232,
+    "speed": 52
+  },
+  {
+    "location": { "latitude": 492647019, "longitude": 57071791 },
+    "name": "Delivery Truck No. 21",
+    "id": "21",
+    "altitude": 284,
+    "speed": 50
+  },
+  {
+    "location": { "latitude": 502567807, "longitude": 51058078 },
+    "name": "Delivery Truck No. 22",
+    "id": "22",
+    "altitude": 278,
+    "speed": 56
+  },
+  {
+    "location": { "latitude": 506855156, "longitude": 54420597 },
+    "name": "Delivery Truck No. 23",
+    "id": "23",
+    "altitude": 388,
+    "speed": 48
+  },
+  {
+    "location": { "latitude": 494663628, "longitude": 54820157 },
+    "name": "Delivery Truck No. 24",
+    "id": "24",
+    "altitude": 332,
+    "speed": 52
+  },
+  {
+    "location": { "latitude": 497113723, "longitude": 59746483 },
+    "name": "Delivery Truck No. 25",
+    "id": "25",
+    "altitude": 255,
+    "speed": 42
+  },
+  {
+    "location": { "latitude": 492133926, "longitude": 53613249 },
+    "name": "Delivery Truck No. 26",
+    "id": "26",
+    "altitude": 268,
+    "speed": 41
+  },
+  {
+    "location": { "latitude": 490273442, "longitude": 51220915 },
+    "name": "Delivery Truck No. 27",
+    "id": "27",
+    "altitude": 233,
+    "speed": 51
+  },
+  {
+    "location": { "latitude": 501236786, "longitude": 54070769 },
+    "name": "Delivery Truck No. 28",
+    "id": "28",
+    "altitude": 359,
+    "speed": 57
+  },
+  {
+    "location": { "latitude": 501633782, "longitude": 56784970 },
+    "name": "Delivery Truck No. 29",
+    "id": "29",
+    "altitude": 298,
+    "speed": 51
+  },
+  {
+    "location": { "latitude": 505830701, "longitude": 52952812 },
+    "name": "Delivery Truck No. 30",
+    "id": "30",
+    "altitude": 329,
+    "speed": 52
+  },
+  {
+    "location": { "latitude": 503447164, "longitude": 58712898 },
+    "name": "Delivery Truck No. 31",
+    "id": "31",
+    "altitude": 370,
+    "speed": 43
+  },
+  {
+    "location": { "latitude": 495047245, "longitude": 59800722 },
+    "name": "Delivery Truck No. 32",
+    "id": "32",
+    "altitude": 356,
+    "speed": 62
+  },
+  {
+    "location": { "latitude": 508858923, "longitude": 56156790 },
+    "name": "Delivery Truck No. 33",
+    "id": "33",
+    "altitude": 280,
+    "speed": 33
+  },
+  {
+    "location": { "latitude": 507951888, "longitude": 58484944 },
+    "name": "Delivery Truck No. 34",
+    "id": "34",
+    "altitude": 395,
+    "speed": 26
+  },
+  {
+    "location": { "latitude": 497033786, "longitude": 53977337 },
+    "name": "Delivery Truck No. 35",
+    "id": "35",
+    "altitude": 405,
+    "speed": 36
+  },
+  {
+    "location": { "latitude": 507548014, "longitude": 50075041 },
+    "name": "Delivery Truck No. 36",
+    "id": "36",
+    "altitude": 306,
+    "speed": 41
+  },
+  {
+    "location": { "latitude": 500395868, "longitude": 54972325 },
+    "name": "Delivery Truck No. 37",
+    "id": "37",
+    "altitude": 321,
+    "speed": 75
+  },
+  {
+    "location": { "latitude": 494615353, "longitude": 55129803 },
+    "name": "Delivery Truck No. 38",
+    "id": "38",
+    "altitude": 324,
+    "speed": 51
+  },
+  {
+    "location": { "latitude": 496589790, "longitude": 53560121 },
+    "name": "Delivery Truck No. 39",
+    "id": "39",
+    "altitude": 406,
+    "speed": 63
+  },
+  {
+    "location": { "latitude": 504653148, "longitude": 50477477 },
+    "name": "Delivery Truck No. 40",
+    "id": "40",
+    "altitude": 344,
+    "speed": 28
+  },
+  {
+    "location": { "latitude": 495957808, "longitude": 53255336 },
+    "name": "Delivery Truck No. 41",
+    "id": "41",
+    "altitude": 289,
+    "speed": 27
+  },
+  {
+    "location": { "latitude": 501733589, "longitude": 51648093 },
+    "name": "Delivery Truck No. 42",
+    "id": "42",
+    "altitude": 359,
+    "speed": 22
+  },
+  {
+    "location": { "latitude": 502676291, "longitude": 52606606 },
+    "name": "Delivery Truck No. 43",
+    "id": "43",
+    "altitude": 365,
+    "speed": 30
+  },
+  {
+    "location": { "latitude": 499224445, "longitude": 58286738 },
+    "name": "Delivery Truck No. 44",
+    "id": "44",
+    "altitude": 298,
+    "speed": 79
+  },
+  {
+    "location": { "latitude": 496523420, "longitude": 52135517 },
+    "name": "Delivery Truck No. 45",
+    "id": "45",
+    "altitude": 339,
+    "speed": 24
+  },
+  {
+    "location": { "latitude": 491827388, "longitude": 50294537 },
+    "name": "Delivery Truck No. 46",
+    "id": "46",
+    "altitude": 316,
+    "speed": 75
+  },
+  {
+    "location": { "latitude": 500564152, "longitude": 53685054 },
+    "name": "Delivery Truck No. 47",
+    "id": "47",
+    "altitude": 383,
+    "speed": 70
+  },
+  {
+    "location": { "latitude": 498472324, "longitude": 50726046 },
+    "name": "Delivery Truck No. 48",
+    "id": "48",
+    "altitude": 290,
+    "speed": 46
+  },
+  {
+    "location": { "latitude": 502452168, "longitude": 50214052 },
+    "name": "Delivery Truck No. 49",
+    "id": "49",
+    "altitude": 335,
+    "speed": 59
+  },
+  {
+    "location": { "latitude": 499146138, "longitude": 56188906 },
+    "name": "Delivery Truck No. 50",
+    "id": "50",
+    "altitude": 406,
+    "speed": 58
+  },
+  {
+    "location": { "latitude": 494701380, "longitude": 54781745 },
+    "name": "Delivery Truck No. 51",
+    "id": "51",
+    "altitude": 265,
+    "speed": 48
+  },
+  {
+    "location": { "latitude": 499642566, "longitude": 56017679 },
+    "name": "Delivery Truck No. 52",
+    "id": "52",
+    "altitude": 397,
+    "speed": 39
+  },
+  {
+    "location": { "latitude": 498031728, "longitude": 58645385 },
+    "name": "Delivery Truck No. 53",
+    "id": "53",
+    "altitude": 260,
+    "speed": 29
+  },
+  {
+    "location": { "latitude": 503700272, "longitude": 52135189 },
+    "name": "Delivery Truck No. 54",
+    "id": "54",
+    "altitude": 298,
+    "speed": 51
+  },
+  {
+    "location": { "latitude": 494310607, "longitude": 50282632 },
+    "name": "Delivery Truck No. 55",
+    "id": "55",
+    "altitude": 390,
+    "speed": 37
+  },
+  {
+    "location": { "latitude": 499319800, "longitude": 56201391 },
+    "name": "Delivery Truck No. 56",
+    "id": "56",
+    "altitude": 381,
+    "speed": 78
+  },
+  {
+    "location": { "latitude": 496685311, "longitude": 52108603 },
+    "name": "Delivery Truck No. 57",
+    "id": "57",
+    "altitude": 249,
+    "speed": 30
+  },
+  {
+    "location": { "latitude": 509018117, "longitude": 59142781 },
+    "name": "Delivery Truck No. 58",
+    "id": "58",
+    "altitude": 329,
+    "speed": 76
+  },
+  {
+    "location": { "latitude": 502856162, "longitude": 55148837 },
+    "name": "Delivery Truck No. 59",
+    "id": "59",
+    "altitude": 322,
+    "speed": 71
+  },
+  {
+    "location": { "latitude": 506560744, "longitude": 56721964 },
+    "name": "Delivery Truck No. 60",
+    "id": "60",
+    "altitude": 339,
+    "speed": 33
+  },
+  {
+    "location": { "latitude": 495314270, "longitude": 59836354 },
+    "name": "Delivery Truck No. 61",
+    "id": "61",
+    "altitude": 233,
+    "speed": 55
+  },
+  {
+    "location": { "latitude": 504219548, "longitude": 53327440 },
+    "name": "Delivery Truck No. 62",
+    "id": "62",
+    "altitude": 295,
+    "speed": 75
+  },
+  {
+    "location": { "latitude": 505534177, "longitude": 52900616 },
+    "name": "Delivery Truck No. 63",
+    "id": "63",
+    "altitude": 245,
+    "speed": 23
+  },
+  {
+    "location": { "latitude": 496898530, "longitude": 59127080 },
+    "name": "Delivery Truck No. 64",
+    "id": "64",
+    "altitude": 272,
+    "speed": 27
+  },
+  {
+    "location": { "latitude": 497586880, "longitude": 51670168 },
+    "name": "Delivery Truck No. 65",
+    "id": "65",
+    "altitude": 262,
+    "speed": 79
+  },
+  {
+    "location": { "latitude": 490106455, "longitude": 52870190 },
+    "name": "Delivery Truck No. 66",
+    "id": "66",
+    "altitude": 377,
+    "speed": 33
+  },
+  {
+    "location": { "latitude": 490066188, "longitude": 56793294 },
+    "name": "Delivery Truck No. 67",
+    "id": "67",
+    "altitude": 272,
+    "speed": 76
+  },
+  {
+    "location": { "latitude": 508803880, "longitude": 54102673 },
+    "name": "Delivery Truck No. 68",
+    "id": "68",
+    "altitude": 368,
+    "speed": 24
+  },
+  {
+    "location": { "latitude": 504204288, "longitude": 57895140 },
+    "name": "Delivery Truck No. 69",
+    "id": "69",
+    "altitude": 393,
+    "speed": 65
+  },
+  {
+    "location": { "latitude": 504777405, "longitude": 50615601 },
+    "name": "Delivery Truck No. 70",
+    "id": "70",
+    "altitude": 301,
+    "speed": 70
+  },
+  {
+    "location": { "latitude": 505464475, "longitude": 57175374 },
+    "name": "Delivery Truck No. 71",
+    "id": "71",
+    "altitude": 383,
+    "speed": 44
+  },
+  {
+    "location": { "latitude": 494062378, "longitude": 56376177 },
+    "name": "Delivery Truck No. 72",
+    "id": "72",
+    "altitude": 360,
+    "speed": 63
+  },
+  {
+    "location": { "latitude": 495688272, "longitude": 59285130 },
+    "name": "Delivery Truck No. 73",
+    "id": "73",
+    "altitude": 242,
+    "speed": 41
+  },
+  {
+    "location": { "latitude": 490342070, "longitude": 58788996 },
+    "name": "Delivery Truck No. 74",
+    "id": "74",
+    "altitude": 287,
+    "speed": 76
+  },
+  {
+    "location": { "latitude": 491809022, "longitude": 54157964 },
+    "name": "Delivery Truck No. 75",
+    "id": "75",
+    "altitude": 348,
+    "speed": 44
+  },
+  {
+    "location": { "latitude": 494226644, "longitude": 50517141 },
+    "name": "Delivery Truck No. 76",
+    "id": "76",
+    "altitude": 397,
+    "speed": 48
+  },
+  {
+    "location": { "latitude": 500322033, "longitude": 57871659 },
+    "name": "Delivery Truck No. 77",
+    "id": "77",
+    "altitude": 313,
+    "speed": 33
+  },
+  {
+    "location": { "latitude": 497100674, "longitude": 57742727 },
+    "name": "Delivery Truck No. 78",
+    "id": "78",
+    "altitude": 259,
+    "speed": 68
+  },
+  {
+    "location": { "latitude": 508811433, "longitude": 51718005 },
+    "name": "Delivery Truck No. 79",
+    "id": "79",
+    "altitude": 381,
+    "speed": 49
+  },
+  {
+    "location": { "latitude": 505034302, "longitude": 53850945 },
+    "name": "Delivery Truck No. 80",
+    "id": "80",
+    "altitude": 303,
+    "speed": 45
+  },
+  {
+    "location": { "latitude": 501349992, "longitude": 53694161 },
+    "name": "Delivery Truck No. 81",
+    "id": "81",
+    "altitude": 384,
+    "speed": 64
+  },
+  {
+    "location": { "latitude": 494839914, "longitude": 54759616 },
+    "name": "Delivery Truck No. 82",
+    "id": "82",
+    "altitude": 245,
+    "speed": 42
+  },
+  {
+    "location": { "latitude": 504638017, "longitude": 55957854 },
+    "name": "Delivery Truck No. 83",
+    "id": "83",
+    "altitude": 365,
+    "speed": 68
+  },
+  {
+    "location": { "latitude": 502127800, "longitude": 50173578 },
+    "name": "Delivery Truck No. 84",
+    "id": "84",
+    "altitude": 319,
+    "speed": 70
+  },
+  {
+    "location": { "latitude": 491263460, "longitude": 57964303 },
+    "name": "Delivery Truck No. 85",
+    "id": "85",
+    "altitude": 407,
+    "speed": 65
+  },
+  {
+    "location": { "latitude": 502843391, "longitude": 59086026 },
+    "name": "Delivery Truck No. 86",
+    "id": "86",
+    "altitude": 304,
+    "speed": 67
+  },
+  {
+    "location": { "latitude": 508512773, "longitude": 53067823 },
+    "name": "Delivery Truck No. 87",
+    "id": "87",
+    "altitude": 260,
+    "speed": 32
+  },
+  {
+    "location": { "latitude": 494318328, "longitude": 50835638 },
+    "name": "Delivery Truck No. 88",
+    "id": "88",
+    "altitude": 237,
+    "speed": 51
+  },
+  {
+    "location": { "latitude": 509020746, "longitude": 51172328 },
+    "name": "Delivery Truck No. 89",
+    "id": "89",
+    "altitude": 279,
+    "speed": 36
+  },
+  {
+    "location": { "latitude": 494080723, "longitude": 56119569 },
+    "name": "Delivery Truck No. 90",
+    "id": "90",
+    "altitude": 237,
+    "speed": 24
+  },
+  {
+    "location": { "latitude": 491012643, "longitude": 54035134 },
+    "name": "Delivery Truck No. 91",
+    "id": "91",
+    "altitude": 399,
+    "speed": 47
+  },
+  {
+    "location": { "latitude": 494306372, "longitude": 51079661 },
+    "name": "Delivery Truck No. 92",
+    "id": "92",
+    "altitude": 309,
+    "speed": 30
+  },
+  {
+    "location": { "latitude": 493966326, "longitude": 58519297 },
+    "name": "Delivery Truck No. 93",
+    "id": "93",
+    "altitude": 238,
+    "speed": 23
+  },
+  {
+    "location": { "latitude": 495002031, "longitude": 58407866 },
+    "name": "Delivery Truck No. 94",
+    "id": "94",
+    "altitude": 261,
+    "speed": 73
+  },
+  {
+    "location": { "latitude": 499532885, "longitude": 52200683 },
+    "name": "Delivery Truck No. 95",
+    "id": "95",
+    "altitude": 234,
+    "speed": 42
+  },
+  {
+    "location": { "latitude": 506851321, "longitude": 52674555 },
+    "name": "Delivery Truck No. 96",
+    "id": "96",
+    "altitude": 301,
+    "speed": 41
+  },
+  {
+    "location": { "latitude": 496411633, "longitude": 51722051 },
+    "name": "Delivery Truck No. 97",
+    "id": "97",
+    "altitude": 350,
+    "speed": 30
+  },
+  {
+    "location": { "latitude": 503069058, "longitude": 54597778 },
+    "name": "Delivery Truck No. 98",
+    "id": "98",
+    "altitude": 402,
+    "speed": 50
+  },
+  {
+    "location": { "latitude": 508465462, "longitude": 56859398 },
+    "name": "Delivery Truck No. 99",
+    "id": "99",
+    "altitude": 351,
+    "speed": 46
+  },
+  {
+    "location": { "latitude": 501733222, "longitude": 54228360 },
+    "name": "Delivery Truck No. 100",
+    "id": "100",
+    "altitude": 237,
+    "speed": 41
+  },
+  {
+    "id": "101",
+    "name": "Delivery Truck No. 101",
+    "altitude": 343,
+    "speed": 0,
+    "location": { "latitude": 479399817, "longitude": 41196111 }
+  },
+  {
+    "id": "102",
+    "name": "Delivery Truck No. 102",
+    "altitude": 331,
+    "speed": 0,
+    "location": { "latitude": 503287029, "longitude": 50454124 }
+  },
+  {
+    "id": "103",
+    "name": "Delivery Truck No. 103",
+    "altitude": 242,
+    "speed": 0,
+    "location": { "latitude": 491718053, "longitude": 69129245 }
+  },
+  {
+    "id": "104",
+    "name": "Delivery Truck No. 104",
+    "altitude": 403,
+    "speed": 0,
+    "location": { "latitude": 503115285, "longitude": 57575033 }
+  },
+  {
+    "id": "105",
+    "name": "Delivery Truck No. 105",
+    "altitude": 233,
+    "speed": 0,
+    "location": { "latitude": 490356131, "longitude": 51601162 }
+  },
+  {
+    "id": "106",
+    "name": "Delivery Truck No. 106",
+    "altitude": 397,
+    "speed": 0,
+    "location": { "latitude": 489131608, "longitude": 62809755 }
+  },
+  {
+    "id": "107",
+    "name": "Delivery Truck No. 107",
+    "altitude": 321,
+    "speed": 0,
+    "location": { "latitude": 483463807, "longitude": 56285860 }
+  },
+  {
+    "id": "108",
+    "name": "Delivery Truck No. 108",
+    "altitude": 403,
+    "speed": 0,
+    "location": { "latitude": 478591267, "longitude": 63349800 }
+  },
+  {
+    "id": "109",
+    "name": "Delivery Truck No. 109",
+    "altitude": 394,
+    "speed": 0,
+    "location": { "latitude": 492663577, "longitude": 31775395 }
+  },
+  {
+    "id": "110",
+    "name": "Delivery Truck No. 110",
+    "altitude": 338,
+    "speed": 0,
+    "location": { "latitude": 500575567, "longitude": 36673595 }
+  },
+  {
+    "id": "111",
+    "name": "Delivery Truck No. 111",
+    "altitude": 286,
+    "speed": 0,
+    "location": { "latitude": 478976632, "longitude": 51495823 }
+  },
+  {
+    "id": "112",
+    "name": "Delivery Truck No. 112",
+    "altitude": 374,
+    "speed": 0,
+    "location": { "latitude": 505120838, "longitude": 64027147 }
+  },
+  {
+    "id": "113",
+    "name": "Delivery Truck No. 113",
+    "altitude": 353,
+    "speed": 0,
+    "location": { "latitude": 496706756, "longitude": 60995830 }
+  },
+  {
+    "id": "114",
+    "name": "Delivery Truck No. 114",
+    "altitude": 290,
+    "speed": 0,
+    "location": { "latitude": 494579749, "longitude": 46042989 }
+  },
+  {
+    "id": "115",
+    "name": "Delivery Truck No. 115",
+    "altitude": 298,
+    "speed": 0,
+    "location": { "latitude": 501620553, "longitude": 56522245 }
+  },
+  {
+    "id": "116",
+    "name": "Delivery Truck No. 116",
+    "altitude": 341,
+    "speed": 0,
+    "location": { "latitude": 473103929, "longitude": 34185293 }
+  },
+  {
+    "id": "117",
+    "name": "Delivery Truck No. 117",
+    "altitude": 296,
+    "speed": 0,
+    "location": { "latitude": 505063064, "longitude": 37056339 }
+  },
+  {
+    "id": "118",
+    "name": "Delivery Truck No. 118",
+    "altitude": 379,
+    "speed": 0,
+    "location": { "latitude": 477533029, "longitude": 33452400 }
+  },
+  {
+    "id": "119",
+    "name": "Delivery Truck No. 119",
+    "altitude": 349,
+    "speed": 0,
+    "location": { "latitude": 502267886, "longitude": 57072054 }
+  },
+  {
+    "id": "120",
+    "name": "Delivery Truck No. 120",
+    "altitude": 251,
+    "speed": 0,
+    "location": { "latitude": 483997807, "longitude": 41466965 }
+  },
+  {
+    "id": "121",
+    "name": "Delivery Truck No. 121",
+    "altitude": 239,
+    "speed": 0,
+    "location": { "latitude": 498274431, "longitude": 51088672 }
+  },
+  {
+    "id": "122",
+    "name": "Delivery Truck No. 122",
+    "altitude": 264,
+    "speed": 0,
+    "location": { "latitude": 483657698, "longitude": 49859380 }
+  },
+  {
+    "id": "123",
+    "name": "Delivery Truck No. 123",
+    "altitude": 365,
+    "speed": 0,
+    "location": { "latitude": 476268594, "longitude": 39295658 }
+  },
+  {
+    "id": "124",
+    "name": "Delivery Truck No. 124",
+    "altitude": 296,
+    "speed": 0,
+    "location": { "latitude": 508502352, "longitude": 51033502 }
+  },
+  {
+    "id": "125",
+    "name": "Delivery Truck No. 125",
+    "altitude": 379,
+    "speed": 0,
+    "location": { "latitude": 470950137, "longitude": 46391700 }
+  },
+  {
+    "id": "126",
+    "name": "Delivery Truck No. 126",
+    "altitude": 249,
+    "speed": 0,
+    "location": { "latitude": 472221286, "longitude": 53256013 }
+  },
+  {
+    "id": "127",
+    "name": "Delivery Truck No. 127",
+    "altitude": 321,
+    "speed": 0,
+    "location": { "latitude": 508754949, "longitude": 55278681 }
+  },
+  {
+    "id": "128",
+    "name": "Delivery Truck No. 128",
+    "altitude": 288,
+    "speed": 0,
+    "location": { "latitude": 473343343, "longitude": 32272807 }
+  },
+  {
+    "id": "129",
+    "name": "Delivery Truck No. 129",
+    "altitude": 401,
+    "speed": 0,
+    "location": { "latitude": 502881542, "longitude": 56589906 }
+  },
+  {
+    "id": "130",
+    "name": "Delivery Truck No. 130",
+    "altitude": 401,
+    "speed": 0,
+    "location": { "latitude": 486211277, "longitude": 55589724 }
+  },
+  {
+    "id": "131",
+    "name": "Delivery Truck No. 131",
+    "altitude": 277,
+    "speed": 0,
+    "location": { "latitude": 472815646, "longitude": 38039004 }
+  },
+  {
+    "id": "132",
+    "name": "Delivery Truck No. 132",
+    "altitude": 359,
+    "speed": 0,
+    "location": { "latitude": 471459658, "longitude": 58386554 }
+  },
+  {
+    "id": "133",
+    "name": "Delivery Truck No. 133",
+    "altitude": 366,
+    "speed": 0,
+    "location": { "latitude": 478896099, "longitude": 32492456 }
+  },
+  {
+    "id": "134",
+    "name": "Delivery Truck No. 134",
+    "altitude": 393,
+    "speed": 0,
+    "location": { "latitude": 490875126, "longitude": 36994072 }
+  },
+  {
+    "id": "135",
+    "name": "Delivery Truck No. 135",
+    "altitude": 334,
+    "speed": 0,
+    "location": { "latitude": 488665231, "longitude": 37662958 }
+  },
+  {
+    "id": "136",
+    "name": "Delivery Truck No. 136",
+    "altitude": 318,
+    "speed": 0,
+    "location": { "latitude": 493541502, "longitude": 55360332 }
+  },
+  {
+    "id": "137",
+    "name": "Delivery Truck No. 137",
+    "altitude": 330,
+    "speed": 0,
+    "location": { "latitude": 480643293, "longitude": 32571658 }
+  },
+  {
+    "id": "138",
+    "name": "Delivery Truck No. 138",
+    "altitude": 253,
+    "speed": 0,
+    "location": { "latitude": 478333121, "longitude": 59497969 }
+  },
+  {
+    "id": "139",
+    "name": "Delivery Truck No. 139",
+    "altitude": 376,
+    "speed": 0,
+    "location": { "latitude": 489529223, "longitude": 31778033 }
+  },
+  {
+    "id": "140",
+    "name": "Delivery Truck No. 140",
+    "altitude": 311,
+    "speed": 0,
+    "location": { "latitude": 472992927, "longitude": 52218036 }
+  },
+  {
+    "id": "141",
+    "name": "Delivery Truck No. 141",
+    "altitude": 324,
+    "speed": 0,
+    "location": { "latitude": 480959083, "longitude": 32578820 }
+  },
+  {
+    "id": "142",
+    "name": "Delivery Truck No. 142",
+    "altitude": 299,
+    "speed": 0,
+    "location": { "latitude": 489946589, "longitude": 61797680 }
+  },
+  {
+    "id": "143",
+    "name": "Delivery Truck No. 143",
+    "altitude": 343,
+    "speed": 0,
+    "location": { "latitude": 484517475, "longitude": 40096887 }
+  },
+  {
+    "id": "144",
+    "name": "Delivery Truck No. 144",
+    "altitude": 280,
+    "speed": 0,
+    "location": { "latitude": 485561449, "longitude": 34295855 }
+  },
+  {
+    "id": "145",
+    "name": "Delivery Truck No. 145",
+    "altitude": 342,
+    "speed": 0,
+    "location": { "latitude": 508555466, "longitude": 40588417 }
+  },
+  {
+    "id": "146",
+    "name": "Delivery Truck No. 146",
+    "altitude": 325,
+    "speed": 0,
+    "location": { "latitude": 485972379, "longitude": 44542902 }
+  },
+  {
+    "id": "147",
+    "name": "Delivery Truck No. 147",
+    "altitude": 348,
+    "speed": 0,
+    "location": { "latitude": 482425173, "longitude": 59269697 }
+  },
+  {
+    "id": "148",
+    "name": "Delivery Truck No. 148",
+    "altitude": 364,
+    "speed": 0,
+    "location": { "latitude": 473286602, "longitude": 41956074 }
+  },
+  {
+    "id": "149",
+    "name": "Delivery Truck No. 149",
+    "altitude": 329,
+    "speed": 0,
+    "location": { "latitude": 501364517, "longitude": 56177868 }
+  },
+  {
+    "id": "150",
+    "name": "Delivery Truck No. 150",
+    "altitude": 391,
+    "speed": 0,
+    "location": { "latitude": 485871201, "longitude": 52417989 }
+  },
+  {
+    "id": "151",
+    "name": "Delivery Truck No. 151",
+    "altitude": 384,
+    "speed": 0,
+    "location": { "latitude": 497804254, "longitude": 30770241 }
+  },
+  {
+    "id": "152",
+    "name": "Delivery Truck No. 152",
+    "altitude": 386,
+    "speed": 0,
+    "location": { "latitude": 476860856, "longitude": 66488943 }
+  },
+  {
+    "id": "153",
+    "name": "Delivery Truck No. 153",
+    "altitude": 246,
+    "speed": 0,
+    "location": { "latitude": 473332280, "longitude": 66053199 }
+  },
+  {
+    "id": "154",
+    "name": "Delivery Truck No. 154",
+    "altitude": 239,
+    "speed": 0,
+    "location": { "latitude": 473247933, "longitude": 57798422 }
+  },
+  {
+    "id": "155",
+    "name": "Delivery Truck No. 155",
+    "altitude": 370,
+    "speed": 0,
+    "location": { "latitude": 508375370, "longitude": 59808185 }
+  },
+  {
+    "id": "156",
+    "name": "Delivery Truck No. 156",
+    "altitude": 366,
+    "speed": 0,
+    "location": { "latitude": 485459080, "longitude": 48874167 }
+  },
+  {
+    "id": "157",
+    "name": "Delivery Truck No. 157",
+    "altitude": 244,
+    "speed": 0,
+    "location": { "latitude": 507730653, "longitude": 52261983 }
+  },
+  {
+    "id": "158",
+    "name": "Delivery Truck No. 158",
+    "altitude": 399,
+    "speed": 0,
+    "location": { "latitude": 482303353, "longitude": 43304705 }
+  },
+  {
+    "id": "159",
+    "name": "Delivery Truck No. 159",
+    "altitude": 331,
+    "speed": 0,
+    "location": { "latitude": 496939661, "longitude": 57611253 }
+  },
+  {
+    "id": "160",
+    "name": "Delivery Truck No. 160",
+    "altitude": 322,
+    "speed": 0,
+    "location": { "latitude": 490147918, "longitude": 65545892 }
+  },
+  {
+    "id": "161",
+    "name": "Delivery Truck No. 161",
+    "altitude": 342,
+    "speed": 0,
+    "location": { "latitude": 498421983, "longitude": 36569739 }
+  },
+  {
+    "id": "162",
+    "name": "Delivery Truck No. 162",
+    "altitude": 380,
+    "speed": 0,
+    "location": { "latitude": 488285509, "longitude": 42021832 }
+  },
+  {
+    "id": "163",
+    "name": "Delivery Truck No. 163",
+    "altitude": 341,
+    "speed": 0,
+    "location": { "latitude": 475911412, "longitude": 40782065 }
+  },
+  {
+    "id": "164",
+    "name": "Delivery Truck No. 164",
+    "altitude": 288,
+    "speed": 0,
+    "location": { "latitude": 505081295, "longitude": 41586179 }
+  },
+  {
+    "id": "165",
+    "name": "Delivery Truck No. 165",
+    "altitude": 304,
+    "speed": 0,
+    "location": { "latitude": 480581566, "longitude": 55163009 }
+  },
+  {
+    "id": "166",
+    "name": "Delivery Truck No. 166",
+    "altitude": 304,
+    "speed": 0,
+    "location": { "latitude": 488332780, "longitude": 67798132 }
+  },
+  {
+    "id": "167",
+    "name": "Delivery Truck No. 167",
+    "altitude": 358,
+    "speed": 0,
+    "location": { "latitude": 487526279, "longitude": 30106939 }
+  },
+  {
+    "id": "168",
+    "name": "Delivery Truck No. 168",
+    "altitude": 342,
+    "speed": 0,
+    "location": { "latitude": 497860770, "longitude": 35123764 }
+  },
+  {
+    "id": "169",
+    "name": "Delivery Truck No. 169",
+    "altitude": 313,
+    "speed": 0,
+    "location": { "latitude": 479375536, "longitude": 40549278 }
+  },
+  {
+    "id": "170",
+    "name": "Delivery Truck No. 170",
+    "altitude": 237,
+    "speed": 0,
+    "location": { "latitude": 471495257, "longitude": 34273272 }
+  },
+  {
+    "id": "171",
+    "name": "Delivery Truck No. 171",
+    "altitude": 283,
+    "speed": 0,
+    "location": { "latitude": 483105287, "longitude": 66185560 }
+  },
+  {
+    "id": "172",
+    "name": "Delivery Truck No. 172",
+    "altitude": 348,
+    "speed": 0,
+    "location": { "latitude": 488368717, "longitude": 47275045 }
+  },
+  {
+    "id": "173",
+    "name": "Delivery Truck No. 173",
+    "altitude": 282,
+    "speed": 0,
+    "location": { "latitude": 470870242, "longitude": 35166227 }
+  },
+  {
+    "id": "174",
+    "name": "Delivery Truck No. 174",
+    "altitude": 257,
+    "speed": 0,
+    "location": { "latitude": 474028792, "longitude": 59923861 }
+  },
+  {
+    "id": "175",
+    "name": "Delivery Truck No. 175",
+    "altitude": 335,
+    "speed": 0,
+    "location": { "latitude": 502341331, "longitude": 65333212 }
+  },
+  {
+    "id": "176",
+    "name": "Delivery Truck No. 176",
+    "altitude": 302,
+    "speed": 0,
+    "location": { "latitude": 504711210, "longitude": 69779583 }
+  },
+  {
+    "id": "177",
+    "name": "Delivery Truck No. 177",
+    "altitude": 378,
+    "speed": 0,
+    "location": { "latitude": 476048531, "longitude": 34209961 }
+  },
+  {
+    "id": "178",
+    "name": "Delivery Truck No. 178",
+    "altitude": 302,
+    "speed": 0,
+    "location": { "latitude": 508899605, "longitude": 61569897 }
+  },
+  {
+    "id": "179",
+    "name": "Delivery Truck No. 179",
+    "altitude": 319,
+    "speed": 0,
+    "location": { "latitude": 470716188, "longitude": 46003599 }
+  },
+  {
+    "id": "180",
+    "name": "Delivery Truck No. 180",
+    "altitude": 389,
+    "speed": 0,
+    "location": { "latitude": 485558547, "longitude": 56245499 }
+  },
+  {
+    "id": "181",
+    "name": "Delivery Truck No. 181",
+    "altitude": 360,
+    "speed": 0,
+    "location": { "latitude": 486755874, "longitude": 49567592 }
+  },
+  {
+    "id": "182",
+    "name": "Delivery Truck No. 182",
+    "altitude": 317,
+    "speed": 0,
+    "location": { "latitude": 484376122, "longitude": 37744570 }
+  },
+  {
+    "id": "183",
+    "name": "Delivery Truck No. 183",
+    "altitude": 279,
+    "speed": 0,
+    "location": { "latitude": 499707430, "longitude": 53970818 }
+  },
+  {
+    "id": "184",
+    "name": "Delivery Truck No. 184",
+    "altitude": 245,
+    "speed": 0,
+    "location": { "latitude": 503470393, "longitude": 40951964 }
+  },
+  {
+    "id": "185",
+    "name": "Delivery Truck No. 185",
+    "altitude": 238,
+    "speed": 0,
+    "location": { "latitude": 472963692, "longitude": 36845394 }
+  },
+  {
+    "id": "186",
+    "name": "Delivery Truck No. 186",
+    "altitude": 378,
+    "speed": 0,
+    "location": { "latitude": 485247400, "longitude": 59623356 }
+  },
+  {
+    "id": "187",
+    "name": "Delivery Truck No. 187",
+    "altitude": 256,
+    "speed": 0,
+    "location": { "latitude": 501524745, "longitude": 51099178 }
+  },
+  {
+    "id": "188",
+    "name": "Delivery Truck No. 188",
+    "altitude": 368,
+    "speed": 0,
+    "location": { "latitude": 500546782, "longitude": 33807282 }
+  },
+  {
+    "id": "189",
+    "name": "Delivery Truck No. 189",
+    "altitude": 309,
+    "speed": 0,
+    "location": { "latitude": 471089403, "longitude": 46696515 }
+  },
+  {
+    "id": "190",
+    "name": "Delivery Truck No. 190",
+    "altitude": 296,
+    "speed": 0,
+    "location": { "latitude": 505384458, "longitude": 48919519 }
+  },
+  {
+    "id": "191",
+    "name": "Delivery Truck No. 191",
+    "altitude": 293,
+    "speed": 0,
+    "location": { "latitude": 482572204, "longitude": 53666260 }
+  },
+  {
+    "id": "192",
+    "name": "Delivery Truck No. 192",
+    "altitude": 237,
+    "speed": 0,
+    "location": { "latitude": 470994289, "longitude": 46949684 }
+  },
+  {
+    "id": "193",
+    "name": "Delivery Truck No. 193",
+    "altitude": 355,
+    "speed": 0,
+    "location": { "latitude": 486235345, "longitude": 67131816 }
+  },
+  {
+    "id": "194",
+    "name": "Delivery Truck No. 194",
+    "altitude": 278,
+    "speed": 0,
+    "location": { "latitude": 487210911, "longitude": 47777606 }
+  },
+  {
+    "id": "195",
+    "name": "Delivery Truck No. 195",
+    "altitude": 258,
+    "speed": 0,
+    "location": { "latitude": 490749339, "longitude": 44623327 }
+  },
+  {
+    "id": "196",
+    "name": "Delivery Truck No. 196",
+    "altitude": 371,
+    "speed": 0,
+    "location": { "latitude": 482714456, "longitude": 57695923 }
+  },
+  {
+    "id": "197",
+    "name": "Delivery Truck No. 197",
+    "altitude": 353,
+    "speed": 0,
+    "location": { "latitude": 508607230, "longitude": 67787040 }
+  },
+  {
+    "id": "198",
+    "name": "Delivery Truck No. 198",
+    "altitude": 375,
+    "speed": 0,
+    "location": { "latitude": 471271534, "longitude": 50606829 }
+  },
+  {
+    "id": "199",
+    "name": "Delivery Truck No. 199",
+    "altitude": 358,
+    "speed": 0,
+    "location": { "latitude": 486992179, "longitude": 61434088 }
+  },
+  {
+    "id": "200",
+    "name": "Delivery Truck No. 200",
+    "altitude": 234,
+    "speed": 0,
+    "location": { "latitude": 483255179, "longitude": 30354420 }
+  },
+  {
+    "id": "201",
+    "name": "Delivery Truck No. 201",
+    "altitude": 272,
+    "speed": 0,
+    "location": { "latitude": 485665866, "longitude": 69818828 }
+  },
+  {
+    "id": "202",
+    "name": "Delivery Truck No. 202",
+    "altitude": 340,
+    "speed": 0,
+    "location": { "latitude": 503642486, "longitude": 33014504 }
+  },
+  {
+    "id": "203",
+    "name": "Delivery Truck No. 203",
+    "altitude": 319,
+    "speed": 0,
+    "location": { "latitude": 503645905, "longitude": 34556010 }
+  },
+  {
+    "id": "204",
+    "name": "Delivery Truck No. 204",
+    "altitude": 249,
+    "speed": 0,
+    "location": { "latitude": 507611450, "longitude": 53134760 }
+  },
+  {
+    "id": "205",
+    "name": "Delivery Truck No. 205",
+    "altitude": 344,
+    "speed": 0,
+    "location": { "latitude": 497283232, "longitude": 57243464 }
+  },
+  {
+    "id": "206",
+    "name": "Delivery Truck No. 206",
+    "altitude": 319,
+    "speed": 0,
+    "location": { "latitude": 472830470, "longitude": 57003845 }
+  },
+  {
+    "id": "207",
+    "name": "Delivery Truck No. 207",
+    "altitude": 383,
+    "speed": 0,
+    "location": { "latitude": 478984724, "longitude": 50855242 }
+  },
+  {
+    "id": "208",
+    "name": "Delivery Truck No. 208",
+    "altitude": 254,
+    "speed": 0,
+    "location": { "latitude": 489602483, "longitude": 50880955 }
+  },
+  {
+    "id": "209",
+    "name": "Delivery Truck No. 209",
+    "altitude": 356,
+    "speed": 0,
+    "location": { "latitude": 486189152, "longitude": 59186651 }
+  },
+  {
+    "id": "210",
+    "name": "Delivery Truck No. 210",
+    "altitude": 310,
+    "speed": 0,
+    "location": { "latitude": 482920206, "longitude": 36737513 }
+  },
+  {
+    "id": "211",
+    "name": "Delivery Truck No. 211",
+    "altitude": 384,
+    "speed": 0,
+    "location": { "latitude": 478076442, "longitude": 62790042 }
+  },
+  {
+    "id": "212",
+    "name": "Delivery Truck No. 212",
+    "altitude": 288,
+    "speed": 0,
+    "location": { "latitude": 475841291, "longitude": 47227063 }
+  },
+  {
+    "id": "213",
+    "name": "Delivery Truck No. 213",
+    "altitude": 349,
+    "speed": 0,
+    "location": { "latitude": 471650709, "longitude": 65080281 }
+  },
+  {
+    "id": "214",
+    "name": "Delivery Truck No. 214",
+    "altitude": 329,
+    "speed": 0,
+    "location": { "latitude": 490078649, "longitude": 57975486 }
+  },
+  {
+    "id": "215",
+    "name": "Delivery Truck No. 215",
+    "altitude": 272,
+    "speed": 0,
+    "location": { "latitude": 471238205, "longitude": 44620339 }
+  },
+  {
+    "id": "216",
+    "name": "Delivery Truck No. 216",
+    "altitude": 266,
+    "speed": 0,
+    "location": { "latitude": 478281695, "longitude": 40541530 }
+  },
+  {
+    "id": "217",
+    "name": "Delivery Truck No. 217",
+    "altitude": 374,
+    "speed": 0,
+    "location": { "latitude": 485249600, "longitude": 31001933 }
+  },
+  {
+    "id": "218",
+    "name": "Delivery Truck No. 218",
+    "altitude": 394,
+    "speed": 0,
+    "location": { "latitude": 493020703, "longitude": 59684466 }
+  },
+  {
+    "id": "219",
+    "name": "Delivery Truck No. 219",
+    "altitude": 336,
+    "speed": 0,
+    "location": { "latitude": 500420884, "longitude": 33056012 }
+  },
+  {
+    "id": "220",
+    "name": "Delivery Truck No. 220",
+    "altitude": 243,
+    "speed": 0,
+    "location": { "latitude": 503640536, "longitude": 49083913 }
+  },
+  {
+    "id": "221",
+    "name": "Delivery Truck No. 221",
+    "altitude": 287,
+    "speed": 0,
+    "location": { "latitude": 476273927, "longitude": 51502418 }
+  },
+  {
+    "id": "222",
+    "name": "Delivery Truck No. 222",
+    "altitude": 251,
+    "speed": 0,
+    "location": { "latitude": 506027796, "longitude": 67419543 }
+  },
+  {
+    "id": "223",
+    "name": "Delivery Truck No. 223",
+    "altitude": 395,
+    "speed": 0,
+    "location": { "latitude": 479804807, "longitude": 36820716 }
+  },
+  {
+    "id": "224",
+    "name": "Delivery Truck No. 224",
+    "altitude": 398,
+    "speed": 0,
+    "location": { "latitude": 501606111, "longitude": 41601774 }
+  },
+  {
+    "id": "225",
+    "name": "Delivery Truck No. 225",
+    "altitude": 374,
+    "speed": 0,
+    "location": { "latitude": 495394063, "longitude": 63101724 }
+  },
+  {
+    "id": "226",
+    "name": "Delivery Truck No. 226",
+    "altitude": 370,
+    "speed": 0,
+    "location": { "latitude": 484444854, "longitude": 35835584 }
+  },
+  {
+    "id": "227",
+    "name": "Delivery Truck No. 227",
+    "altitude": 296,
+    "speed": 0,
+    "location": { "latitude": 470132706, "longitude": 32220579 }
+  },
+  {
+    "id": "228",
+    "name": "Delivery Truck No. 228",
+    "altitude": 299,
+    "speed": 0,
+    "location": { "latitude": 493415093, "longitude": 55276338 }
+  },
+  {
+    "id": "229",
+    "name": "Delivery Truck No. 229",
+    "altitude": 304,
+    "speed": 0,
+    "location": { "latitude": 492920042, "longitude": 36353935 }
+  },
+  {
+    "id": "230",
+    "name": "Delivery Truck No. 230",
+    "altitude": 376,
+    "speed": 0,
+    "location": { "latitude": 497587777, "longitude": 45255327 }
+  },
+  {
+    "id": "231",
+    "name": "Delivery Truck No. 231",
+    "altitude": 380,
+    "speed": 0,
+    "location": { "latitude": 471986669, "longitude": 65468894 }
+  },
+  {
+    "id": "232",
+    "name": "Delivery Truck No. 232",
+    "altitude": 392,
+    "speed": 0,
+    "location": { "latitude": 478593803, "longitude": 34285081 }
+  },
+  {
+    "id": "233",
+    "name": "Delivery Truck No. 233",
+    "altitude": 402,
+    "speed": 0,
+    "location": { "latitude": 490341684, "longitude": 50559038 }
+  },
+  {
+    "id": "234",
+    "name": "Delivery Truck No. 234",
+    "altitude": 356,
+    "speed": 0,
+    "location": { "latitude": 479907155, "longitude": 55438152 }
+  },
+  {
+    "id": "235",
+    "name": "Delivery Truck No. 235",
+    "altitude": 267,
+    "speed": 0,
+    "location": { "latitude": 472301676, "longitude": 59906289 }
+  },
+  {
+    "id": "236",
+    "name": "Delivery Truck No. 236",
+    "altitude": 285,
+    "speed": 0,
+    "location": { "latitude": 501002107, "longitude": 67069422 }
+  },
+  {
+    "id": "237",
+    "name": "Delivery Truck No. 237",
+    "altitude": 256,
+    "speed": 0,
+    "location": { "latitude": 497620570, "longitude": 40560530 }
+  },
+  {
+    "id": "238",
+    "name": "Delivery Truck No. 238",
+    "altitude": 264,
+    "speed": 0,
+    "location": { "latitude": 497277983, "longitude": 59193678 }
+  },
+  {
+    "id": "239",
+    "name": "Delivery Truck No. 239",
+    "altitude": 273,
+    "speed": 0,
+    "location": { "latitude": 480899227, "longitude": 40773507 }
+  },
+  {
+    "id": "240",
+    "name": "Delivery Truck No. 240",
+    "altitude": 406,
+    "speed": 0,
+    "location": { "latitude": 475840728, "longitude": 43029301 }
+  },
+  {
+    "id": "241",
+    "name": "Delivery Truck No. 241",
+    "altitude": 260,
+    "speed": 0,
+    "location": { "latitude": 508489811, "longitude": 39426330 }
+  },
+  {
+    "id": "242",
+    "name": "Delivery Truck No. 242",
+    "altitude": 353,
+    "speed": 0,
+    "location": { "latitude": 500382257, "longitude": 37058917 }
+  },
+  {
+    "id": "243",
+    "name": "Delivery Truck No. 243",
+    "altitude": 339,
+    "speed": 0,
+    "location": { "latitude": 485748929, "longitude": 39510358 }
+  },
+  {
+    "id": "244",
+    "name": "Delivery Truck No. 244",
+    "altitude": 250,
+    "speed": 0,
+    "location": { "latitude": 490488255, "longitude": 62964474 }
+  },
+  {
+    "id": "245",
+    "name": "Delivery Truck No. 245",
+    "altitude": 268,
+    "speed": 0,
+    "location": { "latitude": 486475088, "longitude": 32733775 }
+  },
+  {
+    "id": "246",
+    "name": "Delivery Truck No. 246",
+    "altitude": 325,
+    "speed": 0,
+    "location": { "latitude": 496769367, "longitude": 30654855 }
+  },
+  {
+    "id": "247",
+    "name": "Delivery Truck No. 247",
+    "altitude": 312,
+    "speed": 0,
+    "location": { "latitude": 496923003, "longitude": 43424876 }
+  },
+  {
+    "id": "248",
+    "name": "Delivery Truck No. 248",
+    "altitude": 332,
+    "speed": 0,
+    "location": { "latitude": 474911016, "longitude": 47632107 }
+  },
+  {
+    "id": "249",
+    "name": "Delivery Truck No. 249",
+    "altitude": 398,
+    "speed": 0,
+    "location": { "latitude": 509120576, "longitude": 43270332 }
+  },
+  {
+    "id": "250",
+    "name": "Delivery Truck No. 250",
+    "altitude": 294,
+    "speed": 0,
+    "location": { "latitude": 495071066, "longitude": 66281509 }
+  },
+  {
+    "id": "251",
+    "name": "Delivery Truck No. 251",
+    "altitude": 323,
+    "speed": 0,
+    "location": { "latitude": 472950751, "longitude": 65619852 }
+  },
+  {
+    "id": "252",
+    "name": "Delivery Truck No. 252",
+    "altitude": 378,
+    "speed": 0,
+    "location": { "latitude": 494696234, "longitude": 65820821 }
+  },
+  {
+    "id": "253",
+    "name": "Delivery Truck No. 253",
+    "altitude": 258,
+    "speed": 0,
+    "location": { "latitude": 509006434, "longitude": 40294917 }
+  },
+  {
+    "id": "254",
+    "name": "Delivery Truck No. 254",
+    "altitude": 291,
+    "speed": 0,
+    "location": { "latitude": 473001189, "longitude": 64506977 }
+  },
+  {
+    "id": "255",
+    "name": "Delivery Truck No. 255",
+    "altitude": 367,
+    "speed": 0,
+    "location": { "latitude": 479120746, "longitude": 61973129 }
+  },
+  {
+    "id": "256",
+    "name": "Delivery Truck No. 256",
+    "altitude": 356,
+    "speed": 0,
+    "location": { "latitude": 496569327, "longitude": 64513729 }
+  },
+  {
+    "id": "257",
+    "name": "Delivery Truck No. 257",
+    "altitude": 291,
+    "speed": 0,
+    "location": { "latitude": 475948842, "longitude": 46512809 }
+  },
+  {
+    "id": "258",
+    "name": "Delivery Truck No. 258",
+    "altitude": 373,
+    "speed": 0,
+    "location": { "latitude": 506487380, "longitude": 69536723 }
+  },
+  {
+    "id": "259",
+    "name": "Delivery Truck No. 259",
+    "altitude": 239,
+    "speed": 0,
+    "location": { "latitude": 507600655, "longitude": 65322032 }
+  },
+  {
+    "id": "260",
+    "name": "Delivery Truck No. 260",
+    "altitude": 328,
+    "speed": 0,
+    "location": { "latitude": 493109393, "longitude": 55771373 }
+  },
+  {
+    "id": "261",
+    "name": "Delivery Truck No. 261",
+    "altitude": 303,
+    "speed": 0,
+    "location": { "latitude": 483847473, "longitude": 55886991 }
+  },
+  {
+    "id": "262",
+    "name": "Delivery Truck No. 262",
+    "altitude": 269,
+    "speed": 0,
+    "location": { "latitude": 505071646, "longitude": 56881606 }
+  },
+  {
+    "id": "263",
+    "name": "Delivery Truck No. 263",
+    "altitude": 244,
+    "speed": 0,
+    "location": { "latitude": 501840369, "longitude": 35886835 }
+  },
+  {
+    "id": "264",
+    "name": "Delivery Truck No. 264",
+    "altitude": 353,
+    "speed": 0,
+    "location": { "latitude": 507126657, "longitude": 40818682 }
+  },
+  {
+    "id": "265",
+    "name": "Delivery Truck No. 265",
+    "altitude": 287,
+    "speed": 0,
+    "location": { "latitude": 508464903, "longitude": 50761070 }
+  },
+  {
+    "id": "266",
+    "name": "Delivery Truck No. 266",
+    "altitude": 329,
+    "speed": 0,
+    "location": { "latitude": 498843396, "longitude": 42945429 }
+  },
+  {
+    "id": "267",
+    "name": "Delivery Truck No. 267",
+    "altitude": 280,
+    "speed": 0,
+    "location": { "latitude": 477518487, "longitude": 55086487 }
+  },
+  {
+    "id": "268",
+    "name": "Delivery Truck No. 268",
+    "altitude": 374,
+    "speed": 0,
+    "location": { "latitude": 470101902, "longitude": 51709497 }
+  },
+  {
+    "id": "269",
+    "name": "Delivery Truck No. 269",
+    "altitude": 257,
+    "speed": 0,
+    "location": { "latitude": 472786067, "longitude": 33986078 }
+  },
+  {
+    "id": "270",
+    "name": "Delivery Truck No. 270",
+    "altitude": 252,
+    "speed": 0,
+    "location": { "latitude": 472527661, "longitude": 54476826 }
+  },
+  {
+    "id": "271",
+    "name": "Delivery Truck No. 271",
+    "altitude": 351,
+    "speed": 0,
+    "location": { "latitude": 495228407, "longitude": 45039403 }
+  },
+  {
+    "id": "272",
+    "name": "Delivery Truck No. 272",
+    "altitude": 286,
+    "speed": 0,
+    "location": { "latitude": 481980478, "longitude": 36992236 }
+  },
+  {
+    "id": "273",
+    "name": "Delivery Truck No. 273",
+    "altitude": 324,
+    "speed": 0,
+    "location": { "latitude": 479171645, "longitude": 60235016 }
+  },
+  {
+    "id": "274",
+    "name": "Delivery Truck No. 274",
+    "altitude": 354,
+    "speed": 0,
+    "location": { "latitude": 502143701, "longitude": 66847827 }
+  },
+  {
+    "id": "275",
+    "name": "Delivery Truck No. 275",
+    "altitude": 351,
+    "speed": 0,
+    "location": { "latitude": 507475684, "longitude": 68876565 }
+  },
+  {
+    "id": "276",
+    "name": "Delivery Truck No. 276",
+    "altitude": 292,
+    "speed": 0,
+    "location": { "latitude": 473531487, "longitude": 58714361 }
+  },
+  {
+    "id": "277",
+    "name": "Delivery Truck No. 277",
+    "altitude": 311,
+    "speed": 0,
+    "location": { "latitude": 504045410, "longitude": 31861918 }
+  },
+  {
+    "id": "278",
+    "name": "Delivery Truck No. 278",
+    "altitude": 324,
+    "speed": 0,
+    "location": { "latitude": 509258720, "longitude": 36049696 }
+  },
+  {
+    "id": "279",
+    "name": "Delivery Truck No. 279",
+    "altitude": 311,
+    "speed": 0,
+    "location": { "latitude": 492445863, "longitude": 48871538 }
+  },
+  {
+    "id": "280",
+    "name": "Delivery Truck No. 280",
+    "altitude": 353,
+    "speed": 0,
+    "location": { "latitude": 494457055, "longitude": 57924273 }
+  },
+  {
+    "id": "281",
+    "name": "Delivery Truck No. 281",
+    "altitude": 318,
+    "speed": 0,
+    "location": { "latitude": 487302416, "longitude": 59849856 }
+  },
+  {
+    "id": "282",
+    "name": "Delivery Truck No. 282",
+    "altitude": 313,
+    "speed": 0,
+    "location": { "latitude": 508469625, "longitude": 36746595 }
+  },
+  {
+    "id": "283",
+    "name": "Delivery Truck No. 283",
+    "altitude": 299,
+    "speed": 0,
+    "location": { "latitude": 484994841, "longitude": 38238630 }
+  },
+  {
+    "id": "284",
+    "name": "Delivery Truck No. 284",
+    "altitude": 304,
+    "speed": 0,
+    "location": { "latitude": 501070044, "longitude": 54699040 }
+  },
+  {
+    "id": "285",
+    "name": "Delivery Truck No. 285",
+    "altitude": 237,
+    "speed": 0,
+    "location": { "latitude": 488546690, "longitude": 35241409 }
+  },
+  {
+    "id": "286",
+    "name": "Delivery Truck No. 286",
+    "altitude": 310,
+    "speed": 0,
+    "location": { "latitude": 472012030, "longitude": 34591524 }
+  },
+  {
+    "id": "287",
+    "name": "Delivery Truck No. 287",
+    "altitude": 376,
+    "speed": 0,
+    "location": { "latitude": 495073096, "longitude": 66211865 }
+  },
+  {
+    "id": "288",
+    "name": "Delivery Truck No. 288",
+    "altitude": 287,
+    "speed": 0,
+    "location": { "latitude": 475321901, "longitude": 47996931 }
+  },
+  {
+    "id": "289",
+    "name": "Delivery Truck No. 289",
+    "altitude": 253,
+    "speed": 0,
+    "location": { "latitude": 472061683, "longitude": 44545060 }
+  },
+  {
+    "id": "290",
+    "name": "Delivery Truck No. 290",
+    "altitude": 329,
+    "speed": 0,
+    "location": { "latitude": 477200461, "longitude": 44257263 }
+  },
+  {
+    "id": "291",
+    "name": "Delivery Truck No. 291",
+    "altitude": 321,
+    "speed": 0,
+    "location": { "latitude": 485314725, "longitude": 52177908 }
+  },
+  {
+    "id": "292",
+    "name": "Delivery Truck No. 292",
+    "altitude": 316,
+    "speed": 0,
+    "location": { "latitude": 505310249, "longitude": 31195419 }
+  },
+  {
+    "id": "293",
+    "name": "Delivery Truck No. 293",
+    "altitude": 261,
+    "speed": 0,
+    "location": { "latitude": 479161873, "longitude": 34688992 }
+  },
+  {
+    "id": "294",
+    "name": "Delivery Truck No. 294",
+    "altitude": 313,
+    "speed": 0,
+    "location": { "latitude": 470582606, "longitude": 50959214 }
+  },
+  {
+    "id": "295",
+    "name": "Delivery Truck No. 295",
+    "altitude": 302,
+    "speed": 0,
+    "location": { "latitude": 501528535, "longitude": 61497690 }
+  },
+  {
+    "id": "296",
+    "name": "Delivery Truck No. 296",
+    "altitude": 285,
+    "speed": 0,
+    "location": { "latitude": 501262237, "longitude": 54698668 }
+  },
+  {
+    "id": "297",
+    "name": "Delivery Truck No. 297",
+    "altitude": 261,
+    "speed": 0,
+    "location": { "latitude": 501723206, "longitude": 55590559 }
+  },
+  {
+    "id": "298",
+    "name": "Delivery Truck No. 298",
+    "altitude": 273,
+    "speed": 0,
+    "location": { "latitude": 472229202, "longitude": 39554853 }
+  },
+  {
+    "id": "299",
+    "name": "Delivery Truck No. 299",
+    "altitude": 391,
+    "speed": 0,
+    "location": { "latitude": 487641151, "longitude": 30321162 }
+  },
+  {
+    "id": "300",
+    "name": "Delivery Truck No. 300",
+    "altitude": 289,
+    "speed": 0,
+    "location": { "latitude": 481973839, "longitude": 52095110 }
+  },
+  {
+    "id": "301",
+    "name": "Delivery Truck No. 301",
+    "altitude": 353,
+    "speed": 0,
+    "location": { "latitude": 484433738, "longitude": 38314480 }
+  },
+  {
+    "id": "302",
+    "name": "Delivery Truck No. 302",
+    "altitude": 290,
+    "speed": 0,
+    "location": { "latitude": 472876579, "longitude": 47883111 }
+  },
+  {
+    "id": "303",
+    "name": "Delivery Truck No. 303",
+    "altitude": 395,
+    "speed": 0,
+    "location": { "latitude": 495750700, "longitude": 67855476 }
+  },
+  {
+    "id": "304",
+    "name": "Delivery Truck No. 304",
+    "altitude": 398,
+    "speed": 0,
+    "location": { "latitude": 505822820, "longitude": 45856797 }
+  },
+  {
+    "id": "305",
+    "name": "Delivery Truck No. 305",
+    "altitude": 308,
+    "speed": 0,
+    "location": { "latitude": 496299222, "longitude": 63617987 }
+  },
+  {
+    "id": "306",
+    "name": "Delivery Truck No. 306",
+    "altitude": 234,
+    "speed": 0,
+    "location": { "latitude": 503524527, "longitude": 68704596 }
+  },
+  {
+    "id": "307",
+    "name": "Delivery Truck No. 307",
+    "altitude": 402,
+    "speed": 0,
+    "location": { "latitude": 490695197, "longitude": 49855051 }
+  },
+  {
+    "id": "308",
+    "name": "Delivery Truck No. 308",
+    "altitude": 398,
+    "speed": 0,
+    "location": { "latitude": 482428320, "longitude": 66915804 }
+  },
+  {
+    "id": "309",
+    "name": "Delivery Truck No. 309",
+    "altitude": 254,
+    "speed": 0,
+    "location": { "latitude": 474356331, "longitude": 67539447 }
+  },
+  {
+    "id": "310",
+    "name": "Delivery Truck No. 310",
+    "altitude": 399,
+    "speed": 0,
+    "location": { "latitude": 508079480, "longitude": 47746355 }
+  },
+  {
+    "id": "311",
+    "name": "Delivery Truck No. 311",
+    "altitude": 294,
+    "speed": 0,
+    "location": { "latitude": 485423141, "longitude": 37231447 }
+  },
+  {
+    "id": "312",
+    "name": "Delivery Truck No. 312",
+    "altitude": 275,
+    "speed": 0,
+    "location": { "latitude": 482075654, "longitude": 38250714 }
+  },
+  {
+    "id": "313",
+    "name": "Delivery Truck No. 313",
+    "altitude": 266,
+    "speed": 0,
+    "location": { "latitude": 494604070, "longitude": 66056267 }
+  },
+  {
+    "id": "314",
+    "name": "Delivery Truck No. 314",
+    "altitude": 352,
+    "speed": 0,
+    "location": { "latitude": 479660069, "longitude": 32243269 }
+  },
+  {
+    "id": "315",
+    "name": "Delivery Truck No. 315",
+    "altitude": 249,
+    "speed": 0,
+    "location": { "latitude": 503376807, "longitude": 60927152 }
+  },
+  {
+    "id": "316",
+    "name": "Delivery Truck No. 316",
+    "altitude": 336,
+    "speed": 0,
+    "location": { "latitude": 497235703, "longitude": 55610440 }
+  },
+  {
+    "id": "317",
+    "name": "Delivery Truck No. 317",
+    "altitude": 367,
+    "speed": 0,
+    "location": { "latitude": 482556358, "longitude": 66516902 }
+  },
+  {
+    "id": "318",
+    "name": "Delivery Truck No. 318",
+    "altitude": 300,
+    "speed": 0,
+    "location": { "latitude": 485847429, "longitude": 42796432 }
+  },
+  {
+    "id": "319",
+    "name": "Delivery Truck No. 319",
+    "altitude": 312,
+    "speed": 0,
+    "location": { "latitude": 501279887, "longitude": 61350152 }
+  },
+  {
+    "id": "320",
+    "name": "Delivery Truck No. 320",
+    "altitude": 375,
+    "speed": 0,
+    "location": { "latitude": 477130304, "longitude": 52431976 }
+  },
+  {
+    "id": "321",
+    "name": "Delivery Truck No. 321",
+    "altitude": 313,
+    "speed": 0,
+    "location": { "latitude": 477181924, "longitude": 54112733 }
+  },
+  {
+    "id": "322",
+    "name": "Delivery Truck No. 322",
+    "altitude": 286,
+    "speed": 0,
+    "location": { "latitude": 471147760, "longitude": 61332714 }
+  },
+  {
+    "id": "323",
+    "name": "Delivery Truck No. 323",
+    "altitude": 254,
+    "speed": 0,
+    "location": { "latitude": 491007449, "longitude": 35937616 }
+  },
+  {
+    "id": "324",
+    "name": "Delivery Truck No. 324",
+    "altitude": 287,
+    "speed": 0,
+    "location": { "latitude": 478032323, "longitude": 51107058 }
+  },
+  {
+    "id": "325",
+    "name": "Delivery Truck No. 325",
+    "altitude": 288,
+    "speed": 0,
+    "location": { "latitude": 477147488, "longitude": 32895333 }
+  },
+  {
+    "id": "326",
+    "name": "Delivery Truck No. 326",
+    "altitude": 283,
+    "speed": 0,
+    "location": { "latitude": 489612713, "longitude": 62315611 }
+  },
+  {
+    "id": "327",
+    "name": "Delivery Truck No. 327",
+    "altitude": 320,
+    "speed": 0,
+    "location": { "latitude": 504116852, "longitude": 51958388 }
+  },
+  {
+    "id": "328",
+    "name": "Delivery Truck No. 328",
+    "altitude": 345,
+    "speed": 0,
+    "location": { "latitude": 472754980, "longitude": 53962112 }
+  },
+  {
+    "id": "329",
+    "name": "Delivery Truck No. 329",
+    "altitude": 306,
+    "speed": 0,
+    "location": { "latitude": 486185853, "longitude": 63456620 }
+  },
+  {
+    "id": "330",
+    "name": "Delivery Truck No. 330",
+    "altitude": 232,
+    "speed": 0,
+    "location": { "latitude": 509486833, "longitude": 46477168 }
+  },
+  {
+    "id": "331",
+    "name": "Delivery Truck No. 331",
+    "altitude": 252,
+    "speed": 0,
+    "location": { "latitude": 502520158, "longitude": 58384530 }
+  },
+  {
+    "id": "332",
+    "name": "Delivery Truck No. 332",
+    "altitude": 249,
+    "speed": 0,
+    "location": { "latitude": 507148686, "longitude": 44627208 }
+  },
+  {
+    "id": "333",
+    "name": "Delivery Truck No. 333",
+    "altitude": 380,
+    "speed": 0,
+    "location": { "latitude": 482831973, "longitude": 58940902 }
+  },
+  {
+    "id": "334",
+    "name": "Delivery Truck No. 334",
+    "altitude": 233,
+    "speed": 0,
+    "location": { "latitude": 471683391, "longitude": 36903572 }
+  },
+  {
+    "id": "335",
+    "name": "Delivery Truck No. 335",
+    "altitude": 281,
+    "speed": 0,
+    "location": { "latitude": 475429974, "longitude": 43439928 }
+  },
+  {
+    "id": "336",
+    "name": "Delivery Truck No. 336",
+    "altitude": 266,
+    "speed": 0,
+    "location": { "latitude": 495183619, "longitude": 55680261 }
+  },
+  {
+    "id": "337",
+    "name": "Delivery Truck No. 337",
+    "altitude": 246,
+    "speed": 0,
+    "location": { "latitude": 478176057, "longitude": 47509242 }
+  },
+  {
+    "id": "338",
+    "name": "Delivery Truck No. 338",
+    "altitude": 406,
+    "speed": 0,
+    "location": { "latitude": 502265435, "longitude": 64944700 }
+  },
+  {
+    "id": "339",
+    "name": "Delivery Truck No. 339",
+    "altitude": 244,
+    "speed": 0,
+    "location": { "latitude": 505294571, "longitude": 61512671 }
+  },
+  {
+    "id": "340",
+    "name": "Delivery Truck No. 340",
+    "altitude": 349,
+    "speed": 0,
+    "location": { "latitude": 474596955, "longitude": 47718967 }
+  },
+  {
+    "id": "341",
+    "name": "Delivery Truck No. 341",
+    "altitude": 313,
+    "speed": 0,
+    "location": { "latitude": 480095325, "longitude": 65342072 }
+  },
+  {
+    "id": "342",
+    "name": "Delivery Truck No. 342",
+    "altitude": 376,
+    "speed": 0,
+    "location": { "latitude": 492363766, "longitude": 69934352 }
+  },
+  {
+    "id": "343",
+    "name": "Delivery Truck No. 343",
+    "altitude": 351,
+    "speed": 0,
+    "location": { "latitude": 490010751, "longitude": 40299756 }
+  },
+  {
+    "id": "344",
+    "name": "Delivery Truck No. 344",
+    "altitude": 399,
+    "speed": 0,
+    "location": { "latitude": 504687349, "longitude": 46928726 }
+  },
+  {
+    "id": "345",
+    "name": "Delivery Truck No. 345",
+    "altitude": 371,
+    "speed": 0,
+    "location": { "latitude": 502462694, "longitude": 42441436 }
+  },
+  {
+    "id": "346",
+    "name": "Delivery Truck No. 346",
+    "altitude": 273,
+    "speed": 0,
+    "location": { "latitude": 485661807, "longitude": 56367101 }
+  },
+  {
+    "id": "347",
+    "name": "Delivery Truck No. 347",
+    "altitude": 283,
+    "speed": 0,
+    "location": { "latitude": 471215409, "longitude": 54904555 }
+  },
+  {
+    "id": "348",
+    "name": "Delivery Truck No. 348",
+    "altitude": 385,
+    "speed": 0,
+    "location": { "latitude": 495139045, "longitude": 33476821 }
+  },
+  {
+    "id": "349",
+    "name": "Delivery Truck No. 349",
+    "altitude": 369,
+    "speed": 0,
+    "location": { "latitude": 485844410, "longitude": 54148460 }
+  },
+  {
+    "id": "350",
+    "name": "Delivery Truck No. 350",
+    "altitude": 256,
+    "speed": 0,
+    "location": { "latitude": 487735804, "longitude": 32772203 }
+  },
+  {
+    "id": "351",
+    "name": "Delivery Truck No. 351",
+    "altitude": 284,
+    "speed": 0,
+    "location": { "latitude": 504346587, "longitude": 59743943 }
+  },
+  {
+    "id": "352",
+    "name": "Delivery Truck No. 352",
+    "altitude": 258,
+    "speed": 0,
+    "location": { "latitude": 500570995, "longitude": 46513440 }
+  },
+  {
+    "id": "353",
+    "name": "Delivery Truck No. 353",
+    "altitude": 397,
+    "speed": 0,
+    "location": { "latitude": 471910198, "longitude": 37058466 }
+  },
+  {
+    "id": "354",
+    "name": "Delivery Truck No. 354",
+    "altitude": 272,
+    "speed": 0,
+    "location": { "latitude": 481791486, "longitude": 49865217 }
+  },
+  {
+    "id": "355",
+    "name": "Delivery Truck No. 355",
+    "altitude": 264,
+    "speed": 0,
+    "location": { "latitude": 482774863, "longitude": 40561729 }
+  },
+  {
+    "id": "356",
+    "name": "Delivery Truck No. 356",
+    "altitude": 365,
+    "speed": 0,
+    "location": { "latitude": 501929551, "longitude": 36910839 }
+  },
+  {
+    "id": "357",
+    "name": "Delivery Truck No. 357",
+    "altitude": 282,
+    "speed": 0,
+    "location": { "latitude": 491205839, "longitude": 38545136 }
+  },
+  {
+    "id": "358",
+    "name": "Delivery Truck No. 358",
+    "altitude": 273,
+    "speed": 0,
+    "location": { "latitude": 490852558, "longitude": 52407027 }
+  },
+  {
+    "id": "359",
+    "name": "Delivery Truck No. 359",
+    "altitude": 397,
+    "speed": 0,
+    "location": { "latitude": 505123189, "longitude": 40894819 }
+  },
+  {
+    "id": "360",
+    "name": "Delivery Truck No. 360",
+    "altitude": 270,
+    "speed": 0,
+    "location": { "latitude": 495798429, "longitude": 35055531 }
+  },
+  {
+    "id": "361",
+    "name": "Delivery Truck No. 361",
+    "altitude": 366,
+    "speed": 0,
+    "location": { "latitude": 494587109, "longitude": 33815947 }
+  },
+  {
+    "id": "362",
+    "name": "Delivery Truck No. 362",
+    "altitude": 271,
+    "speed": 0,
+    "location": { "latitude": 492836469, "longitude": 68192765 }
+  },
+  {
+    "id": "363",
+    "name": "Delivery Truck No. 363",
+    "altitude": 380,
+    "speed": 0,
+    "location": { "latitude": 483823597, "longitude": 57752143 }
+  },
+  {
+    "id": "364",
+    "name": "Delivery Truck No. 364",
+    "altitude": 384,
+    "speed": 0,
+    "location": { "latitude": 470425750, "longitude": 49317448 }
+  },
+  {
+    "id": "365",
+    "name": "Delivery Truck No. 365",
+    "altitude": 270,
+    "speed": 0,
+    "location": { "latitude": 487839609, "longitude": 59345855 }
+  },
+  {
+    "id": "366",
+    "name": "Delivery Truck No. 366",
+    "altitude": 351,
+    "speed": 0,
+    "location": { "latitude": 500514344, "longitude": 46263480 }
+  },
+  {
+    "id": "367",
+    "name": "Delivery Truck No. 367",
+    "altitude": 308,
+    "speed": 0,
+    "location": { "latitude": 483301402, "longitude": 63958739 }
+  },
+  {
+    "id": "368",
+    "name": "Delivery Truck No. 368",
+    "altitude": 359,
+    "speed": 0,
+    "location": { "latitude": 492138147, "longitude": 43065835 }
+  },
+  {
+    "id": "369",
+    "name": "Delivery Truck No. 369",
+    "altitude": 282,
+    "speed": 0,
+    "location": { "latitude": 481501790, "longitude": 30304732 }
+  },
+  {
+    "id": "370",
+    "name": "Delivery Truck No. 370",
+    "altitude": 395,
+    "speed": 0,
+    "location": { "latitude": 480427525, "longitude": 46430724 }
+  },
+  {
+    "id": "371",
+    "name": "Delivery Truck No. 371",
+    "altitude": 238,
+    "speed": 0,
+    "location": { "latitude": 484824281, "longitude": 40623875 }
+  },
+  {
+    "id": "372",
+    "name": "Delivery Truck No. 372",
+    "altitude": 338,
+    "speed": 0,
+    "location": { "latitude": 487896793, "longitude": 47330443 }
+  },
+  {
+    "id": "373",
+    "name": "Delivery Truck No. 373",
+    "altitude": 400,
+    "speed": 0,
+    "location": { "latitude": 505636498, "longitude": 56469296 }
+  },
+  {
+    "id": "374",
+    "name": "Delivery Truck No. 374",
+    "altitude": 234,
+    "speed": 0,
+    "location": { "latitude": 505173217, "longitude": 47336814 }
+  },
+  {
+    "id": "375",
+    "name": "Delivery Truck No. 375",
+    "altitude": 384,
+    "speed": 0,
+    "location": { "latitude": 488877775, "longitude": 59281956 }
+  },
+  {
+    "id": "376",
+    "name": "Delivery Truck No. 376",
+    "altitude": 406,
+    "speed": 0,
+    "location": { "latitude": 477306577, "longitude": 60078511 }
+  },
+  {
+    "id": "377",
+    "name": "Delivery Truck No. 377",
+    "altitude": 365,
+    "speed": 0,
+    "location": { "latitude": 500315836, "longitude": 68699612 }
+  },
+  {
+    "id": "378",
+    "name": "Delivery Truck No. 378",
+    "altitude": 382,
+    "speed": 0,
+    "location": { "latitude": 480964328, "longitude": 61497236 }
+  },
+  {
+    "id": "379",
+    "name": "Delivery Truck No. 379",
+    "altitude": 334,
+    "speed": 0,
+    "location": { "latitude": 508760898, "longitude": 40532947 }
+  },
+  {
+    "id": "380",
+    "name": "Delivery Truck No. 380",
+    "altitude": 273,
+    "speed": 0,
+    "location": { "latitude": 491140246, "longitude": 40164189 }
+  },
+  {
+    "id": "381",
+    "name": "Delivery Truck No. 381",
+    "altitude": 240,
+    "speed": 0,
+    "location": { "latitude": 487151757, "longitude": 43830815 }
+  },
+  {
+    "id": "382",
+    "name": "Delivery Truck No. 382",
+    "altitude": 361,
+    "speed": 0,
+    "location": { "latitude": 470943731, "longitude": 41829600 }
+  },
+  {
+    "id": "383",
+    "name": "Delivery Truck No. 383",
+    "altitude": 399,
+    "speed": 0,
+    "location": { "latitude": 501898500, "longitude": 45917107 }
+  },
+  {
+    "id": "384",
+    "name": "Delivery Truck No. 384",
+    "altitude": 387,
+    "speed": 0,
+    "location": { "latitude": 492172923, "longitude": 37824856 }
+  },
+  {
+    "id": "385",
+    "name": "Delivery Truck No. 385",
+    "altitude": 295,
+    "speed": 0,
+    "location": { "latitude": 497739791, "longitude": 52888171 }
+  },
+  {
+    "id": "386",
+    "name": "Delivery Truck No. 386",
+    "altitude": 345,
+    "speed": 0,
+    "location": { "latitude": 499017126, "longitude": 42993065 }
+  },
+  {
+    "id": "387",
+    "name": "Delivery Truck No. 387",
+    "altitude": 368,
+    "speed": 0,
+    "location": { "latitude": 492349324, "longitude": 40746689 }
+  },
+  {
+    "id": "388",
+    "name": "Delivery Truck No. 388",
+    "altitude": 293,
+    "speed": 0,
+    "location": { "latitude": 488322488, "longitude": 51145737 }
+  },
+  {
+    "id": "389",
+    "name": "Delivery Truck No. 389",
+    "altitude": 233,
+    "speed": 0,
+    "location": { "latitude": 502686082, "longitude": 31238330 }
+  },
+  {
+    "id": "390",
+    "name": "Delivery Truck No. 390",
+    "altitude": 375,
+    "speed": 0,
+    "location": { "latitude": 475491637, "longitude": 37599114 }
+  },
+  {
+    "id": "391",
+    "name": "Delivery Truck No. 391",
+    "altitude": 390,
+    "speed": 0,
+    "location": { "latitude": 485132154, "longitude": 36127284 }
+  },
+  {
+    "id": "392",
+    "name": "Delivery Truck No. 392",
+    "altitude": 396,
+    "speed": 0,
+    "location": { "latitude": 496172697, "longitude": 57612714 }
+  },
+  {
+    "id": "393",
+    "name": "Delivery Truck No. 393",
+    "altitude": 300,
+    "speed": 0,
+    "location": { "latitude": 503796158, "longitude": 34464357 }
+  },
+  {
+    "id": "394",
+    "name": "Delivery Truck No. 394",
+    "altitude": 260,
+    "speed": 0,
+    "location": { "latitude": 487827040, "longitude": 40990820 }
+  },
+  {
+    "id": "395",
+    "name": "Delivery Truck No. 395",
+    "altitude": 264,
+    "speed": 0,
+    "location": { "latitude": 502143438, "longitude": 38265227 }
+  },
+  {
+    "id": "396",
+    "name": "Delivery Truck No. 396",
+    "altitude": 258,
+    "speed": 0,
+    "location": { "latitude": 487627851, "longitude": 49880913 }
+  },
+  {
+    "id": "397",
+    "name": "Delivery Truck No. 397",
+    "altitude": 265,
+    "speed": 0,
+    "location": { "latitude": 507067669, "longitude": 33285340 }
+  },
+  {
+    "id": "398",
+    "name": "Delivery Truck No. 398",
+    "altitude": 359,
+    "speed": 0,
+    "location": { "latitude": 477870696, "longitude": 56173201 }
+  },
+  {
+    "id": "399",
+    "name": "Delivery Truck No. 399",
+    "altitude": 395,
+    "speed": 0,
+    "location": { "latitude": 470271693, "longitude": 34362435 }
+  },
+  {
+    "id": "400",
+    "name": "Delivery Truck No. 400",
+    "altitude": 280,
+    "speed": 0,
+    "location": { "latitude": 491103514, "longitude": 60305175 }
+  },
+  {
+    "id": "401",
+    "name": "Delivery Truck No. 401",
+    "altitude": 381,
+    "speed": 0,
+    "location": { "latitude": 502777713, "longitude": 67351407 }
+  },
+  {
+    "id": "402",
+    "name": "Delivery Truck No. 402",
+    "altitude": 335,
+    "speed": 0,
+    "location": { "latitude": 489600658, "longitude": 54621751 }
+  },
+  {
+    "id": "403",
+    "name": "Delivery Truck No. 403",
+    "altitude": 380,
+    "speed": 0,
+    "location": { "latitude": 502822859, "longitude": 48692466 }
+  },
+  {
+    "id": "404",
+    "name": "Delivery Truck No. 404",
+    "altitude": 259,
+    "speed": 0,
+    "location": { "latitude": 471781236, "longitude": 57702835 }
+  },
+  {
+    "id": "405",
+    "name": "Delivery Truck No. 405",
+    "altitude": 341,
+    "speed": 0,
+    "location": { "latitude": 481404554, "longitude": 49186223 }
+  },
+  {
+    "id": "406",
+    "name": "Delivery Truck No. 406",
+    "altitude": 258,
+    "speed": 0,
+    "location": { "latitude": 492971242, "longitude": 40007772 }
+  },
+  {
+    "id": "407",
+    "name": "Delivery Truck No. 407",
+    "altitude": 340,
+    "speed": 0,
+    "location": { "latitude": 505997635, "longitude": 44305987 }
+  },
+  {
+    "id": "408",
+    "name": "Delivery Truck No. 408",
+    "altitude": 328,
+    "speed": 0,
+    "location": { "latitude": 471177200, "longitude": 30588472 }
+  },
+  {
+    "id": "409",
+    "name": "Delivery Truck No. 409",
+    "altitude": 278,
+    "speed": 0,
+    "location": { "latitude": 491814722, "longitude": 54985396 }
+  },
+  {
+    "id": "410",
+    "name": "Delivery Truck No. 410",
+    "altitude": 382,
+    "speed": 0,
+    "location": { "latitude": 502633378, "longitude": 47589552 }
+  },
+  {
+    "id": "411",
+    "name": "Delivery Truck No. 411",
+    "altitude": 386,
+    "speed": 0,
+    "location": { "latitude": 488182119, "longitude": 60943857 }
+  },
+  {
+    "id": "412",
+    "name": "Delivery Truck No. 412",
+    "altitude": 368,
+    "speed": 0,
+    "location": { "latitude": 480223661, "longitude": 49544396 }
+  },
+  {
+    "id": "413",
+    "name": "Delivery Truck No. 413",
+    "altitude": 403,
+    "speed": 0,
+    "location": { "latitude": 507043826, "longitude": 46145384 }
+  },
+  {
+    "id": "414",
+    "name": "Delivery Truck No. 414",
+    "altitude": 347,
+    "speed": 0,
+    "location": { "latitude": 501913905, "longitude": 49757152 }
+  },
+  {
+    "id": "415",
+    "name": "Delivery Truck No. 415",
+    "altitude": 232,
+    "speed": 0,
+    "location": { "latitude": 493839339, "longitude": 48281654 }
+  },
+  {
+    "id": "416",
+    "name": "Delivery Truck No. 416",
+    "altitude": 253,
+    "speed": 0,
+    "location": { "latitude": 470796854, "longitude": 48753244 }
+  },
+  {
+    "id": "417",
+    "name": "Delivery Truck No. 417",
+    "altitude": 398,
+    "speed": 0,
+    "location": { "latitude": 493978405, "longitude": 54926299 }
+  },
+  {
+    "id": "418",
+    "name": "Delivery Truck No. 418",
+    "altitude": 398,
+    "speed": 0,
+    "location": { "latitude": 486390781, "longitude": 64131184 }
+  },
+  {
+    "id": "419",
+    "name": "Delivery Truck No. 419",
+    "altitude": 293,
+    "speed": 0,
+    "location": { "latitude": 498889032, "longitude": 43763807 }
+  },
+  {
+    "id": "420",
+    "name": "Delivery Truck No. 420",
+    "altitude": 392,
+    "speed": 0,
+    "location": { "latitude": 502856943, "longitude": 55634868 }
+  },
+  {
+    "id": "421",
+    "name": "Delivery Truck No. 421",
+    "altitude": 344,
+    "speed": 0,
+    "location": { "latitude": 480924078, "longitude": 52603361 }
+  },
+  {
+    "id": "422",
+    "name": "Delivery Truck No. 422",
+    "altitude": 275,
+    "speed": 0,
+    "location": { "latitude": 485890354, "longitude": 64959757 }
+  },
+  {
+    "id": "423",
+    "name": "Delivery Truck No. 423",
+    "altitude": 266,
+    "speed": 0,
+    "location": { "latitude": 481010082, "longitude": 33827855 }
+  },
+  {
+    "id": "424",
+    "name": "Delivery Truck No. 424",
+    "altitude": 368,
+    "speed": 0,
+    "location": { "latitude": 492118641, "longitude": 64417555 }
+  },
+  {
+    "id": "425",
+    "name": "Delivery Truck No. 425",
+    "altitude": 347,
+    "speed": 0,
+    "location": { "latitude": 477465197, "longitude": 50957560 }
+  },
+  {
+    "id": "426",
+    "name": "Delivery Truck No. 426",
+    "altitude": 383,
+    "speed": 0,
+    "location": { "latitude": 506708062, "longitude": 30138431 }
+  },
+  {
+    "id": "427",
+    "name": "Delivery Truck No. 427",
+    "altitude": 319,
+    "speed": 0,
+    "location": { "latitude": 502296308, "longitude": 30585287 }
+  },
+  {
+    "id": "428",
+    "name": "Delivery Truck No. 428",
+    "altitude": 316,
+    "speed": 0,
+    "location": { "latitude": 491442174, "longitude": 37681406 }
+  },
+  {
+    "id": "429",
+    "name": "Delivery Truck No. 429",
+    "altitude": 260,
+    "speed": 0,
+    "location": { "latitude": 496829470, "longitude": 58167978 }
+  },
+  {
+    "id": "430",
+    "name": "Delivery Truck No. 430",
+    "altitude": 296,
+    "speed": 0,
+    "location": { "latitude": 505383811, "longitude": 62995593 }
+  },
+  {
+    "id": "431",
+    "name": "Delivery Truck No. 431",
+    "altitude": 368,
+    "speed": 0,
+    "location": { "latitude": 481550013, "longitude": 54722724 }
+  },
+  {
+    "id": "432",
+    "name": "Delivery Truck No. 432",
+    "altitude": 289,
+    "speed": 0,
+    "location": { "latitude": 491089898, "longitude": 41350634 }
+  },
+  {
+    "id": "433",
+    "name": "Delivery Truck No. 433",
+    "altitude": 233,
+    "speed": 0,
+    "location": { "latitude": 493571118, "longitude": 47850484 }
+  },
+  {
+    "id": "434",
+    "name": "Delivery Truck No. 434",
+    "altitude": 384,
+    "speed": 0,
+    "location": { "latitude": 488526844, "longitude": 44410352 }
+  },
+  {
+    "id": "435",
+    "name": "Delivery Truck No. 435",
+    "altitude": 395,
+    "speed": 0,
+    "location": { "latitude": 475226667, "longitude": 64765215 }
+  },
+  {
+    "id": "436",
+    "name": "Delivery Truck No. 436",
+    "altitude": 394,
+    "speed": 0,
+    "location": { "latitude": 478210253, "longitude": 61191883 }
+  },
+  {
+    "id": "437",
+    "name": "Delivery Truck No. 437",
+    "altitude": 391,
+    "speed": 0,
+    "location": { "latitude": 482907545, "longitude": 52715922 }
+  },
+  {
+    "id": "438",
+    "name": "Delivery Truck No. 438",
+    "altitude": 371,
+    "speed": 0,
+    "location": { "latitude": 490369471, "longitude": 63538230 }
+  },
+  {
+    "id": "439",
+    "name": "Delivery Truck No. 439",
+    "altitude": 246,
+    "speed": 0,
+    "location": { "latitude": 483855761, "longitude": 63106548 }
+  },
+  {
+    "id": "440",
+    "name": "Delivery Truck No. 440",
+    "altitude": 385,
+    "speed": 0,
+    "location": { "latitude": 496388877, "longitude": 67544705 }
+  },
+  {
+    "id": "441",
+    "name": "Delivery Truck No. 441",
+    "altitude": 289,
+    "speed": 0,
+    "location": { "latitude": 478139093, "longitude": 31965376 }
+  },
+  {
+    "id": "442",
+    "name": "Delivery Truck No. 442",
+    "altitude": 295,
+    "speed": 0,
+    "location": { "latitude": 476327855, "longitude": 69341080 }
+  },
+  {
+    "id": "443",
+    "name": "Delivery Truck No. 443",
+    "altitude": 346,
+    "speed": 0,
+    "location": { "latitude": 498884758, "longitude": 55061949 }
+  },
+  {
+    "id": "444",
+    "name": "Delivery Truck No. 444",
+    "altitude": 241,
+    "speed": 0,
+    "location": { "latitude": 501019513, "longitude": 47707804 }
+  },
+  {
+    "id": "445",
+    "name": "Delivery Truck No. 445",
+    "altitude": 352,
+    "speed": 0,
+    "location": { "latitude": 475431823, "longitude": 47923941 }
+  },
+  {
+    "id": "446",
+    "name": "Delivery Truck No. 446",
+    "altitude": 341,
+    "speed": 0,
+    "location": { "latitude": 501960058, "longitude": 30350944 }
+  },
+  {
+    "id": "447",
+    "name": "Delivery Truck No. 447",
+    "altitude": 340,
+    "speed": 0,
+    "location": { "latitude": 499874873, "longitude": 64357170 }
+  },
+  {
+    "id": "448",
+    "name": "Delivery Truck No. 448",
+    "altitude": 282,
+    "speed": 0,
+    "location": { "latitude": 492877092, "longitude": 52283956 }
+  },
+  {
+    "id": "449",
+    "name": "Delivery Truck No. 449",
+    "altitude": 308,
+    "speed": 0,
+    "location": { "latitude": 472139696, "longitude": 32192499 }
+  },
+  {
+    "id": "450",
+    "name": "Delivery Truck No. 450",
+    "altitude": 287,
+    "speed": 0,
+    "location": { "latitude": 485065079, "longitude": 40321776 }
+  },
+  {
+    "id": "451",
+    "name": "Delivery Truck No. 451",
+    "altitude": 248,
+    "speed": 0,
+    "location": { "latitude": 506301973, "longitude": 60050488 }
+  },
+  {
+    "id": "452",
+    "name": "Delivery Truck No. 452",
+    "altitude": 244,
+    "speed": 0,
+    "location": { "latitude": 474547514, "longitude": 33968234 }
+  },
+  {
+    "id": "453",
+    "name": "Delivery Truck No. 453",
+    "altitude": 255,
+    "speed": 0,
+    "location": { "latitude": 507181429, "longitude": 49591487 }
+  },
+  {
+    "id": "454",
+    "name": "Delivery Truck No. 454",
+    "altitude": 400,
+    "speed": 0,
+    "location": { "latitude": 509139997, "longitude": 46914221 }
+  },
+  {
+    "id": "455",
+    "name": "Delivery Truck No. 455",
+    "altitude": 403,
+    "speed": 0,
+    "location": { "latitude": 508160201, "longitude": 44825755 }
+  },
+  {
+    "id": "456",
+    "name": "Delivery Truck No. 456",
+    "altitude": 349,
+    "speed": 0,
+    "location": { "latitude": 496129395, "longitude": 50980503 }
+  },
+  {
+    "id": "457",
+    "name": "Delivery Truck No. 457",
+    "altitude": 331,
+    "speed": 0,
+    "location": { "latitude": 503051670, "longitude": 67305291 }
+  },
+  {
+    "id": "458",
+    "name": "Delivery Truck No. 458",
+    "altitude": 357,
+    "speed": 0,
+    "location": { "latitude": 485762859, "longitude": 59650528 }
+  },
+  {
+    "id": "459",
+    "name": "Delivery Truck No. 459",
+    "altitude": 283,
+    "speed": 0,
+    "location": { "latitude": 503922959, "longitude": 65680310 }
+  },
+  {
+    "id": "460",
+    "name": "Delivery Truck No. 460",
+    "altitude": 343,
+    "speed": 0,
+    "location": { "latitude": 488576198, "longitude": 41704658 }
+  },
+  {
+    "id": "461",
+    "name": "Delivery Truck No. 461",
+    "altitude": 384,
+    "speed": 0,
+    "location": { "latitude": 503558851, "longitude": 60760354 }
+  },
+  {
+    "id": "462",
+    "name": "Delivery Truck No. 462",
+    "altitude": 290,
+    "speed": 0,
+    "location": { "latitude": 472353456, "longitude": 48208561 }
+  },
+  {
+    "id": "463",
+    "name": "Delivery Truck No. 463",
+    "altitude": 318,
+    "speed": 0,
+    "location": { "latitude": 471886634, "longitude": 43731809 }
+  },
+  {
+    "id": "464",
+    "name": "Delivery Truck No. 464",
+    "altitude": 407,
+    "speed": 0,
+    "location": { "latitude": 506602817, "longitude": 64837578 }
+  },
+  {
+    "id": "465",
+    "name": "Delivery Truck No. 465",
+    "altitude": 402,
+    "speed": 0,
+    "location": { "latitude": 506897758, "longitude": 58450153 }
+  },
+  {
+    "id": "466",
+    "name": "Delivery Truck No. 466",
+    "altitude": 291,
+    "speed": 0,
+    "location": { "latitude": 487948124, "longitude": 62783355 }
+  },
+  {
+    "id": "467",
+    "name": "Delivery Truck No. 467",
+    "altitude": 248,
+    "speed": 0,
+    "location": { "latitude": 484020164, "longitude": 60493462 }
+  },
+  {
+    "id": "468",
+    "name": "Delivery Truck No. 468",
+    "altitude": 242,
+    "speed": 0,
+    "location": { "latitude": 473368019, "longitude": 31527400 }
+  },
+  {
+    "id": "469",
+    "name": "Delivery Truck No. 469",
+    "altitude": 306,
+    "speed": 0,
+    "location": { "latitude": 491791257, "longitude": 53701517 }
+  },
+  {
+    "id": "470",
+    "name": "Delivery Truck No. 470",
+    "altitude": 271,
+    "speed": 0,
+    "location": { "latitude": 489126733, "longitude": 48963309 }
+  },
+  {
+    "id": "471",
+    "name": "Delivery Truck No. 471",
+    "altitude": 392,
+    "speed": 0,
+    "location": { "latitude": 483584774, "longitude": 65877258 }
+  },
+  {
+    "id": "472",
+    "name": "Delivery Truck No. 472",
+    "altitude": 302,
+    "speed": 0,
+    "location": { "latitude": 478172639, "longitude": 65376542 }
+  },
+  {
+    "id": "473",
+    "name": "Delivery Truck No. 473",
+    "altitude": 320,
+    "speed": 0,
+    "location": { "latitude": 502015708, "longitude": 30185710 }
+  },
+  {
+    "id": "474",
+    "name": "Delivery Truck No. 474",
+    "altitude": 397,
+    "speed": 0,
+    "location": { "latitude": 489594013, "longitude": 56517739 }
+  },
+  {
+    "id": "475",
+    "name": "Delivery Truck No. 475",
+    "altitude": 403,
+    "speed": 0,
+    "location": { "latitude": 473042966, "longitude": 48684356 }
+  },
+  {
+    "id": "476",
+    "name": "Delivery Truck No. 476",
+    "altitude": 277,
+    "speed": 0,
+    "location": { "latitude": 487684360, "longitude": 33760562 }
+  },
+  {
+    "id": "477",
+    "name": "Delivery Truck No. 477",
+    "altitude": 303,
+    "speed": 0,
+    "location": { "latitude": 498884304, "longitude": 67867289 }
+  },
+  {
+    "id": "478",
+    "name": "Delivery Truck No. 478",
+    "altitude": 261,
+    "speed": 0,
+    "location": { "latitude": 498407523, "longitude": 69739910 }
+  },
+  {
+    "id": "479",
+    "name": "Delivery Truck No. 479",
+    "altitude": 347,
+    "speed": 0,
+    "location": { "latitude": 475549275, "longitude": 56545434 }
+  },
+  {
+    "id": "480",
+    "name": "Delivery Truck No. 480",
+    "altitude": 240,
+    "speed": 0,
+    "location": { "latitude": 504192921, "longitude": 52021800 }
+  },
+  {
+    "id": "481",
+    "name": "Delivery Truck No. 481",
+    "altitude": 316,
+    "speed": 0,
+    "location": { "latitude": 488589384, "longitude": 66512417 }
+  },
+  {
+    "id": "482",
+    "name": "Delivery Truck No. 482",
+    "altitude": 343,
+    "speed": 0,
+    "location": { "latitude": 500032866, "longitude": 68134758 }
+  },
+  {
+    "id": "483",
+    "name": "Delivery Truck No. 483",
+    "altitude": 327,
+    "speed": 0,
+    "location": { "latitude": 500097917, "longitude": 62254746 }
+  },
+  {
+    "id": "484",
+    "name": "Delivery Truck No. 484",
+    "altitude": 309,
+    "speed": 0,
+    "location": { "latitude": 503684584, "longitude": 52356062 }
+  },
+  {
+    "id": "485",
+    "name": "Delivery Truck No. 485",
+    "altitude": 232,
+    "speed": 0,
+    "location": { "latitude": 509711267, "longitude": 34615516 }
+  },
+  {
+    "id": "486",
+    "name": "Delivery Truck No. 486",
+    "altitude": 319,
+    "speed": 0,
+    "location": { "latitude": 496133936, "longitude": 64958095 }
+  },
+  {
+    "id": "487",
+    "name": "Delivery Truck No. 487",
+    "altitude": 326,
+    "speed": 0,
+    "location": { "latitude": 492888373, "longitude": 38646784 }
+  },
+  {
+    "id": "488",
+    "name": "Delivery Truck No. 488",
+    "altitude": 267,
+    "speed": 0,
+    "location": { "latitude": 506435703, "longitude": 60734334 }
+  },
+  {
+    "id": "489",
+    "name": "Delivery Truck No. 489",
+    "altitude": 385,
+    "speed": 0,
+    "location": { "latitude": 474621844, "longitude": 32953948 }
+  },
+  {
+    "id": "490",
+    "name": "Delivery Truck No. 490",
+    "altitude": 296,
+    "speed": 0,
+    "location": { "latitude": 492914995, "longitude": 54345833 }
+  },
+  {
+    "id": "491",
+    "name": "Delivery Truck No. 491",
+    "altitude": 369,
+    "speed": 0,
+    "location": { "latitude": 477099430, "longitude": 40856898 }
+  },
+  {
+    "id": "492",
+    "name": "Delivery Truck No. 492",
+    "altitude": 255,
+    "speed": 0,
+    "location": { "latitude": 473795187, "longitude": 67174529 }
+  },
+  {
+    "id": "493",
+    "name": "Delivery Truck No. 493",
+    "altitude": 345,
+    "speed": 0,
+    "location": { "latitude": 477323104, "longitude": 62297469 }
+  },
+  {
+    "id": "494",
+    "name": "Delivery Truck No. 494",
+    "altitude": 276,
+    "speed": 0,
+    "location": { "latitude": 509906608, "longitude": 47069157 }
+  },
+  {
+    "id": "495",
+    "name": "Delivery Truck No. 495",
+    "altitude": 389,
+    "speed": 0,
+    "location": { "latitude": 508356044, "longitude": 53125608 }
+  },
+  {
+    "id": "496",
+    "name": "Delivery Truck No. 496",
+    "altitude": 261,
+    "speed": 0,
+    "location": { "latitude": 480144848, "longitude": 44855361 }
+  },
+  {
+    "id": "497",
+    "name": "Delivery Truck No. 497",
+    "altitude": 248,
+    "speed": 0,
+    "location": { "latitude": 475230271, "longitude": 52808202 }
+  },
+  {
+    "id": "498",
+    "name": "Delivery Truck No. 498",
+    "altitude": 266,
+    "speed": 0,
+    "location": { "latitude": 498382683, "longitude": 46489538 }
+  },
+  {
+    "id": "499",
+    "name": "Delivery Truck No. 499",
+    "altitude": 328,
+    "speed": 0,
+    "location": { "latitude": 507434120, "longitude": 34330208 }
+  },
+  {
+    "id": "500",
+    "name": "Delivery Truck No. 500",
+    "altitude": 255,
+    "speed": 0,
+    "location": { "latitude": 502755498, "longitude": 58650065 }
+  },
+  {
+    "id": "501",
+    "name": "Delivery Truck No. 501",
+    "altitude": 387,
+    "speed": 0,
+    "location": { "latitude": 481637216, "longitude": 47097352 }
+  },
+  {
+    "id": "502",
+    "name": "Delivery Truck No. 502",
+    "altitude": 356,
+    "speed": 0,
+    "location": { "latitude": 473830803, "longitude": 40579795 }
+  },
+  {
+    "id": "503",
+    "name": "Delivery Truck No. 503",
+    "altitude": 359,
+    "speed": 0,
+    "location": { "latitude": 475554981, "longitude": 32989360 }
+  },
+  {
+    "id": "504",
+    "name": "Delivery Truck No. 504",
+    "altitude": 338,
+    "speed": 0,
+    "location": { "latitude": 483963517, "longitude": 35231427 }
+  },
+  {
+    "id": "505",
+    "name": "Delivery Truck No. 505",
+    "altitude": 242,
+    "speed": 0,
+    "location": { "latitude": 502256335, "longitude": 43874853 }
+  },
+  {
+    "id": "506",
+    "name": "Delivery Truck No. 506",
+    "altitude": 310,
+    "speed": 0,
+    "location": { "latitude": 509258064, "longitude": 43022927 }
+  },
+  {
+    "id": "507",
+    "name": "Delivery Truck No. 507",
+    "altitude": 378,
+    "speed": 0,
+    "location": { "latitude": 470607769, "longitude": 30014127 }
+  },
+  {
+    "id": "508",
+    "name": "Delivery Truck No. 508",
+    "altitude": 288,
+    "speed": 0,
+    "location": { "latitude": 509855421, "longitude": 47504333 }
+  },
+  {
+    "id": "509",
+    "name": "Delivery Truck No. 509",
+    "altitude": 353,
+    "speed": 0,
+    "location": { "latitude": 506524000, "longitude": 64121429 }
+  },
+  {
+    "id": "510",
+    "name": "Delivery Truck No. 510",
+    "altitude": 377,
+    "speed": 0,
+    "location": { "latitude": 509567718, "longitude": 41558138 }
+  },
+  {
+    "id": "511",
+    "name": "Delivery Truck No. 511",
+    "altitude": 253,
+    "speed": 0,
+    "location": { "latitude": 499045252, "longitude": 53034039 }
+  },
+  {
+    "id": "512",
+    "name": "Delivery Truck No. 512",
+    "altitude": 262,
+    "speed": 0,
+    "location": { "latitude": 480726914, "longitude": 65977680 }
+  },
+  {
+    "id": "513",
+    "name": "Delivery Truck No. 513",
+    "altitude": 304,
+    "speed": 0,
+    "location": { "latitude": 471589181, "longitude": 30096041 }
+  },
+  {
+    "id": "514",
+    "name": "Delivery Truck No. 514",
+    "altitude": 372,
+    "speed": 0,
+    "location": { "latitude": 506254621, "longitude": 54206927 }
+  },
+  {
+    "id": "515",
+    "name": "Delivery Truck No. 515",
+    "altitude": 290,
+    "speed": 0,
+    "location": { "latitude": 501310868, "longitude": 64607545 }
+  },
+  {
+    "id": "516",
+    "name": "Delivery Truck No. 516",
+    "altitude": 349,
+    "speed": 0,
+    "location": { "latitude": 493374247, "longitude": 35445986 }
+  },
+  {
+    "id": "517",
+    "name": "Delivery Truck No. 517",
+    "altitude": 304,
+    "speed": 0,
+    "location": { "latitude": 477184364, "longitude": 44866309 }
+  },
+  {
+    "id": "518",
+    "name": "Delivery Truck No. 518",
+    "altitude": 309,
+    "speed": 0,
+    "location": { "latitude": 474749818, "longitude": 50873360 }
+  },
+  {
+    "id": "519",
+    "name": "Delivery Truck No. 519",
+    "altitude": 247,
+    "speed": 0,
+    "location": { "latitude": 498547077, "longitude": 45765942 }
+  },
+  {
+    "id": "520",
+    "name": "Delivery Truck No. 520",
+    "altitude": 371,
+    "speed": 0,
+    "location": { "latitude": 478230331, "longitude": 46835377 }
+  },
+  {
+    "id": "521",
+    "name": "Delivery Truck No. 521",
+    "altitude": 259,
+    "speed": 0,
+    "location": { "latitude": 472207433, "longitude": 62987527 }
+  },
+  {
+    "id": "522",
+    "name": "Delivery Truck No. 522",
+    "altitude": 289,
+    "speed": 0,
+    "location": { "latitude": 498091975, "longitude": 42414320 }
+  },
+  {
+    "id": "523",
+    "name": "Delivery Truck No. 523",
+    "altitude": 242,
+    "speed": 0,
+    "location": { "latitude": 509048193, "longitude": 35370392 }
+  },
+  {
+    "id": "524",
+    "name": "Delivery Truck No. 524",
+    "altitude": 274,
+    "speed": 0,
+    "location": { "latitude": 506856708, "longitude": 45260258 }
+  },
+  {
+    "id": "525",
+    "name": "Delivery Truck No. 525",
+    "altitude": 243,
+    "speed": 0,
+    "location": { "latitude": 470163643, "longitude": 36841541 }
+  },
+  {
+    "id": "526",
+    "name": "Delivery Truck No. 526",
+    "altitude": 326,
+    "speed": 0,
+    "location": { "latitude": 496590662, "longitude": 49347321 }
+  },
+  {
+    "id": "527",
+    "name": "Delivery Truck No. 527",
+    "altitude": 332,
+    "speed": 0,
+    "location": { "latitude": 500721012, "longitude": 30866052 }
+  },
+  {
+    "id": "528",
+    "name": "Delivery Truck No. 528",
+    "altitude": 390,
+    "speed": 0,
+    "location": { "latitude": 490947696, "longitude": 55618118 }
+  },
+  {
+    "id": "529",
+    "name": "Delivery Truck No. 529",
+    "altitude": 374,
+    "speed": 0,
+    "location": { "latitude": 483144088, "longitude": 50878835 }
+  },
+  {
+    "id": "530",
+    "name": "Delivery Truck No. 530",
+    "altitude": 259,
+    "speed": 0,
+    "location": { "latitude": 483773116, "longitude": 62539256 }
+  },
+  {
+    "id": "531",
+    "name": "Delivery Truck No. 531",
+    "altitude": 361,
+    "speed": 0,
+    "location": { "latitude": 486551056, "longitude": 43475906 }
+  },
+  {
+    "id": "532",
+    "name": "Delivery Truck No. 532",
+    "altitude": 375,
+    "speed": 0,
+    "location": { "latitude": 508562085, "longitude": 62741393 }
+  },
+  {
+    "id": "533",
+    "name": "Delivery Truck No. 533",
+    "altitude": 374,
+    "speed": 0,
+    "location": { "latitude": 473399586, "longitude": 51836887 }
+  },
+  {
+    "id": "534",
+    "name": "Delivery Truck No. 534",
+    "altitude": 384,
+    "speed": 0,
+    "location": { "latitude": 475655743, "longitude": 38264068 }
+  },
+  {
+    "id": "535",
+    "name": "Delivery Truck No. 535",
+    "altitude": 242,
+    "speed": 0,
+    "location": { "latitude": 474233441, "longitude": 61381935 }
+  },
+  {
+    "id": "536",
+    "name": "Delivery Truck No. 536",
+    "altitude": 407,
+    "speed": 0,
+    "location": { "latitude": 497530210, "longitude": 55707773 }
+  },
+  {
+    "id": "537",
+    "name": "Delivery Truck No. 537",
+    "altitude": 367,
+    "speed": 0,
+    "location": { "latitude": 493741273, "longitude": 46980019 }
+  },
+  {
+    "id": "538",
+    "name": "Delivery Truck No. 538",
+    "altitude": 296,
+    "speed": 0,
+    "location": { "latitude": 494059489, "longitude": 53995606 }
+  },
+  {
+    "id": "539",
+    "name": "Delivery Truck No. 539",
+    "altitude": 352,
+    "speed": 0,
+    "location": { "latitude": 489908067, "longitude": 62987651 }
+  },
+  {
+    "id": "540",
+    "name": "Delivery Truck No. 540",
+    "altitude": 385,
+    "speed": 0,
+    "location": { "latitude": 506314601, "longitude": 41869795 }
+  },
+  {
+    "id": "541",
+    "name": "Delivery Truck No. 541",
+    "altitude": 311,
+    "speed": 0,
+    "location": { "latitude": 505715855, "longitude": 32080767 }
+  },
+  {
+    "id": "542",
+    "name": "Delivery Truck No. 542",
+    "altitude": 317,
+    "speed": 0,
+    "location": { "latitude": 472631265, "longitude": 66474173 }
+  },
+  {
+    "id": "543",
+    "name": "Delivery Truck No. 543",
+    "altitude": 284,
+    "speed": 0,
+    "location": { "latitude": 498787937, "longitude": 34136171 }
+  },
+  {
+    "id": "544",
+    "name": "Delivery Truck No. 544",
+    "altitude": 345,
+    "speed": 0,
+    "location": { "latitude": 475761406, "longitude": 31449139 }
+  },
+  {
+    "id": "545",
+    "name": "Delivery Truck No. 545",
+    "altitude": 364,
+    "speed": 0,
+    "location": { "latitude": 487122104, "longitude": 42609705 }
+  },
+  {
+    "id": "546",
+    "name": "Delivery Truck No. 546",
+    "altitude": 263,
+    "speed": 0,
+    "location": { "latitude": 482038710, "longitude": 38684856 }
+  },
+  {
+    "id": "547",
+    "name": "Delivery Truck No. 547",
+    "altitude": 297,
+    "speed": 0,
+    "location": { "latitude": 471560103, "longitude": 50174464 }
+  },
+  {
+    "id": "548",
+    "name": "Delivery Truck No. 548",
+    "altitude": 374,
+    "speed": 0,
+    "location": { "latitude": 480872478, "longitude": 50120620 }
+  },
+  {
+    "id": "549",
+    "name": "Delivery Truck No. 549",
+    "altitude": 246,
+    "speed": 0,
+    "location": { "latitude": 472660596, "longitude": 48779838 }
+  },
+  {
+    "id": "550",
+    "name": "Delivery Truck No. 550",
+    "altitude": 316,
+    "speed": 0,
+    "location": { "latitude": 498767851, "longitude": 40134484 }
+  },
+  {
+    "id": "551",
+    "name": "Delivery Truck No. 551",
+    "altitude": 281,
+    "speed": 0,
+    "location": { "latitude": 491709697, "longitude": 34796942 }
+  },
+  {
+    "id": "552",
+    "name": "Delivery Truck No. 552",
+    "altitude": 343,
+    "speed": 0,
+    "location": { "latitude": 472700365, "longitude": 41423349 }
+  },
+  {
+    "id": "553",
+    "name": "Delivery Truck No. 553",
+    "altitude": 237,
+    "speed": 0,
+    "location": { "latitude": 509878295, "longitude": 34034938 }
+  },
+  {
+    "id": "554",
+    "name": "Delivery Truck No. 554",
+    "altitude": 342,
+    "speed": 0,
+    "location": { "latitude": 507819887, "longitude": 41750660 }
+  },
+  {
+    "id": "555",
+    "name": "Delivery Truck No. 555",
+    "altitude": 283,
+    "speed": 0,
+    "location": { "latitude": 485860397, "longitude": 37285594 }
+  },
+  {
+    "id": "556",
+    "name": "Delivery Truck No. 556",
+    "altitude": 375,
+    "speed": 0,
+    "location": { "latitude": 500785876, "longitude": 69083690 }
+  },
+  {
+    "id": "557",
+    "name": "Delivery Truck No. 557",
+    "altitude": 391,
+    "speed": 0,
+    "location": { "latitude": 475824209, "longitude": 32856206 }
+  },
+  {
+    "id": "558",
+    "name": "Delivery Truck No. 558",
+    "altitude": 372,
+    "speed": 0,
+    "location": { "latitude": 470859884, "longitude": 60209531 }
+  },
+  {
+    "id": "559",
+    "name": "Delivery Truck No. 559",
+    "altitude": 316,
+    "speed": 0,
+    "location": { "latitude": 504506747, "longitude": 62343642 }
+  },
+  {
+    "id": "560",
+    "name": "Delivery Truck No. 560",
+    "altitude": 349,
+    "speed": 0,
+    "location": { "latitude": 500745719, "longitude": 62837737 }
+  },
+  {
+    "id": "561",
+    "name": "Delivery Truck No. 561",
+    "altitude": 236,
+    "speed": 0,
+    "location": { "latitude": 501418047, "longitude": 69082785 }
+  },
+  {
+    "id": "562",
+    "name": "Delivery Truck No. 562",
+    "altitude": 344,
+    "speed": 0,
+    "location": { "latitude": 471858269, "longitude": 38506005 }
+  },
+  {
+    "id": "563",
+    "name": "Delivery Truck No. 563",
+    "altitude": 301,
+    "speed": 0,
+    "location": { "latitude": 485259853, "longitude": 56656907 }
+  },
+  {
+    "id": "564",
+    "name": "Delivery Truck No. 564",
+    "altitude": 366,
+    "speed": 0,
+    "location": { "latitude": 493575549, "longitude": 36227361 }
+  },
+  {
+    "id": "565",
+    "name": "Delivery Truck No. 565",
+    "altitude": 380,
+    "speed": 0,
+    "location": { "latitude": 489440500, "longitude": 30355394 }
+  },
+  {
+    "id": "566",
+    "name": "Delivery Truck No. 566",
+    "altitude": 254,
+    "speed": 0,
+    "location": { "latitude": 488259288, "longitude": 34625069 }
+  },
+  {
+    "id": "567",
+    "name": "Delivery Truck No. 567",
+    "altitude": 277,
+    "speed": 0,
+    "location": { "latitude": 490173804, "longitude": 38346291 }
+  },
+  {
+    "id": "568",
+    "name": "Delivery Truck No. 568",
+    "altitude": 311,
+    "speed": 0,
+    "location": { "latitude": 475208613, "longitude": 44304986 }
+  },
+  {
+    "id": "569",
+    "name": "Delivery Truck No. 569",
+    "altitude": 398,
+    "speed": 0,
+    "location": { "latitude": 503467533, "longitude": 30997305 }
+  },
+  {
+    "id": "570",
+    "name": "Delivery Truck No. 570",
+    "altitude": 295,
+    "speed": 0,
+    "location": { "latitude": 497701801, "longitude": 36030448 }
+  },
+  {
+    "id": "571",
+    "name": "Delivery Truck No. 571",
+    "altitude": 366,
+    "speed": 0,
+    "location": { "latitude": 508130469, "longitude": 61975793 }
+  },
+  {
+    "id": "572",
+    "name": "Delivery Truck No. 572",
+    "altitude": 317,
+    "speed": 0,
+    "location": { "latitude": 472280009, "longitude": 53358539 }
+  },
+  {
+    "id": "573",
+    "name": "Delivery Truck No. 573",
+    "altitude": 389,
+    "speed": 0,
+    "location": { "latitude": 506162593, "longitude": 51100676 }
+  },
+  {
+    "id": "574",
+    "name": "Delivery Truck No. 574",
+    "altitude": 246,
+    "speed": 0,
+    "location": { "latitude": 505351793, "longitude": 68583173 }
+  },
+  {
+    "id": "575",
+    "name": "Delivery Truck No. 575",
+    "altitude": 316,
+    "speed": 0,
+    "location": { "latitude": 493006320, "longitude": 45423319 }
+  },
+  {
+    "id": "576",
+    "name": "Delivery Truck No. 576",
+    "altitude": 317,
+    "speed": 0,
+    "location": { "latitude": 485238149, "longitude": 41148716 }
+  },
+  {
+    "id": "577",
+    "name": "Delivery Truck No. 577",
+    "altitude": 372,
+    "speed": 0,
+    "location": { "latitude": 503488690, "longitude": 53533513 }
+  },
+  {
+    "id": "578",
+    "name": "Delivery Truck No. 578",
+    "altitude": 407,
+    "speed": 0,
+    "location": { "latitude": 505493953, "longitude": 52891543 }
+  },
+  {
+    "id": "579",
+    "name": "Delivery Truck No. 579",
+    "altitude": 306,
+    "speed": 0,
+    "location": { "latitude": 501089364, "longitude": 42264856 }
+  },
+  {
+    "id": "580",
+    "name": "Delivery Truck No. 580",
+    "altitude": 391,
+    "speed": 0,
+    "location": { "latitude": 490171395, "longitude": 65304691 }
+  },
+  {
+    "id": "581",
+    "name": "Delivery Truck No. 581",
+    "altitude": 291,
+    "speed": 0,
+    "location": { "latitude": 477901017, "longitude": 69295313 }
+  },
+  {
+    "id": "582",
+    "name": "Delivery Truck No. 582",
+    "altitude": 385,
+    "speed": 0,
+    "location": { "latitude": 509092864, "longitude": 36765780 }
+  },
+  {
+    "id": "583",
+    "name": "Delivery Truck No. 583",
+    "altitude": 390,
+    "speed": 0,
+    "location": { "latitude": 479732365, "longitude": 48140910 }
+  },
+  {
+    "id": "584",
+    "name": "Delivery Truck No. 584",
+    "altitude": 263,
+    "speed": 0,
+    "location": { "latitude": 479316865, "longitude": 46241504 }
+  },
+  {
+    "id": "585",
+    "name": "Delivery Truck No. 585",
+    "altitude": 365,
+    "speed": 0,
+    "location": { "latitude": 485871242, "longitude": 40150665 }
+  },
+  {
+    "id": "586",
+    "name": "Delivery Truck No. 586",
+    "altitude": 281,
+    "speed": 0,
+    "location": { "latitude": 495431922, "longitude": 47739599 }
+  },
+  {
+    "id": "587",
+    "name": "Delivery Truck No. 587",
+    "altitude": 280,
+    "speed": 0,
+    "location": { "latitude": 490812114, "longitude": 65981212 }
+  },
+  {
+    "id": "588",
+    "name": "Delivery Truck No. 588",
+    "altitude": 371,
+    "speed": 0,
+    "location": { "latitude": 474542818, "longitude": 65084712 }
+  },
+  {
+    "id": "589",
+    "name": "Delivery Truck No. 589",
+    "altitude": 260,
+    "speed": 0,
+    "location": { "latitude": 483950012, "longitude": 43976283 }
+  },
+  {
+    "id": "590",
+    "name": "Delivery Truck No. 590",
+    "altitude": 332,
+    "speed": 0,
+    "location": { "latitude": 487640656, "longitude": 41537030 }
+  },
+  {
+    "id": "591",
+    "name": "Delivery Truck No. 591",
+    "altitude": 347,
+    "speed": 0,
+    "location": { "latitude": 473914341, "longitude": 47534717 }
+  },
+  {
+    "id": "592",
+    "name": "Delivery Truck No. 592",
+    "altitude": 395,
+    "speed": 0,
+    "location": { "latitude": 491655388, "longitude": 65623848 }
+  },
+  {
+    "id": "593",
+    "name": "Delivery Truck No. 593",
+    "altitude": 242,
+    "speed": 0,
+    "location": { "latitude": 506477589, "longitude": 35445813 }
+  },
+  {
+    "id": "594",
+    "name": "Delivery Truck No. 594",
+    "altitude": 245,
+    "speed": 0,
+    "location": { "latitude": 490308226, "longitude": 41021370 }
+  },
+  {
+    "id": "595",
+    "name": "Delivery Truck No. 595",
+    "altitude": 249,
+    "speed": 0,
+    "location": { "latitude": 483403549, "longitude": 47769437 }
+  },
+  {
+    "id": "596",
+    "name": "Delivery Truck No. 596",
+    "altitude": 281,
+    "speed": 0,
+    "location": { "latitude": 477395205, "longitude": 47338614 }
+  },
+  {
+    "id": "597",
+    "name": "Delivery Truck No. 597",
+    "altitude": 285,
+    "speed": 0,
+    "location": { "latitude": 473890539, "longitude": 41576729 }
+  },
+  {
+    "id": "598",
+    "name": "Delivery Truck No. 598",
+    "altitude": 262,
+    "speed": 0,
+    "location": { "latitude": 470716339, "longitude": 43127000 }
+  },
+  {
+    "id": "599",
+    "name": "Delivery Truck No. 599",
+    "altitude": 321,
+    "speed": 0,
+    "location": { "latitude": 508448286, "longitude": 37709142 }
+  },
+  {
+    "id": "600",
+    "name": "Delivery Truck No. 600",
+    "altitude": 389,
+    "speed": 0,
+    "location": { "latitude": 489643224, "longitude": 47876123 }
+  },
+  {
+    "id": "601",
+    "name": "Delivery Truck No. 601",
+    "altitude": 280,
+    "speed": 0,
+    "location": { "latitude": 486740095, "longitude": 48955351 }
+  },
+  {
+    "id": "602",
+    "name": "Delivery Truck No. 602",
+    "altitude": 301,
+    "speed": 0,
+    "location": { "latitude": 476312666, "longitude": 55321612 }
+  },
+  {
+    "id": "603",
+    "name": "Delivery Truck No. 603",
+    "altitude": 360,
+    "speed": 0,
+    "location": { "latitude": 493117878, "longitude": 63628783 }
+  },
+  {
+    "id": "604",
+    "name": "Delivery Truck No. 604",
+    "altitude": 237,
+    "speed": 0,
+    "location": { "latitude": 508106642, "longitude": 41768992 }
+  },
+  {
+    "id": "605",
+    "name": "Delivery Truck No. 605",
+    "altitude": 242,
+    "speed": 0,
+    "location": { "latitude": 509050573, "longitude": 39274744 }
+  },
+  {
+    "id": "606",
+    "name": "Delivery Truck No. 606",
+    "altitude": 352,
+    "speed": 0,
+    "location": { "latitude": 476834658, "longitude": 63061258 }
+  },
+  {
+    "id": "607",
+    "name": "Delivery Truck No. 607",
+    "altitude": 357,
+    "speed": 0,
+    "location": { "latitude": 493980030, "longitude": 52544802 }
+  },
+  {
+    "id": "608",
+    "name": "Delivery Truck No. 608",
+    "altitude": 292,
+    "speed": 0,
+    "location": { "latitude": 508526588, "longitude": 47851533 }
+  },
+  {
+    "id": "609",
+    "name": "Delivery Truck No. 609",
+    "altitude": 287,
+    "speed": 0,
+    "location": { "latitude": 496652505, "longitude": 57348629 }
+  },
+  {
+    "id": "610",
+    "name": "Delivery Truck No. 610",
+    "altitude": 245,
+    "speed": 0,
+    "location": { "latitude": 473898956, "longitude": 37583171 }
+  },
+  {
+    "id": "611",
+    "name": "Delivery Truck No. 611",
+    "altitude": 233,
+    "speed": 0,
+    "location": { "latitude": 504362229, "longitude": 49343002 }
+  },
+  {
+    "id": "612",
+    "name": "Delivery Truck No. 612",
+    "altitude": 321,
+    "speed": 0,
+    "location": { "latitude": 474667705, "longitude": 65974728 }
+  },
+  {
+    "id": "613",
+    "name": "Delivery Truck No. 613",
+    "altitude": 297,
+    "speed": 0,
+    "location": { "latitude": 471483109, "longitude": 48737159 }
+  },
+  {
+    "id": "614",
+    "name": "Delivery Truck No. 614",
+    "altitude": 251,
+    "speed": 0,
+    "location": { "latitude": 476855608, "longitude": 36292839 }
+  },
+  {
+    "id": "615",
+    "name": "Delivery Truck No. 615",
+    "altitude": 280,
+    "speed": 0,
+    "location": { "latitude": 480651822, "longitude": 49649755 }
+  },
+  {
+    "id": "616",
+    "name": "Delivery Truck No. 616",
+    "altitude": 403,
+    "speed": 0,
+    "location": { "latitude": 485963391, "longitude": 57812438 }
+  },
+  {
+    "id": "617",
+    "name": "Delivery Truck No. 617",
+    "altitude": 405,
+    "speed": 0,
+    "location": { "latitude": 473088986, "longitude": 45734403 }
+  },
+  {
+    "id": "618",
+    "name": "Delivery Truck No. 618",
+    "altitude": 360,
+    "speed": 0,
+    "location": { "latitude": 492766229, "longitude": 33998638 }
+  },
+  {
+    "id": "619",
+    "name": "Delivery Truck No. 619",
+    "altitude": 290,
+    "speed": 0,
+    "location": { "latitude": 473853994, "longitude": 67026484 }
+  },
+  {
+    "id": "620",
+    "name": "Delivery Truck No. 620",
+    "altitude": 380,
+    "speed": 0,
+    "location": { "latitude": 482491214, "longitude": 69111105 }
+  },
+  {
+    "id": "621",
+    "name": "Delivery Truck No. 621",
+    "altitude": 312,
+    "speed": 0,
+    "location": { "latitude": 489618448, "longitude": 68612394 }
+  },
+  {
+    "id": "622",
+    "name": "Delivery Truck No. 622",
+    "altitude": 233,
+    "speed": 0,
+    "location": { "latitude": 490093028, "longitude": 41294678 }
+  },
+  {
+    "id": "623",
+    "name": "Delivery Truck No. 623",
+    "altitude": 266,
+    "speed": 0,
+    "location": { "latitude": 503050406, "longitude": 40738638 }
+  },
+  {
+    "id": "624",
+    "name": "Delivery Truck No. 624",
+    "altitude": 372,
+    "speed": 0,
+    "location": { "latitude": 494159074, "longitude": 40109243 }
+  },
+  {
+    "id": "625",
+    "name": "Delivery Truck No. 625",
+    "altitude": 301,
+    "speed": 0,
+    "location": { "latitude": 485275279, "longitude": 49482276 }
+  },
+  {
+    "id": "626",
+    "name": "Delivery Truck No. 626",
+    "altitude": 276,
+    "speed": 0,
+    "location": { "latitude": 485923721, "longitude": 52279876 }
+  },
+  {
+    "id": "627",
+    "name": "Delivery Truck No. 627",
+    "altitude": 382,
+    "speed": 0,
+    "location": { "latitude": 472279249, "longitude": 56981899 }
+  },
+  {
+    "id": "628",
+    "name": "Delivery Truck No. 628",
+    "altitude": 389,
+    "speed": 0,
+    "location": { "latitude": 504542124, "longitude": 69183191 }
+  },
+  {
+    "id": "629",
+    "name": "Delivery Truck No. 629",
+    "altitude": 338,
+    "speed": 0,
+    "location": { "latitude": 503239697, "longitude": 30070864 }
+  },
+  {
+    "id": "630",
+    "name": "Delivery Truck No. 630",
+    "altitude": 403,
+    "speed": 0,
+    "location": { "latitude": 504904142, "longitude": 62939128 }
+  },
+  {
+    "id": "631",
+    "name": "Delivery Truck No. 631",
+    "altitude": 283,
+    "speed": 0,
+    "location": { "latitude": 497652966, "longitude": 51333232 }
+  },
+  {
+    "id": "632",
+    "name": "Delivery Truck No. 632",
+    "altitude": 237,
+    "speed": 0,
+    "location": { "latitude": 501228362, "longitude": 52630516 }
+  },
+  {
+    "id": "633",
+    "name": "Delivery Truck No. 633",
+    "altitude": 295,
+    "speed": 0,
+    "location": { "latitude": 509063292, "longitude": 30060699 }
+  },
+  {
+    "id": "634",
+    "name": "Delivery Truck No. 634",
+    "altitude": 338,
+    "speed": 0,
+    "location": { "latitude": 476679767, "longitude": 60741641 }
+  },
+  {
+    "id": "635",
+    "name": "Delivery Truck No. 635",
+    "altitude": 326,
+    "speed": 0,
+    "location": { "latitude": 487228623, "longitude": 62657724 }
+  },
+  {
+    "id": "636",
+    "name": "Delivery Truck No. 636",
+    "altitude": 378,
+    "speed": 0,
+    "location": { "latitude": 509425392, "longitude": 41754071 }
+  },
+  {
+    "id": "637",
+    "name": "Delivery Truck No. 637",
+    "altitude": 309,
+    "speed": 0,
+    "location": { "latitude": 484656202, "longitude": 57151300 }
+  },
+  {
+    "id": "638",
+    "name": "Delivery Truck No. 638",
+    "altitude": 251,
+    "speed": 0,
+    "location": { "latitude": 504512169, "longitude": 41000235 }
+  },
+  {
+    "id": "639",
+    "name": "Delivery Truck No. 639",
+    "altitude": 346,
+    "speed": 0,
+    "location": { "latitude": 494796988, "longitude": 61095738 }
+  },
+  {
+    "id": "640",
+    "name": "Delivery Truck No. 640",
+    "altitude": 337,
+    "speed": 0,
+    "location": { "latitude": 481957292, "longitude": 51843392 }
+  },
+  {
+    "id": "641",
+    "name": "Delivery Truck No. 641",
+    "altitude": 361,
+    "speed": 0,
+    "location": { "latitude": 478046579, "longitude": 44111913 }
+  },
+  {
+    "id": "642",
+    "name": "Delivery Truck No. 642",
+    "altitude": 290,
+    "speed": 0,
+    "location": { "latitude": 474658708, "longitude": 31480876 }
+  },
+  {
+    "id": "643",
+    "name": "Delivery Truck No. 643",
+    "altitude": 309,
+    "speed": 0,
+    "location": { "latitude": 471666590, "longitude": 57662509 }
+  },
+  {
+    "id": "644",
+    "name": "Delivery Truck No. 644",
+    "altitude": 238,
+    "speed": 0,
+    "location": { "latitude": 478445275, "longitude": 31684781 }
+  },
+  {
+    "id": "645",
+    "name": "Delivery Truck No. 645",
+    "altitude": 386,
+    "speed": 0,
+    "location": { "latitude": 500155397, "longitude": 69283875 }
+  },
+  {
+    "id": "646",
+    "name": "Delivery Truck No. 646",
+    "altitude": 340,
+    "speed": 0,
+    "location": { "latitude": 488014154, "longitude": 62194595 }
+  },
+  {
+    "id": "647",
+    "name": "Delivery Truck No. 647",
+    "altitude": 250,
+    "speed": 0,
+    "location": { "latitude": 481096084, "longitude": 64429814 }
+  },
+  {
+    "id": "648",
+    "name": "Delivery Truck No. 648",
+    "altitude": 330,
+    "speed": 0,
+    "location": { "latitude": 502253702, "longitude": 50539497 }
+  },
+  {
+    "id": "649",
+    "name": "Delivery Truck No. 649",
+    "altitude": 265,
+    "speed": 0,
+    "location": { "latitude": 501879718, "longitude": 44284680 }
+  },
+  {
+    "id": "650",
+    "name": "Delivery Truck No. 650",
+    "altitude": 242,
+    "speed": 0,
+    "location": { "latitude": 501360304, "longitude": 69097644 }
+  },
+  {
+    "id": "651",
+    "name": "Delivery Truck No. 651",
+    "altitude": 283,
+    "speed": 0,
+    "location": { "latitude": 471744669, "longitude": 65250347 }
+  },
+  {
+    "id": "652",
+    "name": "Delivery Truck No. 652",
+    "altitude": 366,
+    "speed": 0,
+    "location": { "latitude": 484519646, "longitude": 60362276 }
+  },
+  {
+    "id": "653",
+    "name": "Delivery Truck No. 653",
+    "altitude": 396,
+    "speed": 0,
+    "location": { "latitude": 509433211, "longitude": 56798690 }
+  },
+  {
+    "id": "654",
+    "name": "Delivery Truck No. 654",
+    "altitude": 286,
+    "speed": 0,
+    "location": { "latitude": 482154858, "longitude": 37318025 }
+  },
+  {
+    "id": "655",
+    "name": "Delivery Truck No. 655",
+    "altitude": 289,
+    "speed": 0,
+    "location": { "latitude": 501064919, "longitude": 38951424 }
+  },
+  {
+    "id": "656",
+    "name": "Delivery Truck No. 656",
+    "altitude": 260,
+    "speed": 0,
+    "location": { "latitude": 499395445, "longitude": 59393821 }
+  },
+  {
+    "id": "657",
+    "name": "Delivery Truck No. 657",
+    "altitude": 316,
+    "speed": 0,
+    "location": { "latitude": 485083182, "longitude": 31191053 }
+  },
+  {
+    "id": "658",
+    "name": "Delivery Truck No. 658",
+    "altitude": 302,
+    "speed": 0,
+    "location": { "latitude": 476002193, "longitude": 42719626 }
+  },
+  {
+    "id": "659",
+    "name": "Delivery Truck No. 659",
+    "altitude": 257,
+    "speed": 0,
+    "location": { "latitude": 470496780, "longitude": 61009406 }
+  },
+  {
+    "id": "660",
+    "name": "Delivery Truck No. 660",
+    "altitude": 402,
+    "speed": 0,
+    "location": { "latitude": 478669915, "longitude": 40991861 }
+  },
+  {
+    "id": "661",
+    "name": "Delivery Truck No. 661",
+    "altitude": 405,
+    "speed": 0,
+    "location": { "latitude": 486149753, "longitude": 63489152 }
+  },
+  {
+    "id": "662",
+    "name": "Delivery Truck No. 662",
+    "altitude": 350,
+    "speed": 0,
+    "location": { "latitude": 485109172, "longitude": 58118875 }
+  },
+  {
+    "id": "663",
+    "name": "Delivery Truck No. 663",
+    "altitude": 237,
+    "speed": 0,
+    "location": { "latitude": 476589033, "longitude": 42310392 }
+  },
+  {
+    "id": "664",
+    "name": "Delivery Truck No. 664",
+    "altitude": 296,
+    "speed": 0,
+    "location": { "latitude": 505634713, "longitude": 57756228 }
+  },
+  {
+    "id": "665",
+    "name": "Delivery Truck No. 665",
+    "altitude": 300,
+    "speed": 0,
+    "location": { "latitude": 483352725, "longitude": 44861857 }
+  },
+  {
+    "id": "666",
+    "name": "Delivery Truck No. 666",
+    "altitude": 291,
+    "speed": 0,
+    "location": { "latitude": 496667359, "longitude": 34223498 }
+  },
+  {
+    "id": "667",
+    "name": "Delivery Truck No. 667",
+    "altitude": 236,
+    "speed": 0,
+    "location": { "latitude": 483893381, "longitude": 53098839 }
+  },
+  {
+    "id": "668",
+    "name": "Delivery Truck No. 668",
+    "altitude": 263,
+    "speed": 0,
+    "location": { "latitude": 504660508, "longitude": 55635949 }
+  },
+  {
+    "id": "669",
+    "name": "Delivery Truck No. 669",
+    "altitude": 379,
+    "speed": 0,
+    "location": { "latitude": 497112516, "longitude": 50142426 }
+  },
+  {
+    "id": "670",
+    "name": "Delivery Truck No. 670",
+    "altitude": 390,
+    "speed": 0,
+    "location": { "latitude": 498920578, "longitude": 69182112 }
+  },
+  {
+    "id": "671",
+    "name": "Delivery Truck No. 671",
+    "altitude": 315,
+    "speed": 0,
+    "location": { "latitude": 483618835, "longitude": 52511943 }
+  },
+  {
+    "id": "672",
+    "name": "Delivery Truck No. 672",
+    "altitude": 338,
+    "speed": 0,
+    "location": { "latitude": 498246997, "longitude": 46017714 }
+  },
+  {
+    "id": "673",
+    "name": "Delivery Truck No. 673",
+    "altitude": 305,
+    "speed": 0,
+    "location": { "latitude": 503202838, "longitude": 31649998 }
+  },
+  {
+    "id": "674",
+    "name": "Delivery Truck No. 674",
+    "altitude": 394,
+    "speed": 0,
+    "location": { "latitude": 507716689, "longitude": 42040382 }
+  },
+  {
+    "id": "675",
+    "name": "Delivery Truck No. 675",
+    "altitude": 258,
+    "speed": 0,
+    "location": { "latitude": 481062565, "longitude": 60060623 }
+  },
+  {
+    "id": "676",
+    "name": "Delivery Truck No. 676",
+    "altitude": 256,
+    "speed": 0,
+    "location": { "latitude": 496674787, "longitude": 31666805 }
+  },
+  {
+    "id": "677",
+    "name": "Delivery Truck No. 677",
+    "altitude": 328,
+    "speed": 0,
+    "location": { "latitude": 471509745, "longitude": 33183310 }
+  },
+  {
+    "id": "678",
+    "name": "Delivery Truck No. 678",
+    "altitude": 290,
+    "speed": 0,
+    "location": { "latitude": 477873313, "longitude": 33307187 }
+  },
+  {
+    "id": "679",
+    "name": "Delivery Truck No. 679",
+    "altitude": 243,
+    "speed": 0,
+    "location": { "latitude": 477287445, "longitude": 61020684 }
+  },
+  {
+    "id": "680",
+    "name": "Delivery Truck No. 680",
+    "altitude": 360,
+    "speed": 0,
+    "location": { "latitude": 470258395, "longitude": 33904979 }
+  },
+  {
+    "id": "681",
+    "name": "Delivery Truck No. 681",
+    "altitude": 287,
+    "speed": 0,
+    "location": { "latitude": 486036225, "longitude": 66635426 }
+  },
+  {
+    "id": "682",
+    "name": "Delivery Truck No. 682",
+    "altitude": 340,
+    "speed": 0,
+    "location": { "latitude": 497357415, "longitude": 66246656 }
+  },
+  {
+    "id": "683",
+    "name": "Delivery Truck No. 683",
+    "altitude": 407,
+    "speed": 0,
+    "location": { "latitude": 471744242, "longitude": 39403571 }
+  },
+  {
+    "id": "684",
+    "name": "Delivery Truck No. 684",
+    "altitude": 321,
+    "speed": 0,
+    "location": { "latitude": 501916496, "longitude": 39496438 }
+  },
+  {
+    "id": "685",
+    "name": "Delivery Truck No. 685",
+    "altitude": 336,
+    "speed": 0,
+    "location": { "latitude": 486243456, "longitude": 55833794 }
+  },
+  {
+    "id": "686",
+    "name": "Delivery Truck No. 686",
+    "altitude": 238,
+    "speed": 0,
+    "location": { "latitude": 507023845, "longitude": 62319870 }
+  },
+  {
+    "id": "687",
+    "name": "Delivery Truck No. 687",
+    "altitude": 405,
+    "speed": 0,
+    "location": { "latitude": 497777416, "longitude": 59157047 }
+  },
+  {
+    "id": "688",
+    "name": "Delivery Truck No. 688",
+    "altitude": 376,
+    "speed": 0,
+    "location": { "latitude": 476448537, "longitude": 67788620 }
+  },
+  {
+    "id": "689",
+    "name": "Delivery Truck No. 689",
+    "altitude": 275,
+    "speed": 0,
+    "location": { "latitude": 482131455, "longitude": 68993671 }
+  },
+  {
+    "id": "690",
+    "name": "Delivery Truck No. 690",
+    "altitude": 390,
+    "speed": 0,
+    "location": { "latitude": 502517847, "longitude": 33056331 }
+  },
+  {
+    "id": "691",
+    "name": "Delivery Truck No. 691",
+    "altitude": 381,
+    "speed": 0,
+    "location": { "latitude": 473487376, "longitude": 65111323 }
+  },
+  {
+    "id": "692",
+    "name": "Delivery Truck No. 692",
+    "altitude": 265,
+    "speed": 0,
+    "location": { "latitude": 508363848, "longitude": 63355484 }
+  },
+  {
+    "id": "693",
+    "name": "Delivery Truck No. 693",
+    "altitude": 308,
+    "speed": 0,
+    "location": { "latitude": 489682778, "longitude": 55408967 }
+  },
+  {
+    "id": "694",
+    "name": "Delivery Truck No. 694",
+    "altitude": 363,
+    "speed": 0,
+    "location": { "latitude": 507249235, "longitude": 62158182 }
+  },
+  {
+    "id": "695",
+    "name": "Delivery Truck No. 695",
+    "altitude": 366,
+    "speed": 0,
+    "location": { "latitude": 506036335, "longitude": 55994432 }
+  },
+  {
+    "id": "696",
+    "name": "Delivery Truck No. 696",
+    "altitude": 316,
+    "speed": 0,
+    "location": { "latitude": 499847418, "longitude": 57101146 }
+  },
+  {
+    "id": "697",
+    "name": "Delivery Truck No. 697",
+    "altitude": 360,
+    "speed": 0,
+    "location": { "latitude": 494283898, "longitude": 49688217 }
+  },
+  {
+    "id": "698",
+    "name": "Delivery Truck No. 698",
+    "altitude": 330,
+    "speed": 0,
+    "location": { "latitude": 499440080, "longitude": 37315621 }
+  },
+  {
+    "id": "699",
+    "name": "Delivery Truck No. 699",
+    "altitude": 390,
+    "speed": 0,
+    "location": { "latitude": 503488979, "longitude": 49053241 }
+  },
+  {
+    "id": "700",
+    "name": "Delivery Truck No. 700",
+    "altitude": 308,
+    "speed": 0,
+    "location": { "latitude": 498165348, "longitude": 45831364 }
+  },
+  {
+    "id": "701",
+    "name": "Delivery Truck No. 701",
+    "altitude": 357,
+    "speed": 0,
+    "location": { "latitude": 493188344, "longitude": 54711559 }
+  },
+  {
+    "id": "702",
+    "name": "Delivery Truck No. 702",
+    "altitude": 348,
+    "speed": 0,
+    "location": { "latitude": 484356748, "longitude": 31461543 }
+  },
+  {
+    "id": "703",
+    "name": "Delivery Truck No. 703",
+    "altitude": 255,
+    "speed": 0,
+    "location": { "latitude": 495484678, "longitude": 56645379 }
+  },
+  {
+    "id": "704",
+    "name": "Delivery Truck No. 704",
+    "altitude": 288,
+    "speed": 0,
+    "location": { "latitude": 501956006, "longitude": 51016722 }
+  },
+  {
+    "id": "705",
+    "name": "Delivery Truck No. 705",
+    "altitude": 400,
+    "speed": 0,
+    "location": { "latitude": 487795662, "longitude": 59832159 }
+  },
+  {
+    "id": "706",
+    "name": "Delivery Truck No. 706",
+    "altitude": 333,
+    "speed": 0,
+    "location": { "latitude": 500553407, "longitude": 48860812 }
+  },
+  {
+    "id": "707",
+    "name": "Delivery Truck No. 707",
+    "altitude": 362,
+    "speed": 0,
+    "location": { "latitude": 494621245, "longitude": 56935708 }
+  },
+  {
+    "id": "708",
+    "name": "Delivery Truck No. 708",
+    "altitude": 278,
+    "speed": 0,
+    "location": { "latitude": 487308743, "longitude": 34529515 }
+  },
+  {
+    "id": "709",
+    "name": "Delivery Truck No. 709",
+    "altitude": 344,
+    "speed": 0,
+    "location": { "latitude": 471121376, "longitude": 32413423 }
+  },
+  {
+    "id": "710",
+    "name": "Delivery Truck No. 710",
+    "altitude": 306,
+    "speed": 0,
+    "location": { "latitude": 476445366, "longitude": 50346688 }
+  },
+  {
+    "id": "711",
+    "name": "Delivery Truck No. 711",
+    "altitude": 407,
+    "speed": 0,
+    "location": { "latitude": 480342136, "longitude": 64207441 }
+  },
+  {
+    "id": "712",
+    "name": "Delivery Truck No. 712",
+    "altitude": 394,
+    "speed": 0,
+    "location": { "latitude": 507887848, "longitude": 42916480 }
+  },
+  {
+    "id": "713",
+    "name": "Delivery Truck No. 713",
+    "altitude": 276,
+    "speed": 0,
+    "location": { "latitude": 482291595, "longitude": 34796166 }
+  },
+  {
+    "id": "714",
+    "name": "Delivery Truck No. 714",
+    "altitude": 341,
+    "speed": 0,
+    "location": { "latitude": 471795504, "longitude": 31903574 }
+  },
+  {
+    "id": "715",
+    "name": "Delivery Truck No. 715",
+    "altitude": 373,
+    "speed": 0,
+    "location": { "latitude": 499908282, "longitude": 69370453 }
+  },
+  {
+    "id": "716",
+    "name": "Delivery Truck No. 716",
+    "altitude": 351,
+    "speed": 0,
+    "location": { "latitude": 472895189, "longitude": 54445269 }
+  },
+  {
+    "id": "717",
+    "name": "Delivery Truck No. 717",
+    "altitude": 401,
+    "speed": 0,
+    "location": { "latitude": 496570042, "longitude": 55846338 }
+  },
+  {
+    "id": "718",
+    "name": "Delivery Truck No. 718",
+    "altitude": 267,
+    "speed": 0,
+    "location": { "latitude": 494049148, "longitude": 42828159 }
+  },
+  {
+    "id": "719",
+    "name": "Delivery Truck No. 719",
+    "altitude": 400,
+    "speed": 0,
+    "location": { "latitude": 495865807, "longitude": 49441123 }
+  },
+  {
+    "id": "720",
+    "name": "Delivery Truck No. 720",
+    "altitude": 373,
+    "speed": 0,
+    "location": { "latitude": 502597357, "longitude": 42435042 }
+  },
+  {
+    "id": "721",
+    "name": "Delivery Truck No. 721",
+    "altitude": 261,
+    "speed": 0,
+    "location": { "latitude": 504631384, "longitude": 58950902 }
+  },
+  {
+    "id": "722",
+    "name": "Delivery Truck No. 722",
+    "altitude": 246,
+    "speed": 0,
+    "location": { "latitude": 500321933, "longitude": 68305588 }
+  },
+  {
+    "id": "723",
+    "name": "Delivery Truck No. 723",
+    "altitude": 269,
+    "speed": 0,
+    "location": { "latitude": 508450857, "longitude": 47399800 }
+  },
+  {
+    "id": "724",
+    "name": "Delivery Truck No. 724",
+    "altitude": 289,
+    "speed": 0,
+    "location": { "latitude": 491910379, "longitude": 65890484 }
+  },
+  {
+    "id": "725",
+    "name": "Delivery Truck No. 725",
+    "altitude": 303,
+    "speed": 0,
+    "location": { "latitude": 483699039, "longitude": 54688270 }
+  },
+  {
+    "id": "726",
+    "name": "Delivery Truck No. 726",
+    "altitude": 256,
+    "speed": 0,
+    "location": { "latitude": 483579191, "longitude": 57742050 }
+  },
+  {
+    "id": "727",
+    "name": "Delivery Truck No. 727",
+    "altitude": 285,
+    "speed": 0,
+    "location": { "latitude": 507547140, "longitude": 61522757 }
+  },
+  {
+    "id": "728",
+    "name": "Delivery Truck No. 728",
+    "altitude": 342,
+    "speed": 0,
+    "location": { "latitude": 476851145, "longitude": 34132154 }
+  },
+  {
+    "id": "729",
+    "name": "Delivery Truck No. 729",
+    "altitude": 338,
+    "speed": 0,
+    "location": { "latitude": 495902543, "longitude": 32132063 }
+  },
+  {
+    "id": "730",
+    "name": "Delivery Truck No. 730",
+    "altitude": 329,
+    "speed": 0,
+    "location": { "latitude": 497255097, "longitude": 67806014 }
+  },
+  {
+    "id": "731",
+    "name": "Delivery Truck No. 731",
+    "altitude": 336,
+    "speed": 0,
+    "location": { "latitude": 491658773, "longitude": 51169088 }
+  },
+  {
+    "id": "732",
+    "name": "Delivery Truck No. 732",
+    "altitude": 323,
+    "speed": 0,
+    "location": { "latitude": 504575003, "longitude": 54036649 }
+  },
+  {
+    "id": "733",
+    "name": "Delivery Truck No. 733",
+    "altitude": 351,
+    "speed": 0,
+    "location": { "latitude": 495166519, "longitude": 32661333 }
+  },
+  {
+    "id": "734",
+    "name": "Delivery Truck No. 734",
+    "altitude": 342,
+    "speed": 0,
+    "location": { "latitude": 484655227, "longitude": 58063875 }
+  },
+  {
+    "id": "735",
+    "name": "Delivery Truck No. 735",
+    "altitude": 260,
+    "speed": 0,
+    "location": { "latitude": 491621876, "longitude": 68149797 }
+  },
+  {
+    "id": "736",
+    "name": "Delivery Truck No. 736",
+    "altitude": 252,
+    "speed": 0,
+    "location": { "latitude": 503211661, "longitude": 61847596 }
+  },
+  {
+    "id": "737",
+    "name": "Delivery Truck No. 737",
+    "altitude": 301,
+    "speed": 0,
+    "location": { "latitude": 483697686, "longitude": 66257461 }
+  },
+  {
+    "id": "738",
+    "name": "Delivery Truck No. 738",
+    "altitude": 233,
+    "speed": 0,
+    "location": { "latitude": 483592905, "longitude": 57918138 }
+  },
+  {
+    "id": "739",
+    "name": "Delivery Truck No. 739",
+    "altitude": 369,
+    "speed": 0,
+    "location": { "latitude": 503754680, "longitude": 33532514 }
+  },
+  {
+    "id": "740",
+    "name": "Delivery Truck No. 740",
+    "altitude": 270,
+    "speed": 0,
+    "location": { "latitude": 496028034, "longitude": 61059505 }
+  },
+  {
+    "id": "741",
+    "name": "Delivery Truck No. 741",
+    "altitude": 342,
+    "speed": 0,
+    "location": { "latitude": 507893636, "longitude": 41050324 }
+  },
+  {
+    "id": "742",
+    "name": "Delivery Truck No. 742",
+    "altitude": 261,
+    "speed": 0,
+    "location": { "latitude": 502657993, "longitude": 47240236 }
+  },
+  {
+    "id": "743",
+    "name": "Delivery Truck No. 743",
+    "altitude": 283,
+    "speed": 0,
+    "location": { "latitude": 486497737, "longitude": 40620786 }
+  },
+  {
+    "id": "744",
+    "name": "Delivery Truck No. 744",
+    "altitude": 344,
+    "speed": 0,
+    "location": { "latitude": 490880763, "longitude": 55825889 }
+  },
+  {
+    "id": "745",
+    "name": "Delivery Truck No. 745",
+    "altitude": 329,
+    "speed": 0,
+    "location": { "latitude": 503347644, "longitude": 54923199 }
+  },
+  {
+    "id": "746",
+    "name": "Delivery Truck No. 746",
+    "altitude": 323,
+    "speed": 0,
+    "location": { "latitude": 488112113, "longitude": 53342921 }
+  },
+  {
+    "id": "747",
+    "name": "Delivery Truck No. 747",
+    "altitude": 361,
+    "speed": 0,
+    "location": { "latitude": 505874923, "longitude": 58932017 }
+  },
+  {
+    "id": "748",
+    "name": "Delivery Truck No. 748",
+    "altitude": 305,
+    "speed": 0,
+    "location": { "latitude": 477528943, "longitude": 43791122 }
+  },
+  {
+    "id": "749",
+    "name": "Delivery Truck No. 749",
+    "altitude": 307,
+    "speed": 0,
+    "location": { "latitude": 479237447, "longitude": 41138487 }
+  },
+  {
+    "id": "750",
+    "name": "Delivery Truck No. 750",
+    "altitude": 402,
+    "speed": 0,
+    "location": { "latitude": 479789455, "longitude": 53980876 }
+  },
+  {
+    "id": "751",
+    "name": "Delivery Truck No. 751",
+    "altitude": 299,
+    "speed": 0,
+    "location": { "latitude": 472590536, "longitude": 69483330 }
+  },
+  {
+    "id": "752",
+    "name": "Delivery Truck No. 752",
+    "altitude": 259,
+    "speed": 0,
+    "location": { "latitude": 496402494, "longitude": 55440150 }
+  },
+  {
+    "id": "753",
+    "name": "Delivery Truck No. 753",
+    "altitude": 264,
+    "speed": 0,
+    "location": { "latitude": 496285920, "longitude": 64022414 }
+  },
+  {
+    "id": "754",
+    "name": "Delivery Truck No. 754",
+    "altitude": 384,
+    "speed": 0,
+    "location": { "latitude": 481598912, "longitude": 62607675 }
+  },
+  {
+    "id": "755",
+    "name": "Delivery Truck No. 755",
+    "altitude": 246,
+    "speed": 0,
+    "location": { "latitude": 471956027, "longitude": 64014538 }
+  },
+  {
+    "id": "756",
+    "name": "Delivery Truck No. 756",
+    "altitude": 304,
+    "speed": 0,
+    "location": { "latitude": 505913449, "longitude": 43782443 }
+  },
+  {
+    "id": "757",
+    "name": "Delivery Truck No. 757",
+    "altitude": 292,
+    "speed": 0,
+    "location": { "latitude": 502610234, "longitude": 67279703 }
+  },
+  {
+    "id": "758",
+    "name": "Delivery Truck No. 758",
+    "altitude": 314,
+    "speed": 0,
+    "location": { "latitude": 493145513, "longitude": 49223416 }
+  },
+  {
+    "id": "759",
+    "name": "Delivery Truck No. 759",
+    "altitude": 314,
+    "speed": 0,
+    "location": { "latitude": 489521940, "longitude": 50838823 }
+  },
+  {
+    "id": "760",
+    "name": "Delivery Truck No. 760",
+    "altitude": 250,
+    "speed": 0,
+    "location": { "latitude": 479278219, "longitude": 45158692 }
+  },
+  {
+    "id": "761",
+    "name": "Delivery Truck No. 761",
+    "altitude": 296,
+    "speed": 0,
+    "location": { "latitude": 470122333, "longitude": 62278578 }
+  },
+  {
+    "id": "762",
+    "name": "Delivery Truck No. 762",
+    "altitude": 334,
+    "speed": 0,
+    "location": { "latitude": 497810892, "longitude": 57535646 }
+  },
+  {
+    "id": "763",
+    "name": "Delivery Truck No. 763",
+    "altitude": 394,
+    "speed": 0,
+    "location": { "latitude": 503489339, "longitude": 38788986 }
+  },
+  {
+    "id": "764",
+    "name": "Delivery Truck No. 764",
+    "altitude": 320,
+    "speed": 0,
+    "location": { "latitude": 483011674, "longitude": 57893912 }
+  },
+  {
+    "id": "765",
+    "name": "Delivery Truck No. 765",
+    "altitude": 330,
+    "speed": 0,
+    "location": { "latitude": 476762443, "longitude": 53414050 }
+  },
+  {
+    "id": "766",
+    "name": "Delivery Truck No. 766",
+    "altitude": 365,
+    "speed": 0,
+    "location": { "latitude": 490361837, "longitude": 57897958 }
+  },
+  {
+    "id": "767",
+    "name": "Delivery Truck No. 767",
+    "altitude": 350,
+    "speed": 0,
+    "location": { "latitude": 503706220, "longitude": 57066797 }
+  },
+  {
+    "id": "768",
+    "name": "Delivery Truck No. 768",
+    "altitude": 372,
+    "speed": 0,
+    "location": { "latitude": 489318929, "longitude": 40519523 }
+  },
+  {
+    "id": "769",
+    "name": "Delivery Truck No. 769",
+    "altitude": 319,
+    "speed": 0,
+    "location": { "latitude": 491122201, "longitude": 50002357 }
+  },
+  {
+    "id": "770",
+    "name": "Delivery Truck No. 770",
+    "altitude": 295,
+    "speed": 0,
+    "location": { "latitude": 503651104, "longitude": 35062383 }
+  },
+  {
+    "id": "771",
+    "name": "Delivery Truck No. 771",
+    "altitude": 317,
+    "speed": 0,
+    "location": { "latitude": 489376159, "longitude": 36689492 }
+  },
+  {
+    "id": "772",
+    "name": "Delivery Truck No. 772",
+    "altitude": 335,
+    "speed": 0,
+    "location": { "latitude": 499259009, "longitude": 69653572 }
+  },
+  {
+    "id": "773",
+    "name": "Delivery Truck No. 773",
+    "altitude": 340,
+    "speed": 0,
+    "location": { "latitude": 473259546, "longitude": 45613598 }
+  },
+  {
+    "id": "774",
+    "name": "Delivery Truck No. 774",
+    "altitude": 385,
+    "speed": 0,
+    "location": { "latitude": 489604452, "longitude": 68769318 }
+  },
+  {
+    "id": "775",
+    "name": "Delivery Truck No. 775",
+    "altitude": 328,
+    "speed": 0,
+    "location": { "latitude": 485675692, "longitude": 37272299 }
+  },
+  {
+    "id": "776",
+    "name": "Delivery Truck No. 776",
+    "altitude": 238,
+    "speed": 0,
+    "location": { "latitude": 479848237, "longitude": 59272620 }
+  },
+  {
+    "id": "777",
+    "name": "Delivery Truck No. 777",
+    "altitude": 290,
+    "speed": 0,
+    "location": { "latitude": 488134382, "longitude": 65593823 }
+  },
+  {
+    "id": "778",
+    "name": "Delivery Truck No. 778",
+    "altitude": 232,
+    "speed": 0,
+    "location": { "latitude": 493749544, "longitude": 32852227 }
+  },
+  {
+    "id": "779",
+    "name": "Delivery Truck No. 779",
+    "altitude": 254,
+    "speed": 0,
+    "location": { "latitude": 509720167, "longitude": 60989318 }
+  },
+  {
+    "id": "780",
+    "name": "Delivery Truck No. 780",
+    "altitude": 268,
+    "speed": 0,
+    "location": { "latitude": 498364197, "longitude": 44520256 }
+  },
+  {
+    "id": "781",
+    "name": "Delivery Truck No. 781",
+    "altitude": 339,
+    "speed": 0,
+    "location": { "latitude": 497923547, "longitude": 62151522 }
+  },
+  {
+    "id": "782",
+    "name": "Delivery Truck No. 782",
+    "altitude": 364,
+    "speed": 0,
+    "location": { "latitude": 475412875, "longitude": 52905304 }
+  },
+  {
+    "id": "783",
+    "name": "Delivery Truck No. 783",
+    "altitude": 393,
+    "speed": 0,
+    "location": { "latitude": 509984200, "longitude": 62000483 }
+  },
+  {
+    "id": "784",
+    "name": "Delivery Truck No. 784",
+    "altitude": 316,
+    "speed": 0,
+    "location": { "latitude": 506073147, "longitude": 33580887 }
+  },
+  {
+    "id": "785",
+    "name": "Delivery Truck No. 785",
+    "altitude": 279,
+    "speed": 0,
+    "location": { "latitude": 482288976, "longitude": 56513994 }
+  },
+  {
+    "id": "786",
+    "name": "Delivery Truck No. 786",
+    "altitude": 269,
+    "speed": 0,
+    "location": { "latitude": 507406756, "longitude": 30560364 }
+  },
+  {
+    "id": "787",
+    "name": "Delivery Truck No. 787",
+    "altitude": 357,
+    "speed": 0,
+    "location": { "latitude": 483879284, "longitude": 31618952 }
+  },
+  {
+    "id": "788",
+    "name": "Delivery Truck No. 788",
+    "altitude": 242,
+    "speed": 0,
+    "location": { "latitude": 493065679, "longitude": 41540145 }
+  },
+  {
+    "id": "789",
+    "name": "Delivery Truck No. 789",
+    "altitude": 293,
+    "speed": 0,
+    "location": { "latitude": 480949875, "longitude": 69243277 }
+  },
+  {
+    "id": "790",
+    "name": "Delivery Truck No. 790",
+    "altitude": 367,
+    "speed": 0,
+    "location": { "latitude": 486943298, "longitude": 56921134 }
+  },
+  {
+    "id": "791",
+    "name": "Delivery Truck No. 791",
+    "altitude": 267,
+    "speed": 0,
+    "location": { "latitude": 496468668, "longitude": 40358256 }
+  },
+  {
+    "id": "792",
+    "name": "Delivery Truck No. 792",
+    "altitude": 298,
+    "speed": 0,
+    "location": { "latitude": 470477486, "longitude": 40925203 }
+  },
+  {
+    "id": "793",
+    "name": "Delivery Truck No. 793",
+    "altitude": 307,
+    "speed": 0,
+    "location": { "latitude": 498679330, "longitude": 46479080 }
+  },
+  {
+    "id": "794",
+    "name": "Delivery Truck No. 794",
+    "altitude": 361,
+    "speed": 0,
+    "location": { "latitude": 480123765, "longitude": 57773367 }
+  },
+  {
+    "id": "795",
+    "name": "Delivery Truck No. 795",
+    "altitude": 264,
+    "speed": 0,
+    "location": { "latitude": 476077340, "longitude": 38157659 }
+  },
+  {
+    "id": "796",
+    "name": "Delivery Truck No. 796",
+    "altitude": 308,
+    "speed": 0,
+    "location": { "latitude": 476959116, "longitude": 56964645 }
+  },
+  {
+    "id": "797",
+    "name": "Delivery Truck No. 797",
+    "altitude": 404,
+    "speed": 0,
+    "location": { "latitude": 478957740, "longitude": 51170946 }
+  },
+  {
+    "id": "798",
+    "name": "Delivery Truck No. 798",
+    "altitude": 233,
+    "speed": 0,
+    "location": { "latitude": 500881825, "longitude": 49935439 }
+  },
+  {
+    "id": "799",
+    "name": "Delivery Truck No. 799",
+    "altitude": 392,
+    "speed": 0,
+    "location": { "latitude": 500177447, "longitude": 51776340 }
+  },
+  {
+    "id": "800",
+    "name": "Delivery Truck No. 800",
+    "altitude": 332,
+    "speed": 0,
+    "location": { "latitude": 475170994, "longitude": 46585096 }
+  },
+  {
+    "id": "801",
+    "name": "Delivery Truck No. 801",
+    "altitude": 243,
+    "speed": 0,
+    "location": { "latitude": 502056468, "longitude": 31166385 }
+  },
+  {
+    "id": "802",
+    "name": "Delivery Truck No. 802",
+    "altitude": 347,
+    "speed": 0,
+    "location": { "latitude": 476307780, "longitude": 35770805 }
+  },
+  {
+    "id": "803",
+    "name": "Delivery Truck No. 803",
+    "altitude": 259,
+    "speed": 0,
+    "location": { "latitude": 477017021, "longitude": 62396091 }
+  },
+  {
+    "id": "804",
+    "name": "Delivery Truck No. 804",
+    "altitude": 366,
+    "speed": 0,
+    "location": { "latitude": 480019709, "longitude": 61741005 }
+  },
+  {
+    "id": "805",
+    "name": "Delivery Truck No. 805",
+    "altitude": 311,
+    "speed": 0,
+    "location": { "latitude": 481927304, "longitude": 47509104 }
+  },
+  {
+    "id": "806",
+    "name": "Delivery Truck No. 806",
+    "altitude": 246,
+    "speed": 0,
+    "location": { "latitude": 489535212, "longitude": 42555161 }
+  },
+  {
+    "id": "807",
+    "name": "Delivery Truck No. 807",
+    "altitude": 270,
+    "speed": 0,
+    "location": { "latitude": 484806757, "longitude": 62489426 }
+  },
+  {
+    "id": "808",
+    "name": "Delivery Truck No. 808",
+    "altitude": 402,
+    "speed": 0,
+    "location": { "latitude": 506458873, "longitude": 61962260 }
+  },
+  {
+    "id": "809",
+    "name": "Delivery Truck No. 809",
+    "altitude": 383,
+    "speed": 0,
+    "location": { "latitude": 486967513, "longitude": 47614206 }
+  },
+  {
+    "id": "810",
+    "name": "Delivery Truck No. 810",
+    "altitude": 270,
+    "speed": 0,
+    "location": { "latitude": 477805044, "longitude": 45838090 }
+  },
+  {
+    "id": "811",
+    "name": "Delivery Truck No. 811",
+    "altitude": 256,
+    "speed": 0,
+    "location": { "latitude": 501827233, "longitude": 41082638 }
+  },
+  {
+    "id": "812",
+    "name": "Delivery Truck No. 812",
+    "altitude": 270,
+    "speed": 0,
+    "location": { "latitude": 496231912, "longitude": 58415814 }
+  },
+  {
+    "id": "813",
+    "name": "Delivery Truck No. 813",
+    "altitude": 346,
+    "speed": 0,
+    "location": { "latitude": 501827544, "longitude": 46136403 }
+  },
+  {
+    "id": "814",
+    "name": "Delivery Truck No. 814",
+    "altitude": 267,
+    "speed": 0,
+    "location": { "latitude": 475021440, "longitude": 41519848 }
+  },
+  {
+    "id": "815",
+    "name": "Delivery Truck No. 815",
+    "altitude": 261,
+    "speed": 0,
+    "location": { "latitude": 478361431, "longitude": 43456474 }
+  },
+  {
+    "id": "816",
+    "name": "Delivery Truck No. 816",
+    "altitude": 314,
+    "speed": 0,
+    "location": { "latitude": 472727633, "longitude": 65459540 }
+  },
+  {
+    "id": "817",
+    "name": "Delivery Truck No. 817",
+    "altitude": 290,
+    "speed": 0,
+    "location": { "latitude": 507891408, "longitude": 40512766 }
+  },
+  {
+    "id": "818",
+    "name": "Delivery Truck No. 818",
+    "altitude": 268,
+    "speed": 0,
+    "location": { "latitude": 504511545, "longitude": 49799149 }
+  },
+  {
+    "id": "819",
+    "name": "Delivery Truck No. 819",
+    "altitude": 282,
+    "speed": 0,
+    "location": { "latitude": 491953200, "longitude": 41513941 }
+  },
+  {
+    "id": "820",
+    "name": "Delivery Truck No. 820",
+    "altitude": 346,
+    "speed": 0,
+    "location": { "latitude": 492168652, "longitude": 55886638 }
+  },
+  {
+    "id": "821",
+    "name": "Delivery Truck No. 821",
+    "altitude": 332,
+    "speed": 0,
+    "location": { "latitude": 494256518, "longitude": 41708608 }
+  },
+  {
+    "id": "822",
+    "name": "Delivery Truck No. 822",
+    "altitude": 348,
+    "speed": 0,
+    "location": { "latitude": 495953670, "longitude": 37057834 }
+  },
+  {
+    "id": "823",
+    "name": "Delivery Truck No. 823",
+    "altitude": 253,
+    "speed": 0,
+    "location": { "latitude": 507177071, "longitude": 40849666 }
+  },
+  {
+    "id": "824",
+    "name": "Delivery Truck No. 824",
+    "altitude": 354,
+    "speed": 0,
+    "location": { "latitude": 485883052, "longitude": 33910368 }
+  },
+  {
+    "id": "825",
+    "name": "Delivery Truck No. 825",
+    "altitude": 262,
+    "speed": 0,
+    "location": { "latitude": 483624855, "longitude": 33970210 }
+  },
+  {
+    "id": "826",
+    "name": "Delivery Truck No. 826",
+    "altitude": 260,
+    "speed": 0,
+    "location": { "latitude": 475149536, "longitude": 34336490 }
+  },
+  {
+    "id": "827",
+    "name": "Delivery Truck No. 827",
+    "altitude": 282,
+    "speed": 0,
+    "location": { "latitude": 502354124, "longitude": 63773304 }
+  },
+  {
+    "id": "828",
+    "name": "Delivery Truck No. 828",
+    "altitude": 378,
+    "speed": 0,
+    "location": { "latitude": 496588037, "longitude": 40144149 }
+  },
+  {
+    "id": "829",
+    "name": "Delivery Truck No. 829",
+    "altitude": 329,
+    "speed": 0,
+    "location": { "latitude": 498331529, "longitude": 44094483 }
+  },
+  {
+    "id": "830",
+    "name": "Delivery Truck No. 830",
+    "altitude": 319,
+    "speed": 0,
+    "location": { "latitude": 484496762, "longitude": 69631995 }
+  },
+  {
+    "id": "831",
+    "name": "Delivery Truck No. 831",
+    "altitude": 334,
+    "speed": 0,
+    "location": { "latitude": 485730939, "longitude": 49202554 }
+  },
+  {
+    "id": "832",
+    "name": "Delivery Truck No. 832",
+    "altitude": 400,
+    "speed": 0,
+    "location": { "latitude": 500695253, "longitude": 57307274 }
+  },
+  {
+    "id": "833",
+    "name": "Delivery Truck No. 833",
+    "altitude": 307,
+    "speed": 0,
+    "location": { "latitude": 496058380, "longitude": 41348311 }
+  },
+  {
+    "id": "834",
+    "name": "Delivery Truck No. 834",
+    "altitude": 237,
+    "speed": 0,
+    "location": { "latitude": 481364355, "longitude": 69440978 }
+  },
+  {
+    "id": "835",
+    "name": "Delivery Truck No. 835",
+    "altitude": 256,
+    "speed": 0,
+    "location": { "latitude": 489546664, "longitude": 34041344 }
+  },
+  {
+    "id": "836",
+    "name": "Delivery Truck No. 836",
+    "altitude": 336,
+    "speed": 0,
+    "location": { "latitude": 506576506, "longitude": 39981638 }
+  },
+  {
+    "id": "837",
+    "name": "Delivery Truck No. 837",
+    "altitude": 375,
+    "speed": 0,
+    "location": { "latitude": 481342128, "longitude": 32975337 }
+  },
+  {
+    "id": "838",
+    "name": "Delivery Truck No. 838",
+    "altitude": 281,
+    "speed": 0,
+    "location": { "latitude": 488772764, "longitude": 52973735 }
+  },
+  {
+    "id": "839",
+    "name": "Delivery Truck No. 839",
+    "altitude": 349,
+    "speed": 0,
+    "location": { "latitude": 497246602, "longitude": 42339607 }
+  },
+  {
+    "id": "840",
+    "name": "Delivery Truck No. 840",
+    "altitude": 294,
+    "speed": 0,
+    "location": { "latitude": 493683235, "longitude": 54359122 }
+  },
+  {
+    "id": "841",
+    "name": "Delivery Truck No. 841",
+    "altitude": 350,
+    "speed": 0,
+    "location": { "latitude": 509954003, "longitude": 63887937 }
+  },
+  {
+    "id": "842",
+    "name": "Delivery Truck No. 842",
+    "altitude": 370,
+    "speed": 0,
+    "location": { "latitude": 494067018, "longitude": 39589545 }
+  },
+  {
+    "id": "843",
+    "name": "Delivery Truck No. 843",
+    "altitude": 389,
+    "speed": 0,
+    "location": { "latitude": 486684006, "longitude": 55945835 }
+  },
+  {
+    "id": "844",
+    "name": "Delivery Truck No. 844",
+    "altitude": 241,
+    "speed": 0,
+    "location": { "latitude": 509122320, "longitude": 56225572 }
+  },
+  {
+    "id": "845",
+    "name": "Delivery Truck No. 845",
+    "altitude": 238,
+    "speed": 0,
+    "location": { "latitude": 506888252, "longitude": 35060404 }
+  },
+  {
+    "id": "846",
+    "name": "Delivery Truck No. 846",
+    "altitude": 342,
+    "speed": 0,
+    "location": { "latitude": 476707108, "longitude": 45700940 }
+  },
+  {
+    "id": "847",
+    "name": "Delivery Truck No. 847",
+    "altitude": 347,
+    "speed": 0,
+    "location": { "latitude": 483057149, "longitude": 64009910 }
+  },
+  {
+    "id": "848",
+    "name": "Delivery Truck No. 848",
+    "altitude": 365,
+    "speed": 0,
+    "location": { "latitude": 486311681, "longitude": 43665418 }
+  },
+  {
+    "id": "849",
+    "name": "Delivery Truck No. 849",
+    "altitude": 310,
+    "speed": 0,
+    "location": { "latitude": 470439444, "longitude": 33408758 }
+  },
+  {
+    "id": "850",
+    "name": "Delivery Truck No. 850",
+    "altitude": 244,
+    "speed": 0,
+    "location": { "latitude": 493624623, "longitude": 62730390 }
+  },
+  {
+    "id": "851",
+    "name": "Delivery Truck No. 851",
+    "altitude": 235,
+    "speed": 0,
+    "location": { "latitude": 480148651, "longitude": 49197217 }
+  },
+  {
+    "id": "852",
+    "name": "Delivery Truck No. 852",
+    "altitude": 297,
+    "speed": 0,
+    "location": { "latitude": 481492492, "longitude": 53858034 }
+  },
+  {
+    "id": "853",
+    "name": "Delivery Truck No. 853",
+    "altitude": 323,
+    "speed": 0,
+    "location": { "latitude": 475682755, "longitude": 33122395 }
+  },
+  {
+    "id": "854",
+    "name": "Delivery Truck No. 854",
+    "altitude": 396,
+    "speed": 0,
+    "location": { "latitude": 491954252, "longitude": 31237613 }
+  },
+  {
+    "id": "855",
+    "name": "Delivery Truck No. 855",
+    "altitude": 333,
+    "speed": 0,
+    "location": { "latitude": 492067003, "longitude": 61300710 }
+  },
+  {
+    "id": "856",
+    "name": "Delivery Truck No. 856",
+    "altitude": 346,
+    "speed": 0,
+    "location": { "latitude": 508184574, "longitude": 60863850 }
+  },
+  {
+    "id": "857",
+    "name": "Delivery Truck No. 857",
+    "altitude": 316,
+    "speed": 0,
+    "location": { "latitude": 495317774, "longitude": 43254678 }
+  },
+  {
+    "id": "858",
+    "name": "Delivery Truck No. 858",
+    "altitude": 309,
+    "speed": 0,
+    "location": { "latitude": 472435680, "longitude": 37699281 }
+  },
+  {
+    "id": "859",
+    "name": "Delivery Truck No. 859",
+    "altitude": 245,
+    "speed": 0,
+    "location": { "latitude": 502308225, "longitude": 50013725 }
+  },
+  {
+    "id": "860",
+    "name": "Delivery Truck No. 860",
+    "altitude": 246,
+    "speed": 0,
+    "location": { "latitude": 478337367, "longitude": 67946490 }
+  },
+  {
+    "id": "861",
+    "name": "Delivery Truck No. 861",
+    "altitude": 372,
+    "speed": 0,
+    "location": { "latitude": 484099704, "longitude": 48551630 }
+  },
+  {
+    "id": "862",
+    "name": "Delivery Truck No. 862",
+    "altitude": 330,
+    "speed": 0,
+    "location": { "latitude": 485109866, "longitude": 46427748 }
+  },
+  {
+    "id": "863",
+    "name": "Delivery Truck No. 863",
+    "altitude": 371,
+    "speed": 0,
+    "location": { "latitude": 492104631, "longitude": 63984077 }
+  },
+  {
+    "id": "864",
+    "name": "Delivery Truck No. 864",
+    "altitude": 307,
+    "speed": 0,
+    "location": { "latitude": 492226925, "longitude": 30477823 }
+  },
+  {
+    "id": "865",
+    "name": "Delivery Truck No. 865",
+    "altitude": 244,
+    "speed": 0,
+    "location": { "latitude": 499275887, "longitude": 41178974 }
+  },
+  {
+    "id": "866",
+    "name": "Delivery Truck No. 866",
+    "altitude": 323,
+    "speed": 0,
+    "location": { "latitude": 494319723, "longitude": 36951142 }
+  },
+  {
+    "id": "867",
+    "name": "Delivery Truck No. 867",
+    "altitude": 368,
+    "speed": 0,
+    "location": { "latitude": 490948025, "longitude": 55461773 }
+  },
+  {
+    "id": "868",
+    "name": "Delivery Truck No. 868",
+    "altitude": 269,
+    "speed": 0,
+    "location": { "latitude": 476397150, "longitude": 37054964 }
+  },
+  {
+    "id": "869",
+    "name": "Delivery Truck No. 869",
+    "altitude": 396,
+    "speed": 0,
+    "location": { "latitude": 502322898, "longitude": 60441893 }
+  },
+  {
+    "id": "870",
+    "name": "Delivery Truck No. 870",
+    "altitude": 258,
+    "speed": 0,
+    "location": { "latitude": 475698274, "longitude": 45687667 }
+  },
+  {
+    "id": "871",
+    "name": "Delivery Truck No. 871",
+    "altitude": 304,
+    "speed": 0,
+    "location": { "latitude": 477283492, "longitude": 32340728 }
+  },
+  {
+    "id": "872",
+    "name": "Delivery Truck No. 872",
+    "altitude": 357,
+    "speed": 0,
+    "location": { "latitude": 507287804, "longitude": 67204507 }
+  },
+  {
+    "id": "873",
+    "name": "Delivery Truck No. 873",
+    "altitude": 291,
+    "speed": 0,
+    "location": { "latitude": 470869735, "longitude": 65798057 }
+  },
+  {
+    "id": "874",
+    "name": "Delivery Truck No. 874",
+    "altitude": 399,
+    "speed": 0,
+    "location": { "latitude": 495087503, "longitude": 34105783 }
+  },
+  {
+    "id": "875",
+    "name": "Delivery Truck No. 875",
+    "altitude": 291,
+    "speed": 0,
+    "location": { "latitude": 507738703, "longitude": 44519410 }
+  },
+  {
+    "id": "876",
+    "name": "Delivery Truck No. 876",
+    "altitude": 322,
+    "speed": 0,
+    "location": { "latitude": 493632179, "longitude": 44615370 }
+  },
+  {
+    "id": "877",
+    "name": "Delivery Truck No. 877",
+    "altitude": 365,
+    "speed": 0,
+    "location": { "latitude": 470466011, "longitude": 30867875 }
+  },
+  {
+    "id": "878",
+    "name": "Delivery Truck No. 878",
+    "altitude": 293,
+    "speed": 0,
+    "location": { "latitude": 494117030, "longitude": 30984290 }
+  },
+  {
+    "id": "879",
+    "name": "Delivery Truck No. 879",
+    "altitude": 313,
+    "speed": 0,
+    "location": { "latitude": 486588807, "longitude": 41435128 }
+  },
+  {
+    "id": "880",
+    "name": "Delivery Truck No. 880",
+    "altitude": 399,
+    "speed": 0,
+    "location": { "latitude": 477739632, "longitude": 42654254 }
+  },
+  {
+    "id": "881",
+    "name": "Delivery Truck No. 881",
+    "altitude": 381,
+    "speed": 0,
+    "location": { "latitude": 473272150, "longitude": 67708998 }
+  },
+  {
+    "id": "882",
+    "name": "Delivery Truck No. 882",
+    "altitude": 375,
+    "speed": 0,
+    "location": { "latitude": 473828040, "longitude": 45933926 }
+  },
+  {
+    "id": "883",
+    "name": "Delivery Truck No. 883",
+    "altitude": 284,
+    "speed": 0,
+    "location": { "latitude": 505656379, "longitude": 59725833 }
+  },
+  {
+    "id": "884",
+    "name": "Delivery Truck No. 884",
+    "altitude": 399,
+    "speed": 0,
+    "location": { "latitude": 506288216, "longitude": 38967681 }
+  },
+  {
+    "id": "885",
+    "name": "Delivery Truck No. 885",
+    "altitude": 306,
+    "speed": 0,
+    "location": { "latitude": 493426693, "longitude": 51882388 }
+  },
+  {
+    "id": "886",
+    "name": "Delivery Truck No. 886",
+    "altitude": 249,
+    "speed": 0,
+    "location": { "latitude": 507961027, "longitude": 32465376 }
+  },
+  {
+    "id": "887",
+    "name": "Delivery Truck No. 887",
+    "altitude": 336,
+    "speed": 0,
+    "location": { "latitude": 473089408, "longitude": 57587181 }
+  },
+  {
+    "id": "888",
+    "name": "Delivery Truck No. 888",
+    "altitude": 373,
+    "speed": 0,
+    "location": { "latitude": 503121469, "longitude": 37517681 }
+  },
+  {
+    "id": "889",
+    "name": "Delivery Truck No. 889",
+    "altitude": 250,
+    "speed": 0,
+    "location": { "latitude": 493110035, "longitude": 47853360 }
+  },
+  {
+    "id": "890",
+    "name": "Delivery Truck No. 890",
+    "altitude": 360,
+    "speed": 0,
+    "location": { "latitude": 498216283, "longitude": 54835732 }
+  },
+  {
+    "id": "891",
+    "name": "Delivery Truck No. 891",
+    "altitude": 396,
+    "speed": 0,
+    "location": { "latitude": 502253283, "longitude": 33418251 }
+  },
+  {
+    "id": "892",
+    "name": "Delivery Truck No. 892",
+    "altitude": 325,
+    "speed": 0,
+    "location": { "latitude": 482988461, "longitude": 40390012 }
+  },
+  {
+    "id": "893",
+    "name": "Delivery Truck No. 893",
+    "altitude": 405,
+    "speed": 0,
+    "location": { "latitude": 502320639, "longitude": 54895642 }
+  },
+  {
+    "id": "894",
+    "name": "Delivery Truck No. 894",
+    "altitude": 405,
+    "speed": 0,
+    "location": { "latitude": 502120908, "longitude": 69243711 }
+  },
+  {
+    "id": "895",
+    "name": "Delivery Truck No. 895",
+    "altitude": 240,
+    "speed": 0,
+    "location": { "latitude": 501144333, "longitude": 58552806 }
+  },
+  {
+    "id": "896",
+    "name": "Delivery Truck No. 896",
+    "altitude": 317,
+    "speed": 0,
+    "location": { "latitude": 493893086, "longitude": 50246340 }
+  },
+  {
+    "id": "897",
+    "name": "Delivery Truck No. 897",
+    "altitude": 235,
+    "speed": 0,
+    "location": { "latitude": 500812746, "longitude": 30838168 }
+  },
+  {
+    "id": "898",
+    "name": "Delivery Truck No. 898",
+    "altitude": 257,
+    "speed": 0,
+    "location": { "latitude": 501855835, "longitude": 32766366 }
+  },
+  {
+    "id": "899",
+    "name": "Delivery Truck No. 899",
+    "altitude": 353,
+    "speed": 0,
+    "location": { "latitude": 503470699, "longitude": 39742771 }
+  },
+  {
+    "id": "900",
+    "name": "Delivery Truck No. 900",
+    "altitude": 360,
+    "speed": 0,
+    "location": { "latitude": 487593145, "longitude": 63293972 }
+  },
+  {
+    "id": "901",
+    "name": "Delivery Truck No. 901",
+    "altitude": 387,
+    "speed": 0,
+    "location": { "latitude": 507458342, "longitude": 47305032 }
+  },
+  {
+    "id": "902",
+    "name": "Delivery Truck No. 902",
+    "altitude": 322,
+    "speed": 0,
+    "location": { "latitude": 484966434, "longitude": 32652873 }
+  },
+  {
+    "id": "903",
+    "name": "Delivery Truck No. 903",
+    "altitude": 281,
+    "speed": 0,
+    "location": { "latitude": 496149487, "longitude": 50316154 }
+  },
+  {
+    "id": "904",
+    "name": "Delivery Truck No. 904",
+    "altitude": 261,
+    "speed": 0,
+    "location": { "latitude": 493437949, "longitude": 62049219 }
+  },
+  {
+    "id": "905",
+    "name": "Delivery Truck No. 905",
+    "altitude": 363,
+    "speed": 0,
+    "location": { "latitude": 501603830, "longitude": 40260206 }
+  },
+  {
+    "id": "906",
+    "name": "Delivery Truck No. 906",
+    "altitude": 399,
+    "speed": 0,
+    "location": { "latitude": 483058175, "longitude": 51096726 }
+  },
+  {
+    "id": "907",
+    "name": "Delivery Truck No. 907",
+    "altitude": 297,
+    "speed": 0,
+    "location": { "latitude": 492434326, "longitude": 38784503 }
+  },
+  {
+    "id": "908",
+    "name": "Delivery Truck No. 908",
+    "altitude": 349,
+    "speed": 0,
+    "location": { "latitude": 496544195, "longitude": 54828992 }
+  },
+  {
+    "id": "909",
+    "name": "Delivery Truck No. 909",
+    "altitude": 259,
+    "speed": 0,
+    "location": { "latitude": 473162325, "longitude": 45616160 }
+  },
+  {
+    "id": "910",
+    "name": "Delivery Truck No. 910",
+    "altitude": 280,
+    "speed": 0,
+    "location": { "latitude": 486853553, "longitude": 57595360 }
+  },
+  {
+    "id": "911",
+    "name": "Delivery Truck No. 911",
+    "altitude": 326,
+    "speed": 0,
+    "location": { "latitude": 482519304, "longitude": 38544430 }
+  },
+  {
+    "id": "912",
+    "name": "Delivery Truck No. 912",
+    "altitude": 262,
+    "speed": 0,
+    "location": { "latitude": 477976470, "longitude": 65037293 }
+  },
+  {
+    "id": "913",
+    "name": "Delivery Truck No. 913",
+    "altitude": 325,
+    "speed": 0,
+    "location": { "latitude": 506125161, "longitude": 34528906 }
+  },
+  {
+    "id": "914",
+    "name": "Delivery Truck No. 914",
+    "altitude": 253,
+    "speed": 0,
+    "location": { "latitude": 480013696, "longitude": 35625526 }
+  },
+  {
+    "id": "915",
+    "name": "Delivery Truck No. 915",
+    "altitude": 384,
+    "speed": 0,
+    "location": { "latitude": 483744862, "longitude": 30948651 }
+  },
+  {
+    "id": "916",
+    "name": "Delivery Truck No. 916",
+    "altitude": 349,
+    "speed": 0,
+    "location": { "latitude": 502659771, "longitude": 41646614 }
+  },
+  {
+    "id": "917",
+    "name": "Delivery Truck No. 917",
+    "altitude": 403,
+    "speed": 0,
+    "location": { "latitude": 496176677, "longitude": 53695868 }
+  },
+  {
+    "id": "918",
+    "name": "Delivery Truck No. 918",
+    "altitude": 277,
+    "speed": 0,
+    "location": { "latitude": 484506523, "longitude": 61394075 }
+  },
+  {
+    "id": "919",
+    "name": "Delivery Truck No. 919",
+    "altitude": 388,
+    "speed": 0,
+    "location": { "latitude": 481239091, "longitude": 33308876 }
+  },
+  {
+    "id": "920",
+    "name": "Delivery Truck No. 920",
+    "altitude": 290,
+    "speed": 0,
+    "location": { "latitude": 477583439, "longitude": 42421141 }
+  },
+  {
+    "id": "921",
+    "name": "Delivery Truck No. 921",
+    "altitude": 298,
+    "speed": 0,
+    "location": { "latitude": 507650298, "longitude": 56651369 }
+  },
+  {
+    "id": "922",
+    "name": "Delivery Truck No. 922",
+    "altitude": 255,
+    "speed": 0,
+    "location": { "latitude": 496092234, "longitude": 66485764 }
+  },
+  {
+    "id": "923",
+    "name": "Delivery Truck No. 923",
+    "altitude": 325,
+    "speed": 0,
+    "location": { "latitude": 498809947, "longitude": 53626945 }
+  },
+  {
+    "id": "924",
+    "name": "Delivery Truck No. 924",
+    "altitude": 280,
+    "speed": 0,
+    "location": { "latitude": 471368502, "longitude": 67657908 }
+  },
+  {
+    "id": "925",
+    "name": "Delivery Truck No. 925",
+    "altitude": 298,
+    "speed": 0,
+    "location": { "latitude": 483542798, "longitude": 39431390 }
+  },
+  {
+    "id": "926",
+    "name": "Delivery Truck No. 926",
+    "altitude": 361,
+    "speed": 0,
+    "location": { "latitude": 491223864, "longitude": 37512631 }
+  },
+  {
+    "id": "927",
+    "name": "Delivery Truck No. 927",
+    "altitude": 237,
+    "speed": 0,
+    "location": { "latitude": 483792259, "longitude": 33977528 }
+  },
+  {
+    "id": "928",
+    "name": "Delivery Truck No. 928",
+    "altitude": 311,
+    "speed": 0,
+    "location": { "latitude": 481301804, "longitude": 46264340 }
+  },
+  {
+    "id": "929",
+    "name": "Delivery Truck No. 929",
+    "altitude": 383,
+    "speed": 0,
+    "location": { "latitude": 485808896, "longitude": 54978276 }
+  },
+  {
+    "id": "930",
+    "name": "Delivery Truck No. 930",
+    "altitude": 338,
+    "speed": 0,
+    "location": { "latitude": 481104284, "longitude": 45901483 }
+  },
+  {
+    "id": "931",
+    "name": "Delivery Truck No. 931",
+    "altitude": 245,
+    "speed": 0,
+    "location": { "latitude": 500112126, "longitude": 31612681 }
+  },
+  {
+    "id": "932",
+    "name": "Delivery Truck No. 932",
+    "altitude": 348,
+    "speed": 0,
+    "location": { "latitude": 482690286, "longitude": 56687528 }
+  },
+  {
+    "id": "933",
+    "name": "Delivery Truck No. 933",
+    "altitude": 353,
+    "speed": 0,
+    "location": { "latitude": 504683460, "longitude": 58649782 }
+  },
+  {
+    "id": "934",
+    "name": "Delivery Truck No. 934",
+    "altitude": 350,
+    "speed": 0,
+    "location": { "latitude": 481460739, "longitude": 55148130 }
+  },
+  {
+    "id": "935",
+    "name": "Delivery Truck No. 935",
+    "altitude": 406,
+    "speed": 0,
+    "location": { "latitude": 476021196, "longitude": 39336251 }
+  },
+  {
+    "id": "936",
+    "name": "Delivery Truck No. 936",
+    "altitude": 279,
+    "speed": 0,
+    "location": { "latitude": 495348214, "longitude": 64965377 }
+  },
+  {
+    "id": "937",
+    "name": "Delivery Truck No. 937",
+    "altitude": 233,
+    "speed": 0,
+    "location": { "latitude": 480004728, "longitude": 40140647 }
+  },
+  {
+    "id": "938",
+    "name": "Delivery Truck No. 938",
+    "altitude": 363,
+    "speed": 0,
+    "location": { "latitude": 507221207, "longitude": 60885823 }
+  },
+  {
+    "id": "939",
+    "name": "Delivery Truck No. 939",
+    "altitude": 332,
+    "speed": 0,
+    "location": { "latitude": 482641768, "longitude": 65337787 }
+  },
+  {
+    "id": "940",
+    "name": "Delivery Truck No. 940",
+    "altitude": 369,
+    "speed": 0,
+    "location": { "latitude": 481721493, "longitude": 64286190 }
+  },
+  {
+    "id": "941",
+    "name": "Delivery Truck No. 941",
+    "altitude": 276,
+    "speed": 0,
+    "location": { "latitude": 492096500, "longitude": 32131627 }
+  },
+  {
+    "id": "942",
+    "name": "Delivery Truck No. 942",
+    "altitude": 232,
+    "speed": 0,
+    "location": { "latitude": 481460362, "longitude": 51392701 }
+  },
+  {
+    "id": "943",
+    "name": "Delivery Truck No. 943",
+    "altitude": 377,
+    "speed": 0,
+    "location": { "latitude": 477796413, "longitude": 56806703 }
+  },
+  {
+    "id": "944",
+    "name": "Delivery Truck No. 944",
+    "altitude": 332,
+    "speed": 0,
+    "location": { "latitude": 486940838, "longitude": 64955239 }
+  },
+  {
+    "id": "945",
+    "name": "Delivery Truck No. 945",
+    "altitude": 254,
+    "speed": 0,
+    "location": { "latitude": 473818463, "longitude": 43808376 }
+  },
+  {
+    "id": "946",
+    "name": "Delivery Truck No. 946",
+    "altitude": 406,
+    "speed": 0,
+    "location": { "latitude": 499655018, "longitude": 49537173 }
+  },
+  {
+    "id": "947",
+    "name": "Delivery Truck No. 947",
+    "altitude": 255,
+    "speed": 0,
+    "location": { "latitude": 490095371, "longitude": 31624501 }
+  },
+  {
+    "id": "948",
+    "name": "Delivery Truck No. 948",
+    "altitude": 387,
+    "speed": 0,
+    "location": { "latitude": 509508176, "longitude": 40230371 }
+  },
+  {
+    "id": "949",
+    "name": "Delivery Truck No. 949",
+    "altitude": 270,
+    "speed": 0,
+    "location": { "latitude": 480458518, "longitude": 33261706 }
+  },
+  {
+    "id": "950",
+    "name": "Delivery Truck No. 950",
+    "altitude": 271,
+    "speed": 0,
+    "location": { "latitude": 484254581, "longitude": 66279022 }
+  },
+  {
+    "id": "951",
+    "name": "Delivery Truck No. 951",
+    "altitude": 317,
+    "speed": 0,
+    "location": { "latitude": 478356420, "longitude": 57129715 }
+  },
+  {
+    "id": "952",
+    "name": "Delivery Truck No. 952",
+    "altitude": 373,
+    "speed": 0,
+    "location": { "latitude": 505623548, "longitude": 48333422 }
+  },
+  {
+    "id": "953",
+    "name": "Delivery Truck No. 953",
+    "altitude": 295,
+    "speed": 0,
+    "location": { "latitude": 509439009, "longitude": 38453376 }
+  },
+  {
+    "id": "954",
+    "name": "Delivery Truck No. 954",
+    "altitude": 404,
+    "speed": 0,
+    "location": { "latitude": 501532631, "longitude": 61450509 }
+  },
+  {
+    "id": "955",
+    "name": "Delivery Truck No. 955",
+    "altitude": 324,
+    "speed": 0,
+    "location": { "latitude": 505309995, "longitude": 37343059 }
+  },
+  {
+    "id": "956",
+    "name": "Delivery Truck No. 956",
+    "altitude": 293,
+    "speed": 0,
+    "location": { "latitude": 480177699, "longitude": 46576926 }
+  },
+  {
+    "id": "957",
+    "name": "Delivery Truck No. 957",
+    "altitude": 306,
+    "speed": 0,
+    "location": { "latitude": 483998681, "longitude": 59598310 }
+  },
+  {
+    "id": "958",
+    "name": "Delivery Truck No. 958",
+    "altitude": 307,
+    "speed": 0,
+    "location": { "latitude": 478636211, "longitude": 37260801 }
+  },
+  {
+    "id": "959",
+    "name": "Delivery Truck No. 959",
+    "altitude": 296,
+    "speed": 0,
+    "location": { "latitude": 470468055, "longitude": 59033784 }
+  },
+  {
+    "id": "960",
+    "name": "Delivery Truck No. 960",
+    "altitude": 357,
+    "speed": 0,
+    "location": { "latitude": 497040336, "longitude": 38283215 }
+  },
+  {
+    "id": "961",
+    "name": "Delivery Truck No. 961",
+    "altitude": 264,
+    "speed": 0,
+    "location": { "latitude": 504315971, "longitude": 55151502 }
+  },
+  {
+    "id": "962",
+    "name": "Delivery Truck No. 962",
+    "altitude": 302,
+    "speed": 0,
+    "location": { "latitude": 499551427, "longitude": 38310908 }
+  },
+  {
+    "id": "963",
+    "name": "Delivery Truck No. 963",
+    "altitude": 311,
+    "speed": 0,
+    "location": { "latitude": 476464154, "longitude": 62661736 }
+  },
+  {
+    "id": "964",
+    "name": "Delivery Truck No. 964",
+    "altitude": 290,
+    "speed": 0,
+    "location": { "latitude": 489736108, "longitude": 45834428 }
+  },
+  {
+    "id": "965",
+    "name": "Delivery Truck No. 965",
+    "altitude": 370,
+    "speed": 0,
+    "location": { "latitude": 499979853, "longitude": 50698647 }
+  },
+  {
+    "id": "966",
+    "name": "Delivery Truck No. 966",
+    "altitude": 342,
+    "speed": 0,
+    "location": { "latitude": 470833054, "longitude": 56137070 }
+  },
+  {
+    "id": "967",
+    "name": "Delivery Truck No. 967",
+    "altitude": 374,
+    "speed": 0,
+    "location": { "latitude": 474302913, "longitude": 50906249 }
+  },
+  {
+    "id": "968",
+    "name": "Delivery Truck No. 968",
+    "altitude": 292,
+    "speed": 0,
+    "location": { "latitude": 492943798, "longitude": 32921895 }
+  },
+  {
+    "id": "969",
+    "name": "Delivery Truck No. 969",
+    "altitude": 387,
+    "speed": 0,
+    "location": { "latitude": 473089661, "longitude": 67547202 }
+  },
+  {
+    "id": "970",
+    "name": "Delivery Truck No. 970",
+    "altitude": 324,
+    "speed": 0,
+    "location": { "latitude": 483270955, "longitude": 65152474 }
+  },
+  {
+    "id": "971",
+    "name": "Delivery Truck No. 971",
+    "altitude": 404,
+    "speed": 0,
+    "location": { "latitude": 502780045, "longitude": 58357723 }
+  },
+  {
+    "id": "972",
+    "name": "Delivery Truck No. 972",
+    "altitude": 394,
+    "speed": 0,
+    "location": { "latitude": 509904468, "longitude": 33544716 }
+  },
+  {
+    "id": "973",
+    "name": "Delivery Truck No. 973",
+    "altitude": 391,
+    "speed": 0,
+    "location": { "latitude": 471953034, "longitude": 51477634 }
+  },
+  {
+    "id": "974",
+    "name": "Delivery Truck No. 974",
+    "altitude": 259,
+    "speed": 0,
+    "location": { "latitude": 470626667, "longitude": 51566785 }
+  },
+  {
+    "id": "975",
+    "name": "Delivery Truck No. 975",
+    "altitude": 236,
+    "speed": 0,
+    "location": { "latitude": 470587671, "longitude": 64674319 }
+  },
+  {
+    "id": "976",
+    "name": "Delivery Truck No. 976",
+    "altitude": 401,
+    "speed": 0,
+    "location": { "latitude": 485909821, "longitude": 35311640 }
+  },
+  {
+    "id": "977",
+    "name": "Delivery Truck No. 977",
+    "altitude": 319,
+    "speed": 0,
+    "location": { "latitude": 495143518, "longitude": 31841720 }
+  },
+  {
+    "id": "978",
+    "name": "Delivery Truck No. 978",
+    "altitude": 250,
+    "speed": 0,
+    "location": { "latitude": 491682842, "longitude": 56376782 }
+  },
+  {
+    "id": "979",
+    "name": "Delivery Truck No. 979",
+    "altitude": 234,
+    "speed": 0,
+    "location": { "latitude": 489896425, "longitude": 60271166 }
+  },
+  {
+    "id": "980",
+    "name": "Delivery Truck No. 980",
+    "altitude": 338,
+    "speed": 0,
+    "location": { "latitude": 500663126, "longitude": 64496252 }
+  },
+  {
+    "id": "981",
+    "name": "Delivery Truck No. 981",
+    "altitude": 376,
+    "speed": 0,
+    "location": { "latitude": 498792432, "longitude": 47667561 }
+  },
+  {
+    "id": "982",
+    "name": "Delivery Truck No. 982",
+    "altitude": 320,
+    "speed": 0,
+    "location": { "latitude": 499133545, "longitude": 50532411 }
+  },
+  {
+    "id": "983",
+    "name": "Delivery Truck No. 983",
+    "altitude": 310,
+    "speed": 0,
+    "location": { "latitude": 477591398, "longitude": 54984602 }
+  },
+  {
+    "id": "984",
+    "name": "Delivery Truck No. 984",
+    "altitude": 294,
+    "speed": 0,
+    "location": { "latitude": 502012415, "longitude": 47981461 }
+  },
+  {
+    "id": "985",
+    "name": "Delivery Truck No. 985",
+    "altitude": 326,
+    "speed": 0,
+    "location": { "latitude": 508522277, "longitude": 30813176 }
+  },
+  {
+    "id": "986",
+    "name": "Delivery Truck No. 986",
+    "altitude": 274,
+    "speed": 0,
+    "location": { "latitude": 474107666, "longitude": 66712926 }
+  },
+  {
+    "id": "987",
+    "name": "Delivery Truck No. 987",
+    "altitude": 317,
+    "speed": 0,
+    "location": { "latitude": 489642734, "longitude": 56035402 }
+  },
+  {
+    "id": "988",
+    "name": "Delivery Truck No. 988",
+    "altitude": 365,
+    "speed": 0,
+    "location": { "latitude": 496494826, "longitude": 56916135 }
+  },
+  {
+    "id": "989",
+    "name": "Delivery Truck No. 989",
+    "altitude": 304,
+    "speed": 0,
+    "location": { "latitude": 488013633, "longitude": 46965248 }
+  },
+  {
+    "id": "990",
+    "name": "Delivery Truck No. 990",
+    "altitude": 306,
+    "speed": 0,
+    "location": { "latitude": 497708800, "longitude": 36130719 }
+  },
+  {
+    "id": "991",
+    "name": "Delivery Truck No. 991",
+    "altitude": 367,
+    "speed": 0,
+    "location": { "latitude": 494716312, "longitude": 45687838 }
+  },
+  {
+    "id": "992",
+    "name": "Delivery Truck No. 992",
+    "altitude": 323,
+    "speed": 0,
+    "location": { "latitude": 489235823, "longitude": 67392835 }
+  },
+  {
+    "id": "993",
+    "name": "Delivery Truck No. 993",
+    "altitude": 270,
+    "speed": 0,
+    "location": { "latitude": 505098425, "longitude": 43412721 }
+  },
+  {
+    "id": "994",
+    "name": "Delivery Truck No. 994",
+    "altitude": 277,
+    "speed": 0,
+    "location": { "latitude": 474718804, "longitude": 67855151 }
+  },
+  {
+    "id": "995",
+    "name": "Delivery Truck No. 995",
+    "altitude": 249,
+    "speed": 0,
+    "location": { "latitude": 476874130, "longitude": 43203908 }
+  },
+  {
+    "id": "996",
+    "name": "Delivery Truck No. 996",
+    "altitude": 371,
+    "speed": 0,
+    "location": { "latitude": 509878122, "longitude": 50996941 }
+  },
+  {
+    "id": "997",
+    "name": "Delivery Truck No. 997",
+    "altitude": 405,
+    "speed": 0,
+    "location": { "latitude": 504503100, "longitude": 32151027 }
+  },
+  {
+    "id": "998",
+    "name": "Delivery Truck No. 998",
+    "altitude": 243,
+    "speed": 0,
+    "location": { "latitude": 489606024, "longitude": 30104200 }
+  },
+  {
+    "id": "999",
+    "name": "Delivery Truck No. 999",
+    "altitude": 356,
+    "speed": 0,
+    "location": { "latitude": 495129113, "longitude": 54065273 }
+  },
+  {
+    "id": "1000",
+    "name": "Delivery Truck No. 1000",
+    "altitude": 278,
+    "speed": 0,
+    "location": { "latitude": 498156921, "longitude": 61030012 }
+  }
+]

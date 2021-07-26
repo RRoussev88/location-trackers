@@ -1,7 +1,7 @@
 admin:
   access_log_path: /tmp/admin_access.log
   address:
-    socket_address: { address: 0.0.0.0, port_value: 9001 }
+    socket_address: { address: 0.0.0.0, port_value: 9901 }
 
 static_resources:
   listeners:
@@ -15,6 +15,7 @@ static_resources:
                 "@type": type.googleapis.com/envoy.extensions.filters.network.http_connection_manager.v3.HttpConnectionManager
                 codec_type: auto
                 stat_prefix: ingress_http
+                stream_idle_timeout: 0s
                 route_config:
                   name: local_route
                   virtual_hosts:
@@ -24,7 +25,7 @@ static_resources:
                         - match: { prefix: "/" }
                           route:
                             cluster: location_trackers_service
-                            timeout: 0s
+                            max_grpc_timeout: 0s
                             max_stream_duration:
                               grpc_timeout_header_max: 0s
                       cors:
@@ -44,6 +45,7 @@ static_resources:
       type: logical_dns
       http2_protocol_options: {}
       lb_policy: round_robin
+      # win/mac hosts: Use address: host.docker.internal instead of address: localhost in the line below
       load_assignment:
         cluster_name: cluster_0
         endpoints:
@@ -51,5 +53,5 @@ static_resources:
               - endpoint:
                   address:
                     socket_address:
-                      address: node-server
-                      port_value: 9000
+                      address: host.docker.internal
+                      port_value: 9090

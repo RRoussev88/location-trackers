@@ -1,9 +1,9 @@
 export interface LatLng {
-  lat: number;
-  lng: number;
+  latitude: number;
+  longitude: number;
 }
 
-export interface Report {
+export interface Tracker {
   id: string;
   location: LatLng;
   altitude: number;

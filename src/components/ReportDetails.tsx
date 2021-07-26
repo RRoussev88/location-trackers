@@ -1,9 +1,9 @@
 import { FC } from "react";
-import { Report } from "types";
+import { Tracker } from "types";
 import truckImg from 'assets/tow-truck.png';
 
 interface ReportDetailsProps {
-  report: Report;
+  report: Tracker;
 }
 
 const ReportDetails: FC<ReportDetailsProps> = ({ report }) => (
@@ -30,8 +30,8 @@ const ReportDetails: FC<ReportDetailsProps> = ({ report }) => (
       </div>
       <div className="report-details__data__column report-details__column__values">
         <p>{report.speed} Km/h</p>
-        <p>{report.location.lng.toFixed(6)}</p>
-        <p>{report.location.lat.toFixed(6)}</p>
+        <p>{report.location.longitude.toFixed(6)}</p>
+        <p>{report.location.latitude.toFixed(6)}</p>
         <p>{report.altitude} m</p>
       </div>
     </div>

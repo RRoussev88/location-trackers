@@ -1,21 +1,21 @@
-import { FC } from "react";
+import { FC, memo } from "react";
 import { Marker } from "react-map-gl";
-import { Report } from "types";
+import { Tracker } from "types";
 
 interface PinsProps {
-  reports: Report[];
-  onClick: (report: Report) => void;
+  trackers: Tracker[];
+  onClick: (report: Tracker) => void;
 }
 
 const PIN_SIZE = 36;
 
-const Pins: FC<PinsProps> = ({ reports: data, onClick }) => (
+const Pins: FC<PinsProps> = ({ trackers, onClick }) => (
   <>
-    {data.map((report) => (
+    {trackers.map((report) => (
       <Marker
         key={report.id}
-        longitude={report.location.lng}
-        latitude={report.location.lat}
+        longitude={report.location.longitude}
+        latitude={report.location.latitude}
       >
         <svg
           xmlns="http://www.w3.org/2000/svg"
@@ -40,4 +40,4 @@ const Pins: FC<PinsProps> = ({ reports: data, onClick }) => (
   </>
 );
 
-export default Pins;
+export default memo(Pins);
