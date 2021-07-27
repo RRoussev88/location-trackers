@@ -1,6 +1,6 @@
 import { FC } from "react";
 import { Tracker } from "types";
-import truckImg from 'assets/tow-truck.png';
+import truckImg from "assets/tow-truck.png";
 
 interface ReportDetailsProps {
   report: Tracker;
@@ -9,7 +9,7 @@ interface ReportDetailsProps {
 const ReportDetails: FC<ReportDetailsProps> = ({ report }) => (
   <div className="report-details__content">
     <div className="report-details__image">
-      <img width={100} height={70} src={truckImg} alt="tow truck"/>
+      <img width={100} height={70} src={truckImg} alt="tow truck" />
     </div>
     <h4 className="report-details__name">{report.name}</h4>
     <p
@@ -30,8 +30,14 @@ const ReportDetails: FC<ReportDetailsProps> = ({ report }) => (
       </div>
       <div className="report-details__data__column report-details__column__values">
         <p>{report.speed} Km/h</p>
-        <p>{report.location.longitude.toFixed(6)}</p>
-        <p>{report.location.latitude.toFixed(6)}</p>
+        <p>
+          {report.location.longitude.toFixed(6)}{" "}
+          {report.location.longitude >= 0 ? "N" : "S"}
+        </p>
+        <p>
+          {report.location.latitude.toFixed(6)}{" "}
+          {report.location.latitude >= 0 ? "E" : "W"}
+        </p>
         <p>{report.altitude} m</p>
       </div>
     </div>

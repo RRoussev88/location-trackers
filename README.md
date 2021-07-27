@@ -2,6 +2,7 @@
 
 To run the project you need to take the following steps:
 
+- Register in MApgl and create access token. Create `.env.local` file and create `REACT_APP_MAPBOX_TOKEN` entry with the token.
 - Clone the repo and navigate to the project folder: `cd location-trackers`
 - In the terminal run `npm install` to install required npm dependencies for the frontend project
 - Navigate to src directory and build docker image in order to run Envoy proxy. Use the following command: `docker build -t location_trackers_envoy .`
